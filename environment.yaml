@@ -1,0 +1,35 @@
+name: ebv-typing
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  # Snakemake controller environment.
+  # Keep Snakemake 7.x because the project documentation and command examples
+  # were written for that CLI. PuLP is pinned to avoid a known API mismatch in
+  # older Snakemake releases.
+  - python=3.10
+  - snakemake=7.32.4
+  - pulp<2.8
+
+  # Alignment, read processing, variant calling, intervals, and counting.
+  - fastp=0.23.4
+  - hisat2=2.2.1
+  - samtools=1.18
+  - bcftools=1.18
+  # htslib provides both bgzip and tabix executables.
+  - htslib=1.18
+  - bedtools=2.31.0
+  - subread=2.0.6
+
+  # Python analysis scripts used by rules without an explicit conda env.
+  - pandas=2.1
+  - numpy=1.26
+  - matplotlib=3.8
+  - seaborn=0.13
+  - pysam=0.22
+  - mappy=2.27
+  - biopython=1.83
+
+  # General runtime helpers.
+  - pip

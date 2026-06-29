@@ -1,0 +1,116 @@
+# =============================================================================
+# EBV Type 1/2 Identification Pipeline — Configuration
+# =============================================================================
+# This config is consumed by the Snakemake workflow.  Edit the `samples`
+# block to point at your FASTQ files, then run:
+#   snakemake --use-conda -j 4
+#
+# All paths are relative to the pipeline root (the directory containing
+# the Snakefile) unless absolute.
+
+# -----------------------------------------------------------------------------
+# Samples — one entry per RNA-seq library.
+#   r1 : forward reads (required)
+#   r2 : reverse reads (optional; omit for single-end)
+# -----------------------------------------------------------------------------
+samples:
+  CR101-2025:
+    # r1: "/media/desk16/iyun2115/00.PROJECT/EBV/dat/CR029-D59.R1.fq.gz"
+    # r2: "/media/desk16/iyun2115/00.PROJECT/EBV/dat/CR029-D59.R2.fq.gz"
+    r1: "/media/desk16/share/Weekly_process/ZhaoWenbo/EBV/data/rawdata/CR101-20251201.raw_1.fastq.gz"
+    r2: "/media/desk16/share/Weekly_process/ZhaoWenbo/EBV/data/rawdata/CR101-20251201.raw_2.fastq.gz"
+  CR101-2026:
+     r1: "/media/desk16/share/Weekly_process/ZhaoWenbo/EBV/data/rawdata/CR101-20260101.raw_1.fastq.gz"
+     r2: "/media/desk16/share/Weekly_process/ZhaoWenbo/EBV/data/rawdata/CR101-20260101.raw_2.fastq.gz"
+
+# -----------------------------------------------------------------------------
+# References
+#   EBV-1 : NC_007605.1 (B95-8 strain, type 1 prototype)
+#   EBV-2 : NC_009334.1 (AG876 strain, type 2 prototype)
+#   Human : GRCh38 (for host-read filtering)
+#
+# The EBV references and their GTF/SNP tables are pre-built by
+# `workflow/scripts/prepare_references.py` and live in resources/.
+# The human reference must be provided by the user (or downloaded
+# automatically by the references rule — see references.smk).
+# -----------------------------------------------------------------------------
+refs:
+  ebv1_fa:  "resources/ebv1_reference.fa"
+  ebv2_fa:  "resources/ebv2_reference.fa"
+  ebv1_gtf: "resources/ebv1_genes.gtf"
+  ebv2_gtf: "resources/ebv2_genes.gtf"
+  type_specific_snps:    "resources/type_specific_snps.tsv"
+  ebv1_vs_ebv2_snps:     "resources/ebv1_vs_ebv2_snps.tsv"
+  gene_categories:       "resources/ebv_gene_categories.tsv"
+  # Human reference — set path or leave as "auto" to download GRCh38
+  human_fa:  "/media/desk16/share/index/cellranger/refdata-gex-GRCh38-2024-A/fasta/genome.fa"
+  human_gtf: "/media/desk16/share/index/cellranger/refdata-gex-GRCh38-2024-A/genes/genes.gtf"
+
+# -----------------------------------------------------------------------------
+# QC parameters (fastp)
+# -----------------------------------------------------------------------------
+fastp:
+  qualified_quality_phred: 20   # trim bases below Q20
+  length_required: 30           # discard reads shorter than 30 nt
+  detect_adapter_for_pe: true   # auto-detect adapters for PE data
+
+# -----------------------------------------------------------------------------
+# Alignment parameters (HISAT2)
+# -----------------------------------------------------------------------------
+hisat2:
+  human_filter_extra: "--very-sensitive"          # for host-read removal
+  ebv_extra: "--very-sensitive --no-spliced-alignment"  # EBV is a DNA virus
+
+# -----------------------------------------------------------------------------
+# SNP calling parameters (bcftools)
+# -----------------------------------------------------------------------------
+bcftools:
+  min_base_quality: 20     # minimum base quality to consider for SNP calling
+  min_mapping_quality: 20  # minimum mapping quality
+  min_depth: 3             # minimum read depth at a position to call a SNP
+
+# -----------------------------------------------------------------------------
+# Typing thresholds
+# -----------------------------------------------------------------------------
+typing:
+  # Minimum total EBV-mapped reads for any typing attempt
+  min_ebv_reads: 1000
+
+  # Minimum reads in a region to use it for region-specific typing
+  min_ebna2_reads: 100
+  min_ebna3_reads: 100
+
+  # Minimum callable type-specific SNPs for SNP-based typing
+  min_type_snps: 20
+
+  # Concordance score threshold for "high" confidence
+  # (fraction of callable type-specific SNPs that agree with the called type)
+  high_confidence_threshold: 0.85
+
+  # Coverage ratio threshold for "high" confidence
+  # (log2 ratio of reads mapped to type-1 vs type-2 reference in a region)
+  coverage_log2_threshold: 1.0
+
+# -----------------------------------------------------------------------------
+# Latency assessment thresholds (TPM)
+# -----------------------------------------------------------------------------
+latency:
+  expressed_tpm: 10    # gene considered "expressed" if TPM > this
+  absent_tpm: 1        # gene considered "absent" if TPM < this
+  # Latency classification logic:
+  #   Latency III : EBNA2 + EBNA3A/3B/3C + LMP1 + LMP2A all expressed
+  #   Latency II  : LMP1 and/or LMP2A expressed, EBNA2 absent
+  #   Latency I   : only EBNA1 + EBER1/2 expressed
+  #   Lytic       : lytic genes > 50% of total EBV expression
+
+# -----------------------------------------------------------------------------
+# Output directories (relative to pipeline root)
+# -----------------------------------------------------------------------------
+output_dirs:
+  qc:            "results/qc"
+  alignment:     "results/alignment"
+  expression:    "results/expression"
+  typing:        "results/typing"
+  recombination: "results/recombination"
+  transcriptome: "results/transcriptome"
+  figures:       "results/figures"
