@@ -169,30 +169,63 @@ def plot_latent_lytic_pie(df, gene_categories, out_path, sample_name):
     print(f"  Saved: {out_path}")
 
 
-def plot_genome_coverage(bam_path, out_path, sample_name, ref_name):
-    """Plot read depth across the EBV genome."""
+def compute_genome_coverage_profile(bam_path):
+    """Return windowed read depth across one EBV genome alignment."""
     bam = pysam.AlignmentFile(bam_path, 'rb')
-    ref_length = bam.get_reference_length(bam.references[0])
+    ref_name = bam.references[0]
+    ref_length = bam.get_reference_length(ref_name)
 
     # Compute per-base depth (sample every 100 bp for speed)
     window = 100
     positions = []
     depths = []
     for pos in range(1, ref_length + 1, window):
-        depth = bam.count_coverage(bam.references[0], start=pos-1, end=pos+window-1)
+        end = min(pos + window - 1, ref_length)
+        depth = bam.count_coverage(ref_name, start=pos-1, end=end)
         # Sum across all 4 bases
         total = sum(sum(base_depths) for base_depths in depth)
-        avg_depth = total / window
+        avg_depth = total / max(1, end - pos + 1)
         positions.append(pos)
         depths.append(avg_depth)
     bam.close()
+    return positions, depths, ref_length
 
-    fig, ax = plt.subplots(figsize=(12, 4))
-    ax.fill_between(positions, depths, color=PHYLO_COLORS['blue'], alpha=0.7)
+
+def draw_genome_coverage(ax, positions, depths, ref_length, sample_name, ref_name, color):
+    """Draw one EBV genome coverage profile on an axis."""
+    ax.fill_between(positions, depths, color=color, alpha=0.7)
     ax.set_xlabel(f'Position on {ref_name}', fontsize=11)
     ax.set_ylabel('Average read depth', fontsize=11)
     ax.set_title(f'{sample_name}: EBV Genome Coverage ({ref_name})', fontsize=13)
     ax.set_xlim(0, ref_length)
+
+
+def plot_genome_coverage(bam_path, out_path, sample_name, ref_name, color):
+    """Plot read depth across one EBV genome."""
+    positions, depths, ref_length = compute_genome_coverage_profile(bam_path)
+
+    fig, ax = plt.subplots(figsize=(12, 4))
+    draw_genome_coverage(ax, positions, depths, ref_length, sample_name, ref_name, color)
+    plt.tight_layout()
+    plt.savefig(out_path, dpi=150)
+    plt.close()
+    print(f"  Saved: {out_path}")
+
+
+def plot_combined_genome_coverage(ebv1_bam, ebv2_bam, out_path, sample_name):
+    """Plot EBV-1 and EBV-2 genome coverage in stacked panels."""
+    p1, d1, len1 = compute_genome_coverage_profile(ebv1_bam)
+    p2, d2, len2 = compute_genome_coverage_profile(ebv2_bam)
+
+    fig, axes = plt.subplots(2, 1, figsize=(12, 8), sharex=False)
+    draw_genome_coverage(
+        axes[0], p1, d1, len1, sample_name,
+        'EBV-1 (NC_007605.1)', PHYLO_COLORS['blue']
+    )
+    draw_genome_coverage(
+        axes[1], p2, d2, len2, sample_name,
+        'EBV-2 (NC_009334.1)', PHYLO_COLORS['orange']
+    )
     plt.tight_layout()
     plt.savefig(out_path, dpi=150)
     plt.close()
@@ -280,7 +313,24 @@ def main():
         primary_df, gene_categories, snakemake.output.piechart, sample
     )
     plot_genome_coverage(
-        primary_bam, snakemake.output.coverage_plot, sample, primary_ref
+        snakemake.input.ebv1_bam,
+        snakemake.output.ebv1_coverage_plot,
+        sample,
+        'EBV-1 (NC_007605.1)',
+        PHYLO_COLORS['blue'],
+    )
+    plot_genome_coverage(
+        snakemake.input.ebv2_bam,
+        snakemake.output.ebv2_coverage_plot,
+        sample,
+        'EBV-2 (NC_009334.1)',
+        PHYLO_COLORS['orange'],
+    )
+    plot_combined_genome_coverage(
+        snakemake.input.ebv1_bam,
+        snakemake.input.ebv2_bam,
+        snakemake.output.coverage_plot,
+        sample,
     )
 
     # Region coverage comparison (need coverage tables — read from typing)

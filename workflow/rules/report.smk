@@ -12,6 +12,8 @@ rule generate_report:
         gene_expression_tsv = "results/transcriptome/{sample}_gene_expression.tsv",
         barplot = "results/figures/{sample}_gene_expression_barplot.png",
         piechart = "results/figures/{sample}_latent_lytic_pie.png",
+        ebv1_coverage_plot = "results/figures/{sample}_ebv1_genome_coverage.png",
+        ebv2_coverage_plot = "results/figures/{sample}_ebv2_genome_coverage.png",
         coverage_plot = "results/figures/{sample}_genome_coverage.png",
         region_comparison = "results/figures/{sample}_region_coverage_comparison.png",
         ebv1_stats = "results/alignment/{sample}_ebv1_stats.txt",

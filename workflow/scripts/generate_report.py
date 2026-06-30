@@ -16,7 +16,8 @@ The report includes:
 Inputs (via snakemake):
   - latency_json, typing_json, recomb_json
   - gene_expression_tsv
-  - barplot, piechart, coverage_plot, region_comparison (figure paths)
+  - barplot, piechart, EBV-1/EBV-2/combined coverage plots,
+    region_comparison (figure paths)
   - ebv1_stats, ebv2_stats (alignment summary files)
 """
 
@@ -88,6 +89,8 @@ def main():
     # Get figure paths (relative to results/ for the report)
     barplot_name = os.path.basename(snakemake.input.barplot)
     piechart_name = os.path.basename(snakemake.input.piechart)
+    ebv1_coverage_name = os.path.basename(snakemake.input.ebv1_coverage_plot)
+    ebv2_coverage_name = os.path.basename(snakemake.input.ebv2_coverage_plot)
     coverage_name = os.path.basename(snakemake.input.coverage_plot)
     region_name = os.path.basename(snakemake.input.region_comparison)
 
@@ -247,7 +250,11 @@ def main():
     report.append("")
     report.append(f"![Latent vs Lytic]({piechart_name})")
     report.append("")
-    report.append(f"![Genome Coverage]({coverage_name})")
+    report.append(f"![Genome Coverage Comparison]({coverage_name})")
+    report.append("")
+    report.append(f"![EBV-1 Genome Coverage]({ebv1_coverage_name})")
+    report.append("")
+    report.append(f"![EBV-2 Genome Coverage]({ebv2_coverage_name})")
     report.append("")
     report.append(f"![Region Coverage Comparison]({region_name})")
     report.append("")
