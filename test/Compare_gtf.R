@@ -122,60 +122,60 @@ focus_gene_df
 ## 3. alias 辅助匹配
 ## =========================
 
-# alias_tbl <- tibble::tribble(
-#   ~target_gene, ~pattern,
-#   "EBNA1",  "EBNA1|BKRF1",
-#   "EBNA2",  "EBNA2|BYRF1",
-#   "EBNA3A", "EBNA3A|BERF1|BERF2",
-#   "EBNA3B", "EBNA3B|BERF3|BERF4",
-#   "EBNA3C", "EBNA3C|BERF5|BERF6",
-#   "LMP1",   "LMP1|BNLF1",
-#   "LMP2A",  "LMP2A",
-#   "LMP2B",  "LMP2B",
-#   "BZLF1",  "BZLF1|Zta|ZEBRA",
-#   "BZLF2",  "BZLF2|gp42|glycoprotein gp42",
-#   "BLLF1",  "BLLF1|gp350|gp220|major envelope glycoprotein"
-# )
-# 
-# extract_focus_by_alias <- function(df, alias_tbl) {
-#   map_df(seq_len(nrow(alias_tbl)), function(i) {
-#     tg <- alias_tbl$target_gene[i]
-#     pat <- alias_tbl$pattern[i]
-#     
-#     df %>%
-#       filter(feature_type == "gene") %>%
-#       filter(
-#         str_detect(gene_name, regex(pat, ignore_case = TRUE)) |
-#           str_detect(gene_id, regex(pat, ignore_case = TRUE))
-#       ) %>%
-#       mutate(gene = tg)
-#   }) %>%
-#     distinct(strain, EBV_type, seqnames, start, end, strand, gene_id, gene_name, gene, .keep_all = TRUE) %>%
-#     mutate(
-#       midpoint = (start + end) / 2,
-#       crosses_origin = !is.na(genome_length) & end > genome_length,
-#       start_mod = if_else(
-#         !is.na(genome_length),
-#         ((start - 1) %% genome_length) + 1,
-#         start
-#       ),
-#       end_mod = if_else(
-#         !is.na(genome_length),
-#         ((end - 1) %% genome_length) + 1,
-#         end
-#       )
-#     ) %>%
-#     arrange(gene, strain, start)
-# }
-# 
-# focus_gene_df <- extract_focus_by_alias(gtf_all_df, alias_tbl)
-# 
-# focus_gene_df %>%
-#   select(
-#     strain, EBV_type, gene, gene_id, gene_name,
-#     seqnames, start, end, width, strand,
-#     crosses_origin, start_mod, end_mod
-#   )
+alias_tbl <- tibble::tribble(
+  ~target_gene, ~pattern,
+  "EBNA1",  "EBNA1|BKRF1",
+  "EBNA2",  "EBNA2|BYRF1",
+  "EBNA3A", "EBNA3A|BERF1|BERF2",
+  "EBNA3B", "EBNA3B|BERF3|BERF4",
+  "EBNA3C", "EBNA3C|BERF5|BERF6",
+  "LMP1",   "LMP1|BNLF1",
+  "LMP2A",  "LMP2A",
+  "LMP2B",  "LMP2B",
+  "BZLF1",  "BZLF1|Zta|ZEBRA",
+  "BZLF2",  "BZLF2|gp42|glycoprotein gp42",
+  "BLLF1",  "BLLF1|gp350|gp220|major envelope glycoprotein"
+)
+
+extract_focus_by_alias <- function(df, alias_tbl) {
+  map_df(seq_len(nrow(alias_tbl)), function(i) {
+    tg <- alias_tbl$target_gene[i]
+    pat <- alias_tbl$pattern[i]
+
+    df %>%
+      filter(feature_type == "gene") %>%
+      filter(
+        str_detect(gene_name, regex(pat, ignore_case = TRUE)) |
+          str_detect(gene_id, regex(pat, ignore_case = TRUE))
+      ) %>%
+      mutate(gene = tg)
+  }) %>%
+    distinct(strain, EBV_type, seqnames, start, end, strand, gene_id, gene_name, gene, .keep_all = TRUE) %>%
+    mutate(
+      midpoint = (start + end) / 2,
+      crosses_origin = !is.na(genome_length) & end > genome_length,
+      start_mod = if_else(
+        !is.na(genome_length),
+        ((start - 1) %% genome_length) + 1,
+        start
+      ),
+      end_mod = if_else(
+        !is.na(genome_length),
+        ((end - 1) %% genome_length) + 1,
+        end
+      )
+    ) %>%
+    arrange(gene, strain, start)
+}
+
+focus_gene_df <- extract_focus_by_alias(gtf_all_df, alias_tbl)
+
+focus_gene_df %>%
+  select(
+    strain, EBV_type, gene, gene_id, gene_name,
+    seqnames, start, end, width, strand,
+    crosses_origin, start_mod, end_mod
+  )
 
 
 focus_check <- focus_gene_df %>%
@@ -325,22 +325,65 @@ p_gene_location <- ggplot(plot_df) +
 
 p_gene_location
 
-ggsave(
-  "EBV_type1_type2_focus_gene_location.pdf",
-  p_gene_location,
-  width = 9,
-  height = 6
-)
 
-ggsave(
-  "EBV_type1_type2_focus_gene_location.png",
-  p_gene_location,
-  width = 9,
-  height = 6,
-  dpi = 300
-)
+## =========================
+## Plot 2: EBNA2 / EBNA3 focus
+## =========================
 
+ebna_focus <- c("EBNA2", "EBNA3A", "EBNA3B", "EBNA3C")
 
+ebna_plot_df <- focus_gene_df %>%
+  filter(gene %in% ebna_focus) %>%
+  mutate(
+    gene = factor(gene, levels = rev(ebna_focus)),
+    strain_label = paste0(strain, " / ", EBV_type)
+  )
+
+p_ebna_region <- ggplot(ebna_plot_df) +
+  geom_segment(
+    aes(
+      x = start,
+      xend = end,
+      y = gene,
+      yend = gene,
+      color = strand
+    ),
+    linewidth = 6,
+    lineend = "round"
+  ) +
+  geom_text(
+    aes(
+      x = (start + end) / 2,
+      y = gene,
+      label = paste0(gene, "\n", scales::comma(width), " bp")
+    ),
+    size = 3,
+    color = "black"
+  ) +
+  facet_wrap(
+    ~ strain_label,
+    ncol = 1,
+    scales = "free_x"
+  ) +
+  scale_x_continuous(
+    labels = scales::comma,
+    expand = expansion(mult = c(0.04, 0.06))
+  ) +
+  labs(
+    x = "Genome coordinate",
+    y = NULL,
+    title = "EBNA2 and EBNA3 gene-level annotation spans",
+    color = "Strand"
+  ) +
+  theme_bw(base_size = 11) +
+  theme(
+    panel.grid.major.y = element_blank(),
+    panel.grid.minor = element_blank(),
+    strip.text = element_text(face = "bold"),
+    legend.position = "right"
+  )
+
+p_ebna_region
 
 
 
