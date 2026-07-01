@@ -1,88 +1,90 @@
 gene	category	role
-tegument protein G75	other	
-interleukin-10 BCRF1	other	
-EBNA1	latent	Latency I/II/III (always expressed)
-EBNA3B	latent	Latency III marker; type-discriminatory
-EBNA3A	latent	Latency III marker; type-discriminatory
-EBNA2	latent	Latency III marker; type-discriminatory
-protein BWRF1	other	
-EBNALP	latent	Latency III marker
-protein BHLF1	other	
-apoptosis regulator BHRF1	other	
-DNA packaging protein UL32	other	
-nuclear egress lamina protein	other	
-DNA packaging protein UL33	other	
-nuclear egress membrane protein	other	
-protein UL49	other	
-small capsid protein	other	
-tegument protein UL37	other	
-large tegument protein	other	
-EBNA-1%2C QUK transcript	other	
-capsid triplex subunit 1	other	
-ribonucleotide reductase subunit 1	other	
-ribonucleotide reductase subunit 2	other	
-DNA polymerase processivity subunit	other	
-envelope protein UL43	other	
-helicase-primase primase subunit	other	
-multifunctional expression regulator	other	
-tegument protein UL51	other	
-deoxyuridine triphosphatase	other	
-envelope glycoprotein N	other	
-virion protein G52	other	
-glycoprotein 350	other	
-protein BLLF2	other	
-envelope glycoprotein 42	other	
-BRLF1	lytic	
-BZLF1	lytic	type-discriminatory
-protein G49	other	
-tegument protein G48	other	
-envelope glycoprotein L	other	
-uracil-DNA glycosylase	other	
-tegument protein G45	other	
-helicase-primase helicase subunit	other	
-capsid portal protein	other	
-tegument protein UL7	other	
-helicase-primase subunit	other	
-envelope glycoprotein M	other	
-protein UL95	other	
-tegument protein UL14	other	
-tegument serine/threonine protein kinase	other	
-deoxyribonuclease	other	
-myristylated tegument protein	other	
-DNA packaging terminase subunit 1	other	
-protein UL91	other	
-protein UL92	other	
-DNA packaging tegument protein UL17	other	
-tegument protein UL16	other	
-capsid triplex subunit 2	other	
-envelope glycoprotein 48	other	
-envelope glycoprotein 150	other	
-major capsid protein	other	
-protein UL87	other	
-tegument protein UL88	other	
-thymidine kinase	other	
-envelope glycoprotein H	other	
-nuclear protein UL24	other	
-DNA packaging tegument protein UL25	other	
-protein UL79	other	
-capsid maturation protease	other	
-capsid scaffold protein	other	
-membrane protein BILF2	other	
-RPMS1	latent	
-protein LF3	other	
-membrane protein BILF1	other	
-protein G10	other	
-virion protein G11	other	
-DNA polymerase catalytic subunit	other	
 A73	latent	
-DNA packaging terminase subunit 2	other	
-envelope glycoprotein B	other	
-protein BARF0	other	
-single-stranded DNA-binding protein	other	
-apoptosis regulator BALF1	other	
-protein BARF1	other	
-LMP2A	latent	Latency II/III marker
+BALF1	other	
+BALF2	lytic	
+BALF3	other	
+BALF4	lytic	
+BALF5	lytic	
+BARF0	other	
+BARF1	lytic	
+BBLF1	other	
+BBLF4	other	
+BBRF1	lytic	
+BBRF2	lytic	
+BBRF3	lytic	
+BCRF1	lytic	
+BDLF1	lytic	
+BDLF2	lytic	
+BDLF3	lytic	
+BDLF3.5	other	
+BDLF4	lytic	
+BFLF1	lytic	
+BFLF2	lytic	
+BFRF1	lytic	
+BFRF1A	lytic	
+BFRF2	lytic	
+BFRF3	lytic	
+BGLF1	other	
+BGLF2	other	
+BGLF3	other	
+BGLF3.5	other	
+BGLF4	lytic	
+BGLF5	lytic	
+BHLF1	lytic	
+BHRF1	lytic	
+BILF1	lytic	
+BILF2	lytic	
+BKRF2	lytic	
+BKRF3	lytic	
+BKRF4	lytic	
+BLLF1	lytic	type-discriminatory
+BLLF2	other	
+BLLF3	other	
+BLRF1	lytic	
+BLRF2	lytic	
+BMRF1	lytic	
+BMRF2	lytic	
+BNLF2a	other	
+BNLF2b	other	
+BNRF1	lytic	
+BOLF1	lytic	
+BORF1	lytic	
+BORF2	lytic	
+BPLF1	lytic	
+BRLF1	lytic	
+BRRF1	other	
+BRRF2	other	
+BSLF1	lytic	
+BSRF1	other	
+BTRF1	lytic	
+BVLF1	lytic	
+BVRF1	other	
+BVRF2	other	
+BWRF1	lytic	
+BXLF1	lytic	
+BXLF2	lytic	
+BXRF1	other	
+BZLF1	lytic	type-discriminatory
+BZLF2	lytic	type-discriminatory
+BaRF1	other	
+BcLF1	other	
+BcRF1	other	
+BdRF1	other	
+DNA packaging terminase subunit 1	other	
+EBNA1	latent	Latency I/II/III (always expressed)
+EBNA2	latent	Latency III marker; type-discriminatory
+EBNA3A	latent	Latency III marker; type-discriminatory
+EBNA3B	latent	Latency III marker; type-discriminatory
+EBNA3C	latent	Latency III marker; type-discriminatory
+EBNALP	latent	Latency III marker
+LF1	other	
+LF2	other	
+LF3	other	
 LMP1	latent	Latency II/III marker
-protein BNLF2a	other	
-protein BNLF2b	other	
+LMP2A	latent	Latency II/III marker
 LMP2B	latent	Latency II/III marker
+RPMS1	latent	
+helicase-primase subunit	other	
+multifunctional expression regulator	other	
+EBER1	latent	Latency I/II/III (always expressed)
+EBER2	latent	Latency I/II/III (always expressed)

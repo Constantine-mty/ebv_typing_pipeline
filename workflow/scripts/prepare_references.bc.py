@@ -60,72 +60,21 @@ def normalise_gene_name(name):
 
 
 # ---------------------------------------------------------------------------
-# 1. GFF3 -> GTF conversion (CDS-exon-based, for featureCounts)
+# 1. GFF3 -> GTF conversion (gene-level, for featureCounts)
 # ---------------------------------------------------------------------------
 
-def parse_gff3_attrs(attr_str):
-    """Parse GFF3 attribute column into a dict."""
-    d = {}
-    for kv in attr_str.split(';'):
-        if '=' in kv:
-            k, v = kv.split('=', 1)
-            d[k] = v
-    return d
-
-
-def merge_intervals(intervals):
-    """Merge overlapping or adjacent intervals. Returns list of [start, end]."""
-    if not intervals:
-        return []
-    s = sorted(intervals)
-    merged = [list(s[0])]
-    for start, end in s[1:]:
-        if start <= merged[-1][1] + 1:
-            merged[-1][1] = max(merged[-1][1], end)
-        else:
-            merged.append([start, end])
-    return merged
-
-
 def gff3_to_gtf(gff3_path, gtf_path, seqid):
-    """Convert NCBI GFF3 to a GTF using CDS exon coordinates.
+    """Convert NCBI GFF3 to a minimal GTF with 'gene' features.
 
-    Problem solved:
-      The NCBI GFF3 'gene' features for EBV-1 span entire transcription
-      units (including introns and IR1 repeats), while EBV-2 gene features
-      are more compact.  This makes gene-level read counts and TPM
-      incomparable between the two references (EBNA2: 26 kb vs 1.4 kb).
-
-    Solution:
-      Build GTF 'exon' features from CDS coordinates.  For each gene,
-      emit one GTF 'gene' line spanning the merged CDS range and one
-      'exon' line per CDS segment.  featureCounts counts reads at the
-      exon level and sums them per gene_id, so the effective gene length
-      equals the total CDS length — which is comparable between types
-      (EBNA2: 1464 bp vs 1365 bp; EBNA3A: 2835 vs 2778; etc.).
-
-    Gene naming:
-      EBV-1 CDS have gene= attribute (e.g. gene=EBNA-2).
-      EBV-2 CDS have product= attribute (e.g. product=EBNA-2).
-      We try gene= first, then product=, then locus_tag.
-      Names are normalised (EBNA-2 → EBNA2).
-
-    EBNA3B/3C split:
-      EBV-1 GFF3 has a merged gene=EBNA-3B/EBNA-3C with two CDS
-      isoforms: product=nuclear antigen EBNA-3B and product=nuclear
-      antigen EBNA-3C.  We split these by product= so that EBNA3B and
-      EBNA3C appear as separate genes, matching EBV-2's annotation.
-
-    ncRNA capture:
-      Only features with gbkey=misc_RNA or gbkey=ncRNA are captured
-      as non-coding genes (EBERs, miRNAs).  mRNA exon features with
-      product= attributes are NOT captured — they are spliced exons of
-      protein-coding genes, not independent ncRNA genes.
+    Gene names are normalised to canonical literature names.
+    For EBV-2 (AG876), the GFF3 gene features only have locus_tag names
+    (e.g. HHV4tp2_gp06), so we scan CDS/transcript features for
+    'product=' attributes (e.g. product=EBNA-2) and map them back to
+    the parent gene via the ID= / Parent= linkage.
     """
-    # Collect CDS segments by gene name
-    cds_by_gene = {}  # gene_name → list of (start, end, strand)
-    # Also collect non-coding RNA features (EBERs, miRNAs)
-    ncrna_by_gene = {}
+    # First pass: build gene_id → locus_tag and CDS product → parent gene
+    gene_id_to_locus = {}   # gene-ID → locus_tag
+    parent_to_product = {}  # gene-ID → product name (from CDS/transcript)
 
     with open(gff3_path) as fh:
         for line in fh:
@@ -135,100 +84,90 @@ def gff3_to_gtf(gff3_path, gtf_path, seqid):
             if len(fields) < 9:
                 continue
             ftype = fields[2]
-            start, end, strand = int(fields[3]), int(fields[4]), fields[6]
-            attrs = parse_gff3_attrs(fields[8])
-            gbkey = attrs.get('gbkey', '')
+            attrs = fields[8]
 
-            if ftype == 'CDS':
-                # Determine gene name.
-                # For EBV-1: gene= attribute (e.g. gene=EBNA-2).
-                # For EBV-2: no gene= on CDS, use product= (e.g. product=EBNA-2).
-                gene_attr = attrs.get('gene', '')
-                product = attrs.get('product', '')
+            if ftype == 'gene':
+                # Extract ID and locus_tag
+                gid = None
+                locus = None
+                for kv in attrs.split(';'):
+                    if kv.startswith('ID='):
+                        gid = kv.split('=')[1]
+                    elif kv.startswith('locus_tag='):
+                        locus = kv.split('=')[1]
+                    elif kv.startswith('Name='):
+                        locus = kv.split('=')[1]
+                if gid:
+                    gene_id_to_locus[gid] = locus or gid
+            elif ftype in ('CDS', 'transcript', 'mRNA'):
+                # Extract Parent and product
+                parent = None
+                product = None
+                for kv in attrs.split(';'):
+                    if kv.startswith('Parent='):
+                        parent = kv.split('=')[1]
+                    elif kv.startswith('product='):
+                        product = kv.split('=')[1]
+                if parent and product:
+                    # parent may be a gene-ID; store the product
+                    # (keep the first product found, or overwrite —
+                    #  for EBV-2 the CDS product is the gene name)
+                    if parent not in parent_to_product:
+                        parent_to_product[parent] = product
 
-                # Special case: EBV-1 merged EBNA-3B/EBNA-3C gene.
-                # The gene= attr is "EBNA-3B/EBNA-3C" but product= distinguishes
-                # the two proteins.  Split by product to match EBV-2 annotation.
-                if gene_attr and '/' in gene_attr and product:
-                    # Extract gene name from product (e.g. "nuclear antigen EBNA-3B" → "EBNA-3B")
-                    # product format: "nuclear antigen EBNA-3B" or just "EBNA-3B"
-                    product_gene = product.replace('nuclear antigen ', '').strip()
-                    gene_name = normalise_gene_name(product_gene)
-                elif gene_attr:
-                    gene_name = normalise_gene_name(gene_attr)
-                elif product:
-                    gene_name = normalise_gene_name(product)
-                else:
-                    gene_name = ''
-
-                if gene_name:
-                    cds_by_gene.setdefault(gene_name, []).append((start, end, strand))
-
-            elif ftype in ('transcript', 'exon', 'miRNA') and gbkey in ('misc_RNA', 'ncRNA'):
-                # Capture only true non-coding RNAs (EBERs, miRNAs).
-                # Do NOT capture mRNA exons even if they have product= attrs.
-                product = attrs.get('product', '')
-                gene_attr = attrs.get('gene', '')
-                # Use gene= if available (miRNAs have gene=BHRF1 etc.),
-                # otherwise derive from product (EBER-1, EBER-2).
-                if gene_attr:
-                    gene_name = normalise_gene_name(gene_attr)
-                elif product:
-                    # Clean up product names like "EBER-1 (pol III transcript)" → "EBER-1"
-                    clean_product = product.split('(')[0].strip()
-                    gene_name = normalise_gene_name(clean_product)
-                else:
-                    gene_name = ''
-                if gene_name:
-                    ncrna_by_gene.setdefault(gene_name, []).append((start, end, strand))
-
-    # Build GTF
+    # Second pass: emit GTF gene lines
+    gene_re = re.compile(r'\tgene\t')
     out_lines = []
+    with open(gff3_path) as fh:
+        for line in fh:
+            if line.startswith('#'):
+                continue
+            if not gene_re.search(line):
+                continue
+            fields = line.rstrip('\n').split('\t')
+            if len(fields) < 9:
+                continue
+            attrs = fields[8]
 
-    # CDS-based genes
-    for gene_name, segments in sorted(cds_by_gene.items()):
-        strand = segments[0][2]
-        merged = merge_intervals([(s, e) for s, e, _ in segments])
-        gene_start = merged[0][0]
-        gene_end = merged[-1][1]
-        total_cds_len = sum(e - s + 1 for s, e in merged)
+            # Extract gene ID
+            gid = None
+            for kv in attrs.split(';'):
+                if kv.startswith('ID='):
+                    gid = kv.split('=')[1]
+                    break
 
-        # Gene line (spanning merged CDS range)
-        gtf_attrs = f'gene_id "{gene_name}"; gene_name "{gene_name}";'
-        out_lines.append(
-            f'{seqid}\tRefSeq\tgene\t{gene_start}\t{gene_end}\t.\t{strand}\t.\t{gtf_attrs}'
-        )
-        # Exon lines (one per merged CDS segment)
-        for i, (s, e) in enumerate(merged):
-            exon_attrs = f'gene_id "{gene_name}"; gene_name "{gene_name}"; exon_id "{gene_name}_exon{i+1}";'
+            # Try to get a meaningful name:
+            # 1. product from CDS/transcript (EBV-2 case)
+            # 2. Name= or gene= attribute (EBV-1 case)
+            # 3. locus_tag fallback
+            name = None
+            if gid and gid in parent_to_product:
+                name = parent_to_product[gid]
+            if name is None:
+                for kv in attrs.split(';'):
+                    if kv.startswith('Name='):
+                        name = kv.split('=')[1]
+                        break
+                    if kv.startswith('gene='):
+                        name = kv.split('=')[1]
+                        break
+            if name is None:
+                for kv in attrs.split(';'):
+                    if kv.startswith('locus_tag='):
+                        name = kv.split('=')[1]
+                        break
+            if name is None:
+                continue
+
+            name = normalise_gene_name(name)
+            start, end, strand = fields[3], fields[4], fields[6]
+            gtf_attrs = f'gene_id "{name}"; gene_name "{name}";'
             out_lines.append(
-                f'{seqid}\tRefSeq\texon\t{s}\t{e}\t.\t{strand}\t.\t{exon_attrs}'
+                f'{seqid}\tRefSeq\tgene\t{start}\t{end}\t.\t{strand}\t.\t{gtf_attrs}'
             )
-
-    # Non-coding RNA genes (EBERs, etc.) — use transcript/exon coordinates
-    for gene_name, segments in sorted(ncrna_by_gene.items()):
-        if gene_name in cds_by_gene:
-            continue  # already handled as CDS
-        strand = segments[0][2]
-        merged = merge_intervals([(s, e) for s, e, _ in segments])
-        gene_start = merged[0][0]
-        gene_end = merged[-1][1]
-
-        gtf_attrs = f'gene_id "{gene_name}"; gene_name "{gene_name}";'
-        out_lines.append(
-            f'{seqid}\tRefSeq\tgene\t{gene_start}\t{gene_end}\t.\t{strand}\t.\t{gtf_attrs}'
-        )
-        for i, (s, e) in enumerate(merged):
-            exon_attrs = f'gene_id "{gene_name}"; gene_name "{gene_name}"; exon_id "{gene_name}_exon{i+1}";'
-            out_lines.append(
-                f'{seqid}\tRefSeq\texon\t{s}\t{e}\t.\t{strand}\t.\t{exon_attrs}'
-            )
-
     with open(gtf_path, 'w') as out:
         out.write('\n'.join(out_lines) + '\n')
-    ncrna_count = sum(1 for g in ncrna_by_gene if g not in cds_by_gene)
-    print(f"[gff3_to_gtf] {len(out_lines)} lines written to {gtf_path} "
-          f"({len(cds_by_gene)} CDS genes + {ncrna_count} ncRNA genes)")
+    print(f"[gff3_to_gtf] {len(out_lines)} genes written to {gtf_path}")
     return out_lines
 
 
@@ -249,83 +188,50 @@ def read_fasta(path):
 def find_snp_positions_minimap(seq1_path, seq2_path):
     """Align EBV-1 (query) to EBV-2 (target) with minimap2 and extract SNPs.
 
-    Two-pass strategy:
-      1. Primary alignment with 'asm10' preset (tolerates ~10% divergence).
-         This covers most of the genome at high confidence.
-      2. Gap-filling with 'splice' preset for regions where asm10 fails to
-         align — specifically the EBNA2 CDS, which differs by ~30% between
-         types 1 and 2.  The splice preset uses more permissive parameters
-         that can align across this highly divergent region.
-
-    Only splice-only SNPs that fall in asm10 gap regions are added (to avoid
-    re-introducing potential splice artifacts in well-aligned regions).
+    Uses preset 'asm10' which tolerates up to ~10% sequence divergence —
+    necessary because the EBNA2 locus differs by ~30% between EBV-1 and
+    EBV-2, and asm5 (>5% threshold) breaks alignment in that region.
+    asm10 recovers ~250 SNPs in EBNA2 and ~770 in the EBNA3 cluster,
+    consistent with the known intertype divergence.
 
     Returns list of (pos1_1based, pos2_1based, base1, base2).
     """
+    # Index the target (EBV-2)
     seq2 = read_fasta(seq2_path)
+
+    idx = mappy.Aligner(seq2_path, preset='asm10')
+    if idx is None:
+        raise RuntimeError("Failed to build minimap2 index for EBV-2")
+
     seq1 = read_fasta(seq1_path)
+    snps = []
 
-    def _extract_snps(preset):
-        idx = mappy.Aligner(seq2_path, preset=preset)
-        if idx is None:
-            raise RuntimeError(f"Failed to build minimap2 index ({preset})")
-        snps = []
-        aligned_intervals = []  # (q_st, q_en) for each hit
-        for hit in idx.map(seq1):
-            if hit.is_primary:
-                aligned_intervals.append((hit.q_st, hit.q_en))
-                qpos = hit.q_st
-                rpos = hit.r_st
-                for length, op in hit.cigar:
-                    if op == 0 or op == 7 or op == 8:  # M, =, X
-                        for _ in range(length):
-                            if qpos < len(seq1) and rpos < len(seq2):
-                                b1 = seq1[qpos]
-                                b2 = seq2[rpos]
-                                if b1 != b2:
-                                    snps.append((qpos + 1, rpos + 1, b1, b2))
-                            qpos += 1
-                            rpos += 1
-                    elif op == 1:  # insertion in query
-                        qpos += length
-                    elif op == 2:  # deletion in query
-                        rpos += length
-                    elif op == 3:  # N (intron skip)
-                        rpos += length
-        return snps, aligned_intervals
-
-    # Pass 1: asm10 (high confidence)
-    snps_asm10, intervals_asm10 = _extract_snps('asm10')
-    print(f"[find_snp_positions] asm10: {len(snps_asm10)} SNPs, "
-          f"{len(intervals_asm10)} alignment blocks")
-
-    # Pass 2: splice (gap-filling)
-    snps_splice, intervals_splice = _extract_snps('splice')
-    print(f"[find_snp_positions] splice: {len(snps_splice)} SNPs, "
-          f"{len(intervals_splice)} alignment blocks")
-
-    # Merge: keep all asm10 SNPs, add splice-only SNPs that fall in asm10 gaps
-    asm10_positions = {(s[0], s[1]) for s in snps_asm10}
-
-    def _in_gap(pos1, intervals):
-        """Check if position falls outside all aligned intervals."""
-        for q_st, q_en in intervals:
-            if q_st <= pos1 - 1 < q_en:  # pos1 is 1-based
-                return False
-        return True
-
-    gap_snps = []
-    for pos1, pos2, b1, b2 in snps_splice:
-        if (pos1, pos2) not in asm10_positions and _in_gap(pos1, intervals_asm10):
-            gap_snps.append((pos1, pos2, b1, b2))
-
-    print(f"[find_snp_positions] splice gap-fill: {len(gap_snps)} additional SNPs "
-          f"(in asm10 gap regions)")
-
-    all_snps = snps_asm10 + gap_snps
-    # Sort by position
-    all_snps.sort(key=lambda x: x[0])
-    return all_snps
+    for hit in idx.map(seq1):
+        # hit.r_st, hit.r_en : target (EBV-2) coordinates
+        # hit.q_st, hit.q_en : query (EBV-1) coordinates
+        # hit.cigar : CIGAR list of (length, op)
+        if hit.is_primary:
+            # Walk the CIGAR to extract mismatches
+            qpos = hit.q_st  # 0-based
+            rpos = hit.r_st  # 0-based
+            for length, op in hit.cigar:
+                if op == 0 or op == 7 or op == 8:  # M, =, X
+                    for _ in range(length):
+                        if qpos < len(seq1) and rpos < len(seq2):
+                            b1 = seq1[qpos]
+                            b2 = seq2[rpos]
+                            if b1 != b2:
+                                snps.append((qpos + 1, rpos + 1, b1, b2))
+                        qpos += 1
+                        rpos += 1
+                elif op == 1:  # insertion in query (gap in target)
+                    qpos += length
+                elif op == 2:  # deletion in query (gap in target)
+                    rpos += length
+                elif op == 3:  # N (intron skip) — shouldn't happen for DNA virus
+                    rpos += length
+                # ignore other ops
+    return snps
 
 
 def write_snp_table(snps, out_path, seqid1, seqid2):
@@ -494,7 +400,7 @@ def main():
     gff3_to_gtf(args.ebv2_gff3, gtf2, seqid2)
 
     # 2. Extract SNPs between EBV-1 and EBV-2 using minimap2
-    print("[main] Aligning EBV-1 vs EBV-2 with minimap2 (asm10 + splice gap-fill)...")
+    print("[main] Aligning EBV-1 vs EBV-2 with minimap2 (asm5 preset)...")
     snps = find_snp_positions_minimap(args.ebv1_fa, args.ebv2_fa)
     snp_table = os.path.join(args.outdir, 'ebv1_vs_ebv2_snps.tsv')
     write_snp_table(snps, snp_table, seqid1, seqid2)

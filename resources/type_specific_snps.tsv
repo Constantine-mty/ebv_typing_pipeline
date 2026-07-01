@@ -1,1190 +1,39 @@
 pos_NC_007605.1	base_NC_007605.1	base_other	gene	genes_all
-88718	A	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-88753	T	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-88784	A	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-88880	T	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-88965	A	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-88979	G	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-89009	T	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-89031	G	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-89051	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-89084	G	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-89087	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-89090	G	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-89105	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-89489	A	G	EBNA1	EBNA1,EBNA-1%2C QUK transcript,envelope glycoprotein 42
-89491	C	T	EBNA1	EBNA1,EBNA-1%2C QUK transcript,envelope glycoprotein 42
-89517	G	T	EBNA1	EBNA1,EBNA-1%2C QUK transcript,envelope glycoprotein 42
-89555	G	T	EBNA1	EBNA1,EBNA-1%2C QUK transcript,envelope glycoprotein 42
-89568	T	C	EBNA1	EBNA1,EBNA-1%2C QUK transcript,envelope glycoprotein 42
-89603	C	T	EBNA1	EBNA1,EBNA-1%2C QUK transcript,envelope glycoprotein 42
-89712	G	T	EBNA1	EBNA1,EBNA-1%2C QUK transcript,envelope glycoprotein 42
-89715	T	C	EBNA1	EBNA1,EBNA-1%2C QUK transcript,envelope glycoprotein 42
-89717	C	A	EBNA1	EBNA1,EBNA-1%2C QUK transcript,envelope glycoprotein 42
-89820	T	C	EBNA1	EBNA1,EBNA-1%2C QUK transcript,envelope glycoprotein 42
-89851	G	A	BZLF1	EBNA1,EBNA-1%2C QUK transcript,BRLF1,BZLF1
-90047	C	A	BZLF1	EBNA1,EBNA-1%2C QUK transcript,BRLF1,BZLF1
-90099	A	C	BZLF1	EBNA1,EBNA-1%2C QUK transcript,BRLF1,BZLF1
-90101	G	A	BZLF1	EBNA1,EBNA-1%2C QUK transcript,BRLF1,BZLF1
-90102	C	T	BZLF1	EBNA1,EBNA-1%2C QUK transcript,BRLF1,BZLF1
-90108	G	A	BZLF1	EBNA1,EBNA-1%2C QUK transcript,BRLF1,BZLF1
-90126	G	C	BZLF1	EBNA1,EBNA-1%2C QUK transcript,BRLF1,BZLF1
-90128	A	G	BZLF1	EBNA1,EBNA-1%2C QUK transcript,BRLF1,BZLF1
-90159	T	A	BZLF1	EBNA1,EBNA-1%2C QUK transcript,BRLF1,BZLF1
-90216	T	A	BZLF1	EBNA1,EBNA-1%2C QUK transcript,BRLF1,BZLF1
-90231	G	A	BZLF1	EBNA1,EBNA-1%2C QUK transcript,BRLF1,BZLF1
-90294	A	G	BZLF1	EBNA1,EBNA-1%2C QUK transcript,BRLF1,BZLF1
-90303	A	G	BZLF1	EBNA1,EBNA-1%2C QUK transcript,BRLF1,BZLF1
-90320	C	T	BZLF1	EBNA1,EBNA-1%2C QUK transcript,BRLF1,BZLF1
-90321	A	T	BZLF1	EBNA1,EBNA-1%2C QUK transcript,BRLF1,BZLF1
-90344	C	A	BZLF1	EBNA1,EBNA-1%2C QUK transcript,BRLF1,BZLF1
-90350	C	T	BZLF1	EBNA1,EBNA-1%2C QUK transcript,BRLF1,BZLF1
-90361	C	T	BZLF1	EBNA1,EBNA-1%2C QUK transcript,BRLF1,BZLF1
-90380	T	A	BZLF1	EBNA1,EBNA-1%2C QUK transcript,BRLF1,BZLF1
-90390	G	T	BZLF1	EBNA1,EBNA-1%2C QUK transcript,BRLF1,BZLF1
-90394	G	A	BZLF1	EBNA1,EBNA-1%2C QUK transcript,BRLF1,BZLF1
-90413	A	G	BZLF1	EBNA1,EBNA-1%2C QUK transcript,BRLF1,BZLF1
-90431	A	G	BZLF1	EBNA1,EBNA-1%2C QUK transcript,BRLF1,BZLF1
-90472	G	A	BZLF1	EBNA1,EBNA-1%2C QUK transcript,BRLF1,BZLF1
-90498	T	G	BZLF1	EBNA1,EBNA-1%2C QUK transcript,BRLF1,BZLF1
-90574	G	T	BZLF1	EBNA1,EBNA-1%2C QUK transcript,BRLF1,BZLF1
-90586	C	T	BZLF1	EBNA1,EBNA-1%2C QUK transcript,BRLF1,BZLF1
-90642	A	G	BZLF1	EBNA1,EBNA-1%2C QUK transcript,BRLF1,BZLF1
-90658	C	T	BZLF1	EBNA1,EBNA-1%2C QUK transcript,BRLF1,BZLF1
-90666	T	C	BZLF1	EBNA1,EBNA-1%2C QUK transcript,BRLF1,BZLF1
-90685	T	G	BZLF1	EBNA1,EBNA-1%2C QUK transcript,BRLF1,BZLF1
-90748	C	T	BZLF1	EBNA1,EBNA-1%2C QUK transcript,BRLF1,BZLF1
-91006	A	C	EBNA1	EBNA1,EBNA-1%2C QUK transcript,BRLF1
-91012	T	C	EBNA1	EBNA1,EBNA-1%2C QUK transcript,BRLF1
-91047	T	C	EBNA1	EBNA1,EBNA-1%2C QUK transcript,BRLF1
-91271	C	T	EBNA1	EBNA1,EBNA-1%2C QUK transcript,BRLF1
-91366	T	C	EBNA1	EBNA1,EBNA-1%2C QUK transcript,BRLF1
-91430	T	C	EBNA1	EBNA1,EBNA-1%2C QUK transcript,BRLF1
-91438	C	T	EBNA1	EBNA1,EBNA-1%2C QUK transcript,BRLF1
-91766	G	T	EBNA1	EBNA1,EBNA-1%2C QUK transcript,BRLF1
-93894	G	T	EBNA1	EBNA1,EBNA-1%2C QUK transcript,BRLF1
-94866	C	A	EBNA1	EBNA1,EBNA-1%2C QUK transcript,tegument protein G48
-94901	T	G	EBNA1	EBNA1,EBNA-1%2C QUK transcript,tegument protein G48
-94951	A	G	EBNA1	EBNA1,EBNA-1%2C QUK transcript,tegument protein G48
-94981	G	A	EBNA1	EBNA1,EBNA-1%2C QUK transcript,tegument protein G48
-94987	C	T	EBNA1	EBNA1,EBNA-1%2C QUK transcript,tegument protein G48
-95012	C	T	EBNA1	EBNA1,EBNA-1%2C QUK transcript,tegument protein G48
-95013	G	A	EBNA1	EBNA1,EBNA-1%2C QUK transcript,tegument protein G48
-95051	G	A	EBNA1	EBNA1,EBNA-1%2C QUK transcript,tegument protein G48
-95171	A	G	EBNA1	EBNA1,EBNA-1%2C QUK transcript,tegument protein G48
-95302	T	C	EBNA1	EBNA1,EBNA-1%2C QUK transcript,tegument protein G48
-95401	A	C	EBNA1	EBNA1,EBNA-1%2C QUK transcript,tegument protein G48
-95405	G	T	EBNA1	EBNA1,EBNA-1%2C QUK transcript,tegument protein G48
-95435	C	T	EBNA1	EBNA1,EBNA-1%2C QUK transcript,tegument protein G48
-95442	C	T	EBNA1	EBNA1,EBNA-1%2C QUK transcript,tegument protein G48
-95459	G	A	EBNA1	EBNA1,EBNA-1%2C QUK transcript,tegument protein G48
-95622	G	A	EBNA1	EBNA1,EBNA-1%2C QUK transcript,tegument protein G48
-95676	G	A	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-95707	G	C	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-95714	G	A	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-95733	A	C	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-95740	G	A	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-95769	T	G	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-95829	C	T	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-95914	A	G	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-95946	G	A	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-96003	G	A	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-96120	G	A	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-96155	G	C	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-96156	G	A	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-96158	C	G	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-96236	G	C	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-96237	G	A	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-96239	C	G	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-96294	A	C	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-96309	A	C	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-96338	G	C	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-96339	G	A	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-96341	C	G	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-96792	A	T	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-96890	G	C	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-96946	G	A	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-97055	T	A	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-97072	C	G	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-97085	A	G	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-97088	C	A	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-97120	G	C	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-97121	C	T	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-97135	A	T	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-97158	C	G	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-97161	A	T	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-97166	C	A	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-97221	A	C	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-97232	C	T	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-97235	C	G	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-97320	G	A	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-97350	G	T	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-97382	T	G	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-97411	A	T	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-97414	A	C	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-97442	G	A	EBNA1	EBNA1,EBNA-1%2C QUK transcript
-97676	G	A	envelope glycoprotein L	envelope glycoprotein L
-97698	T	C	envelope glycoprotein L	envelope glycoprotein L
-98148	G	C	envelope glycoprotein L	envelope glycoprotein L,uracil-DNA glycosylase
-98235	C	A	envelope glycoprotein L	envelope glycoprotein L,uracil-DNA glycosylase
-98244	T	A	envelope glycoprotein L	envelope glycoprotein L,uracil-DNA glycosylase
-98262	A	G	envelope glycoprotein L	envelope glycoprotein L,uracil-DNA glycosylase
-98377	G	A	envelope glycoprotein L	envelope glycoprotein L,uracil-DNA glycosylase
-98397	T	C	envelope glycoprotein L	envelope glycoprotein L,uracil-DNA glycosylase
-98439	C	T	envelope glycoprotein L	envelope glycoprotein L,uracil-DNA glycosylase
-99851	T	C	helicase-primase helicase subunit	helicase-primase helicase subunit
-100129	C	T	helicase-primase helicase subunit	helicase-primase helicase subunit
-100304	G	A	helicase-primase helicase subunit	helicase-primase helicase subunit
-100433	T	G	helicase-primase helicase subunit	helicase-primase helicase subunit
-100589	C	T	helicase-primase helicase subunit	helicase-primase helicase subunit
-100601	G	C	helicase-primase helicase subunit	helicase-primase helicase subunit
-100640	G	A	helicase-primase helicase subunit	helicase-primase helicase subunit
-100652	G	T	helicase-primase helicase subunit	helicase-primase helicase subunit
-100748	C	A	helicase-primase helicase subunit	helicase-primase helicase subunit
-100778	A	C	helicase-primase helicase subunit	helicase-primase helicase subunit
-100841	G	A	helicase-primase helicase subunit	helicase-primase helicase subunit
-100856	A	G	helicase-primase helicase subunit	helicase-primase helicase subunit
-100886	A	G	helicase-primase helicase subunit	helicase-primase helicase subunit
-100957	C	T	helicase-primase helicase subunit	helicase-primase helicase subunit
-101291	A	G	helicase-primase helicase subunit	helicase-primase helicase subunit
-101453	G	T	helicase-primase helicase subunit	helicase-primase helicase subunit
-101521	G	T	helicase-primase helicase subunit	helicase-primase helicase subunit
-101803	G	T	helicase-primase helicase subunit	helicase-primase helicase subunit,capsid portal protein
-101862	C	T	helicase-primase helicase subunit	helicase-primase helicase subunit,capsid portal protein
-101954	C	T	helicase-primase helicase subunit	helicase-primase helicase subunit,capsid portal protein
-101978	T	G	capsid portal protein	capsid portal protein
-102068	C	T	capsid portal protein	capsid portal protein
-102455	C	T	capsid portal protein	capsid portal protein
-102502	A	G	capsid portal protein	capsid portal protein
-102573	A	G	capsid portal protein	capsid portal protein
-102686	C	A	capsid portal protein	capsid portal protein
-102989	A	G	capsid portal protein	capsid portal protein
-102995	A	G	capsid portal protein	capsid portal protein
-103695	A	G	capsid portal protein	capsid portal protein,tegument protein UL7
-106688	A	G	helicase-primase subunit	helicase-primase subunit
-106891	G	T	envelope glycoprotein M	envelope glycoprotein M
-107223	A	G	envelope glycoprotein M	envelope glycoprotein M
-107367	C	T	envelope glycoprotein M	envelope glycoprotein M
-107458	G	A	envelope glycoprotein M	envelope glycoprotein M
-107593	A	G	envelope glycoprotein M	envelope glycoprotein M
-107604	C	A	envelope glycoprotein M	envelope glycoprotein M
-107793	G	A	envelope glycoprotein M	envelope glycoprotein M
-108013	G	A	envelope glycoprotein M	envelope glycoprotein M
-109819	T	G	protein UL95	protein UL95,tegument protein UL14,tegument serine/threonine protein kinase,deoxyribonuclease
-109894	T	C	protein UL95	protein UL95,tegument protein UL14,tegument serine/threonine protein kinase,deoxyribonuclease
-109917	A	T	protein UL95	protein UL95,tegument protein UL14,tegument serine/threonine protein kinase,deoxyribonuclease
-111506	T	C	protein UL95	protein UL95,tegument protein UL14
-112088	T	C	protein UL95	protein UL95
-112100	C	T	protein UL95	protein UL95
-112112	G	A	protein UL95	protein UL95
-112202	T	A	protein UL95	protein UL95
-112349	A	C	protein UL95	protein UL95
-112388	G	A	protein UL95	protein UL95
-112703	T	G	protein UL95	protein UL95,DNA packaging terminase subunit 1
-112712	C	T	protein UL95	protein UL95,DNA packaging terminase subunit 1
-112763	A	G	protein UL95	protein UL95,DNA packaging terminase subunit 1
-112919	T	C	DNA packaging terminase subunit 1	DNA packaging terminase subunit 1
-112994	A	C	DNA packaging terminase subunit 1	DNA packaging terminase subunit 1
-113264	A	G	DNA packaging terminase subunit 1	DNA packaging terminase subunit 1,protein UL91,protein UL92,DNA packaging tegument protein UL17,tegument protein UL16
-113719	A	G	DNA packaging terminase subunit 1	DNA packaging terminase subunit 1,protein UL91,protein UL92,DNA packaging tegument protein UL17,tegument protein UL16
-113860	C	T	DNA packaging terminase subunit 1	DNA packaging terminase subunit 1,protein UL91,protein UL92,DNA packaging tegument protein UL17,tegument protein UL16
-114217	A	T	DNA packaging terminase subunit 1	DNA packaging terminase subunit 1,protein UL91,protein UL92,DNA packaging tegument protein UL17,tegument protein UL16
-114250	T	G	DNA packaging terminase subunit 1	DNA packaging terminase subunit 1,protein UL91,protein UL92,DNA packaging tegument protein UL17,tegument protein UL16
-114758	C	G	DNA packaging terminase subunit 1	DNA packaging terminase subunit 1,protein UL91,protein UL92,DNA packaging tegument protein UL17
-115591	C	T	DNA packaging terminase subunit 1	DNA packaging terminase subunit 1,protein UL91,protein UL92,DNA packaging tegument protein UL17
-115691	A	C	DNA packaging terminase subunit 1	DNA packaging terminase subunit 1,protein UL91,protein UL92,DNA packaging tegument protein UL17
-115832	A	C	DNA packaging terminase subunit 1	DNA packaging terminase subunit 1,protein UL91,protein UL92,DNA packaging tegument protein UL17
-116808	A	G	DNA packaging terminase subunit 1	DNA packaging terminase subunit 1,protein UL91
-116876	C	G	DNA packaging terminase subunit 1	DNA packaging terminase subunit 1,protein UL91
-116887	C	G	DNA packaging terminase subunit 1	DNA packaging terminase subunit 1,protein UL91
-116902	C	A	DNA packaging terminase subunit 1	DNA packaging terminase subunit 1,protein UL91
-117232	C	T	DNA packaging terminase subunit 1	DNA packaging terminase subunit 1
-117796	C	A	DNA packaging terminase subunit 1	DNA packaging terminase subunit 1
-118379	A	T	capsid triplex subunit 2	capsid triplex subunit 2,envelope glycoprotein 48,envelope glycoprotein 150
-118531	A	G	capsid triplex subunit 2	capsid triplex subunit 2,envelope glycoprotein 48,envelope glycoprotein 150
-118560	A	G	capsid triplex subunit 2	capsid triplex subunit 2,envelope glycoprotein 48,envelope glycoprotein 150
-118587	A	G	capsid triplex subunit 2	capsid triplex subunit 2,envelope glycoprotein 48,envelope glycoprotein 150
-118710	A	G	capsid triplex subunit 2	capsid triplex subunit 2,envelope glycoprotein 48,envelope glycoprotein 150
-118745	T	G	capsid triplex subunit 2	capsid triplex subunit 2,envelope glycoprotein 48,envelope glycoprotein 150
-118746	A	G	capsid triplex subunit 2	capsid triplex subunit 2,envelope glycoprotein 48,envelope glycoprotein 150
-120321	G	A	capsid triplex subunit 2	capsid triplex subunit 2
-121861	A	C	major capsid protein	major capsid protein
-122482	A	G	major capsid protein	major capsid protein
-122490	C	T	major capsid protein	major capsid protein
-122491	A	G	major capsid protein	major capsid protein
-122611	G	T	major capsid protein	major capsid protein
-122635	G	A	major capsid protein	major capsid protein
-122725	T	C	major capsid protein	major capsid protein
-123028	A	T	major capsid protein	major capsid protein
-123228	A	C	major capsid protein	major capsid protein
-123493	A	G	major capsid protein	major capsid protein
-124273	A	G	major capsid protein	major capsid protein
-124579	G	A	major capsid protein	major capsid protein
-124618	A	G	major capsid protein	major capsid protein
-125082	A	G	major capsid protein	major capsid protein,protein UL87
-125089	A	G	major capsid protein	major capsid protein,protein UL87
-125273	A	G	major capsid protein	major capsid protein,protein UL87
-125365	G	T	major capsid protein	major capsid protein,protein UL87
-125389	G	A	major capsid protein	major capsid protein,protein UL87
-125413	C	T	major capsid protein	major capsid protein,protein UL87
-125574	A	G	protein UL87	protein UL87
-125688	G	A	protein UL87	protein UL87
-125719	T	G	protein UL87	protein UL87
-125890	T	C	protein UL87	protein UL87
-126064	C	T	protein UL87	protein UL87
-126094	T	C	protein UL87	protein UL87
-126098	T	G	protein UL87	protein UL87
-126125	T	G	protein UL87	protein UL87
-126136	G	A	protein UL87	protein UL87
-126172	G	C	protein UL87	protein UL87
-126173	C	A	protein UL87	protein UL87
-126174	G	T	protein UL87	protein UL87
-126187	G	T	protein UL87	protein UL87
-126232	A	G	protein UL87	protein UL87
-126271	A	G	protein UL87	protein UL87
-126375	C	T	protein UL87	protein UL87
-126427	C	T	protein UL87	protein UL87
-126682	G	A	protein UL87	protein UL87
-126819	G	A	protein UL87	protein UL87
-126882	A	G	protein UL87	protein UL87
-127195	G	T	protein UL87	protein UL87
-127598	A	G	protein UL87	protein UL87,tegument protein UL88
-127616	G	A	protein UL87	protein UL87,tegument protein UL88
-128037	A	G	protein UL87	protein UL87,tegument protein UL88
-129101	A	G	thymidine kinase	thymidine kinase,envelope glycoprotein H
-129200	C	A	thymidine kinase	thymidine kinase,envelope glycoprotein H
-129249	G	A	thymidine kinase	thymidine kinase,envelope glycoprotein H
-129338	T	C	thymidine kinase	thymidine kinase,envelope glycoprotein H
-129644	A	C	thymidine kinase	thymidine kinase,envelope glycoprotein H
-129656	C	A	thymidine kinase	thymidine kinase,envelope glycoprotein H
-129688	T	C	thymidine kinase	thymidine kinase,envelope glycoprotein H
-129836	A	G	thymidine kinase	thymidine kinase,envelope glycoprotein H
-129905	C	T	thymidine kinase	thymidine kinase,envelope glycoprotein H
-130159	C	T	thymidine kinase	thymidine kinase,envelope glycoprotein H
-130691	G	A	thymidine kinase	thymidine kinase,envelope glycoprotein H
-131496	G	A	thymidine kinase	thymidine kinase
-131751	T	C	thymidine kinase	thymidine kinase
-131776	A	G	thymidine kinase	thymidine kinase
-131901	G	A	thymidine kinase	thymidine kinase
-132036	G	A	thymidine kinase	thymidine kinase
-132183	G	T	thymidine kinase	thymidine kinase
-132246	C	T	thymidine kinase	thymidine kinase
-132393	G	T	thymidine kinase	thymidine kinase
-132399	G	A	thymidine kinase	thymidine kinase
-132429	A	G	thymidine kinase	thymidine kinase
-132585	G	A	thymidine kinase	thymidine kinase,nuclear protein UL24
-132606	A	G	thymidine kinase	thymidine kinase,nuclear protein UL24
-132633	T	C	thymidine kinase	thymidine kinase,nuclear protein UL24
-132673	C	A	thymidine kinase	thymidine kinase,nuclear protein UL24
-132717	G	A	thymidine kinase	thymidine kinase,nuclear protein UL24
-132756	A	G	thymidine kinase	thymidine kinase,nuclear protein UL24
-132830	A	C	thymidine kinase	thymidine kinase,nuclear protein UL24
-132831	T	C	thymidine kinase	thymidine kinase,nuclear protein UL24
-133780	G	A	nuclear protein UL24	nuclear protein UL24,DNA packaging tegument protein UL25
-134158	G	A	nuclear protein UL24	nuclear protein UL24,DNA packaging tegument protein UL25
-134200	T	C	nuclear protein UL24	nuclear protein UL24,DNA packaging tegument protein UL25
-134425	C	T	nuclear protein UL24	nuclear protein UL24,DNA packaging tegument protein UL25
-134665	G	A	nuclear protein UL24	nuclear protein UL24,DNA packaging tegument protein UL25,protein UL79
-134887	C	G	protein UL79	protein UL79
-135061	A	G	protein UL79	protein UL79
-135403	T	C	protein UL79	protein UL79
-135408	A	G	protein UL79	protein UL79
-135673	C	T	capsid maturation protease	capsid maturation protease
-135867	A	T	capsid maturation protease	capsid maturation protease
-135950	G	T	capsid maturation protease	capsid maturation protease
-136252	A	C	capsid maturation protease	capsid maturation protease
-136348	C	T	capsid maturation protease	capsid maturation protease,capsid scaffold protein
-136413	C	A	capsid maturation protease	capsid maturation protease,capsid scaffold protein
-136933	C	T	capsid maturation protease	capsid maturation protease,capsid scaffold protein
-136975	T	C	capsid maturation protease	capsid maturation protease,capsid scaffold protein
-137081	T	C	capsid maturation protease	capsid maturation protease,capsid scaffold protein
-137799	G	C	membrane protein BILF2	membrane protein BILF2
-137883	T	C	membrane protein BILF2	membrane protein BILF2
-138283	T	C	intergenic	intergenic
-138577	T	G	RPMS1	RPMS1
-138580	A	C	RPMS1	RPMS1
-138624	G	A	RPMS1	RPMS1
-138699	G	T	RPMS1	RPMS1
-138723	T	C	RPMS1	RPMS1
-138987	C	A	RPMS1	RPMS1
-139026	T	C	RPMS1	RPMS1
-139070	T	C	RPMS1	RPMS1
-139209	G	C	RPMS1	RPMS1
-139600	A	G	RPMS1	RPMS1
-139640	T	C	RPMS1	RPMS1
-139650	T	C	RPMS1	RPMS1
-139654	A	C	RPMS1	RPMS1
-140327	A	C	RPMS1	RPMS1
-140347	G	A	RPMS1	RPMS1
-140381	G	T	RPMS1	RPMS1
-140518	T	C	RPMS1	RPMS1
-140560	T	C	RPMS1	RPMS1
-140591	G	T	RPMS1	RPMS1,protein LF3
-140601	T	G	RPMS1	RPMS1,protein LF3
-140663	T	C	RPMS1	RPMS1,protein LF3
-140735	T	C	RPMS1	RPMS1,protein LF3
-140829	C	T	RPMS1	RPMS1,protein LF3
-140929	G	C	RPMS1	RPMS1,protein LF3
-143282	A	G	RPMS1	RPMS1,protein LF3
-143283	T	G	RPMS1	RPMS1,protein LF3
-143289	T	G	RPMS1	RPMS1,protein LF3
-143450	C	T	RPMS1	RPMS1,protein LF3
-143505	C	T	RPMS1	RPMS1,protein LF3
-143565	G	C	RPMS1	RPMS1,protein LF3
-143631	T	A	RPMS1	RPMS1,protein LF3
-143690	G	A	RPMS1	RPMS1,protein LF3
-144170	A	G	RPMS1	RPMS1
-144348	C	A	RPMS1	RPMS1
-144871	G	A	RPMS1	RPMS1
-144997	G	C	RPMS1	RPMS1
-145076	T	A	RPMS1	RPMS1
-145337	G	A	RPMS1	RPMS1
-145493	A	G	RPMS1	RPMS1
-145539	T	C	RPMS1	RPMS1
-145589	C	A	RPMS1	RPMS1
-145602	G	A	RPMS1	RPMS1
-145624	T	G	RPMS1	RPMS1
-145648	G	T	RPMS1	RPMS1
-145696	A	G	RPMS1	RPMS1
-145698	A	G	RPMS1	RPMS1
-145738	C	T	RPMS1	RPMS1
-146031	G	A	RPMS1	RPMS1
-146116	G	A	RPMS1	RPMS1
-146144	A	G	RPMS1	RPMS1
-146188	T	A	RPMS1	RPMS1
-146242	A	G	RPMS1	RPMS1
-146260	A	T	RPMS1	RPMS1
-146300	G	A	RPMS1	RPMS1
-146304	T	C	RPMS1	RPMS1
-146317	G	T	RPMS1	RPMS1
-146360	T	G	RPMS1	RPMS1
-146399	G	T	RPMS1	RPMS1
-146466	A	T	RPMS1	RPMS1
-146558	C	T	RPMS1	RPMS1
-146594	C	G	RPMS1	RPMS1
-146691	C	T	RPMS1	RPMS1
-146752	C	T	RPMS1	RPMS1
-148484	T	C	RPMS1	RPMS1
-148628	T	A	RPMS1	RPMS1
-149635	T	G	RPMS1	RPMS1,membrane protein BILF1,protein G10,virion protein G11
-149794	G	A	RPMS1	RPMS1,membrane protein BILF1,protein G10,virion protein G11
-150022	A	G	RPMS1	RPMS1,membrane protein BILF1,protein G10,virion protein G11
-150028	G	A	RPMS1	RPMS1,membrane protein BILF1,protein G10,virion protein G11
-150172	G	A	RPMS1	RPMS1,membrane protein BILF1,protein G10,virion protein G11
-150675	A	G	RPMS1	RPMS1,membrane protein BILF1,protein G10
-150750	C	T	RPMS1	RPMS1,membrane protein BILF1,protein G10
-150754	G	A	RPMS1	RPMS1,membrane protein BILF1,protein G10
-150981	C	T	RPMS1	RPMS1,membrane protein BILF1,protein G10
-151110	G	A	RPMS1	RPMS1,membrane protein BILF1,protein G10
-151140	G	T	RPMS1	RPMS1,membrane protein BILF1,protein G10
-151207	G	A	RPMS1	RPMS1,membrane protein BILF1,protein G10
-151644	T	C	RPMS1	RPMS1,membrane protein BILF1,protein G10,DNA polymerase catalytic subunit
-151671	C	A	RPMS1	RPMS1,membrane protein BILF1,protein G10,DNA polymerase catalytic subunit
-151701	A	G	RPMS1	RPMS1,membrane protein BILF1,DNA polymerase catalytic subunit
-151822	A	G	RPMS1	RPMS1,membrane protein BILF1,DNA polymerase catalytic subunit
-151943	A	G	RPMS1	RPMS1,membrane protein BILF1,DNA polymerase catalytic subunit
-152024	A	G	RPMS1	RPMS1,membrane protein BILF1,DNA polymerase catalytic subunit
-152245	T	G	RPMS1	RPMS1,membrane protein BILF1,DNA polymerase catalytic subunit
-152612	G	A	RPMS1	RPMS1,membrane protein BILF1,DNA polymerase catalytic subunit
-153961	A	C	RPMS1	RPMS1,DNA polymerase catalytic subunit
-154078	C	T	RPMS1	RPMS1,DNA polymerase catalytic subunit
-154387	T	C	RPMS1	RPMS1,DNA polymerase catalytic subunit
-154939	G	A	RPMS1	RPMS1,DNA polymerase catalytic subunit
-154972	G	T	RPMS1	RPMS1,DNA polymerase catalytic subunit
-155326	G	A	RPMS1	RPMS1,DNA polymerase catalytic subunit
-155389	C	T	RPMS1	RPMS1,DNA polymerase catalytic subunit
-157359	T	G	RPMS1	RPMS1,A73,DNA packaging terminase subunit 2,envelope glycoprotein B
-157428	A	G	RPMS1	RPMS1,A73,DNA packaging terminase subunit 2,envelope glycoprotein B
-157467	G	A	RPMS1	RPMS1,A73,DNA packaging terminase subunit 2,envelope glycoprotein B
-157535	T	C	RPMS1	RPMS1,A73,DNA packaging terminase subunit 2,envelope glycoprotein B
-157557	G	A	RPMS1	RPMS1,A73,DNA packaging terminase subunit 2,envelope glycoprotein B
-157578	A	G	RPMS1	RPMS1,A73,DNA packaging terminase subunit 2,envelope glycoprotein B
-157598	G	A	RPMS1	RPMS1,A73,DNA packaging terminase subunit 2,envelope glycoprotein B
-157619	A	G	RPMS1	RPMS1,A73,DNA packaging terminase subunit 2,envelope glycoprotein B
-157626	T	G	RPMS1	RPMS1,A73,DNA packaging terminase subunit 2,envelope glycoprotein B
-158016	C	G	RPMS1	RPMS1,A73,DNA packaging terminase subunit 2,envelope glycoprotein B
-158808	A	G	RPMS1	RPMS1,A73,DNA packaging terminase subunit 2,envelope glycoprotein B
-158947	G	C	RPMS1	RPMS1,A73,DNA packaging terminase subunit 2
-159208	T	C	RPMS1	RPMS1,A73,DNA packaging terminase subunit 2,protein BARF0
-159220	G	A	RPMS1	RPMS1,A73,DNA packaging terminase subunit 2,protein BARF0
-159760	C	G	RPMS1	RPMS1,A73,DNA packaging terminase subunit 2,protein BARF0
-159910	G	A	RPMS1	RPMS1,A73,DNA packaging terminase subunit 2,protein BARF0
-159960	C	G	RPMS1	RPMS1,A73,DNA packaging terminase subunit 2,protein BARF0
-160087	C	T	RPMS1	RPMS1,A73,DNA packaging terminase subunit 2,protein BARF0
-160243	C	A	RPMS1	RPMS1,A73,DNA packaging terminase subunit 2,protein BARF0
-160249	G	C	RPMS1	RPMS1,A73,DNA packaging terminase subunit 2,protein BARF0
-160621	A	G	DNA packaging terminase subunit 2	DNA packaging terminase subunit 2,single-stranded DNA-binding protein
-160804	C	T	DNA packaging terminase subunit 2	DNA packaging terminase subunit 2,single-stranded DNA-binding protein
-160842	T	C	DNA packaging terminase subunit 2	DNA packaging terminase subunit 2,single-stranded DNA-binding protein
-161119	T	C	single-stranded DNA-binding protein	single-stranded DNA-binding protein
-161640	G	A	single-stranded DNA-binding protein	single-stranded DNA-binding protein
-162675	T	C	single-stranded DNA-binding protein	single-stranded DNA-binding protein
-162885	G	A	single-stranded DNA-binding protein	single-stranded DNA-binding protein
-162963	A	G	single-stranded DNA-binding protein	single-stranded DNA-binding protein
-163458	T	C	single-stranded DNA-binding protein	single-stranded DNA-binding protein
-163482	T	G	single-stranded DNA-binding protein	single-stranded DNA-binding protein
-163869	C	A	single-stranded DNA-binding protein	single-stranded DNA-binding protein
-163916	T	C	single-stranded DNA-binding protein	single-stranded DNA-binding protein
-163953	C	T	single-stranded DNA-binding protein	single-stranded DNA-binding protein
-164148	G	A	single-stranded DNA-binding protein	single-stranded DNA-binding protein
-165736	T	C	intergenic	intergenic
-165749	T	G	intergenic	intergenic
-165939	G	C	intergenic	intergenic
-165953	C	T	intergenic	intergenic
-165965	T	C	intergenic	intergenic
-166169	T	G	LMP2A	LMP2A
-166625	A	C	LMP2A	LMP2A,LMP1,protein BNLF2a,protein BNLF2b
-167217	C	A	LMP2A	LMP2A,LMP1
-167377	T	C	LMP2A	LMP2A,LMP1
-167489	T	G	LMP2A	LMP2A,LMP1
-167767	A	T	LMP2A	LMP2A,LMP1
-167850	A	G	LMP2A	LMP2A,LMP1
-167862	T	C	LMP2A	LMP2A,LMP1
-167897	T	A	LMP2A	LMP2A,LMP1
-167899	G	T	LMP2A	LMP2A,LMP1
-167903	A	T	LMP2A	LMP2A,LMP1
-167937	C	T	LMP2A	LMP2A,LMP1
-167970	T	G	LMP2A	LMP2A,LMP1
-168177	C	G	LMP2A	LMP2A,LMP1
-168320	T	C	LMP2A	LMP2A,LMP1
-168383	T	C	LMP2A	LMP2A,LMP1
-168476	C	A	LMP2A	LMP2A,LMP1
-168499	T	G	LMP2A	LMP2A,LMP1
-168564	T	C	LMP2A	LMP2A,LMP1
-168622	A	T	LMP2A	LMP2A,LMP1
-168764	T	G	LMP2A	LMP2A,LMP1
-168834	C	T	LMP2A	LMP2A,LMP1
-169131	C	G	LMP2A	LMP2A
-169215	G	A	LMP2A	LMP2A
-169241	T	A	LMP2A	LMP2A
-169290	C	G	LMP2A	LMP2A
-169385	C	T	LMP2A	LMP2A,LMP2B
-169687	T	C	LMP2A	LMP2A,LMP2B
-169702	C	T	LMP2A	LMP2A,LMP2B
-169726	T	A	LMP2A	LMP2A,LMP2B
-169793	G	T	LMP2A	LMP2A,LMP2B
-169795	A	G	LMP2A	LMP2A,LMP2B
-169801	C	A	LMP2A	LMP2A,LMP2B
-169807	T	A	LMP2A	LMP2A,LMP2B
-169827	C	A	LMP2A	LMP2A,LMP2B
-169831	C	G	LMP2A	LMP2A,LMP2B
-169832	G	C	LMP2A	LMP2A,LMP2B
-169833	G	C	LMP2A	LMP2A,LMP2B
-169853	T	C	LMP2A	LMP2A,LMP2B
-169856	T	G	LMP2A	LMP2A,LMP2B
-169863	G	A	LMP2A	LMP2A,LMP2B
-169879	T	C	LMP2A	LMP2A,LMP2B
-169979	G	C	LMP2A	LMP2A,LMP2B
-169986	C	G	LMP2A	LMP2A,LMP2B
-170013	A	C	LMP2A	LMP2A,LMP2B
-170021	A	G	LMP2A	LMP2A,LMP2B
-170022	T	C	LMP2A	LMP2A,LMP2B
-170109	C	G	LMP2A	LMP2A,LMP2B
-170110	G	C	LMP2A	LMP2A,LMP2B
-170123	G	A	LMP2A	LMP2A,LMP2B
-170178	G	C	LMP2A	LMP2A,LMP2B
-170225	T	C	LMP2A	LMP2A,LMP2B
-170240	C	T	LMP2A	LMP2A,LMP2B
-170264	T	A	LMP2A	LMP2A,LMP2B
-170331	G	T	LMP2A	LMP2A,LMP2B
-170333	A	G	LMP2A	LMP2A,LMP2B
-170339	C	A	LMP2A	LMP2A,LMP2B
-170345	T	A	LMP2A	LMP2A,LMP2B
-170365	C	A	LMP2A	LMP2A,LMP2B
-170369	C	G	LMP2A	LMP2A,LMP2B
-170370	G	C	LMP2A	LMP2A,LMP2B
-170371	G	C	LMP2A	LMP2A,LMP2B
-170391	T	C	LMP2A	LMP2A,LMP2B
-170394	T	G	LMP2A	LMP2A,LMP2B
-170401	G	A	LMP2A	LMP2A,LMP2B
-170417	T	C	LMP2A	LMP2A,LMP2B
-170517	G	C	LMP2A	LMP2A,LMP2B
-170524	C	G	LMP2A	LMP2A,LMP2B
-170551	A	C	LMP2A	LMP2A,LMP2B
-170559	A	G	LMP2A	LMP2A,LMP2B
-170560	T	C	LMP2A	LMP2A,LMP2B
-170647	C	G	LMP2A	LMP2A,LMP2B
-170648	G	C	LMP2A	LMP2A,LMP2B
-170661	G	A	LMP2A	LMP2A,LMP2B
-170697	T	G	LMP2A	LMP2A,LMP2B
-170705	G	C	LMP2A	LMP2A,LMP2B
-170748	T	C	LMP2A	LMP2A,LMP2B
-170763	C	T	LMP2A	LMP2A,LMP2B
-170787	T	A	LMP2A	LMP2A,LMP2B
-170854	G	T	LMP2A	LMP2A,LMP2B
-170856	A	G	LMP2A	LMP2A,LMP2B
-170862	C	A	LMP2A	LMP2A,LMP2B
-170868	T	A	LMP2A	LMP2A,LMP2B
-170888	C	A	LMP2A	LMP2A,LMP2B
-170892	C	G	LMP2A	LMP2A,LMP2B
-170893	G	C	LMP2A	LMP2A,LMP2B
-170894	G	C	LMP2A	LMP2A,LMP2B
-170914	T	C	LMP2A	LMP2A,LMP2B
-170917	T	G	LMP2A	LMP2A,LMP2B
-170924	G	A	LMP2A	LMP2A,LMP2B
-170940	T	C	LMP2A	LMP2A,LMP2B
-171040	G	C	LMP2A	LMP2A,LMP2B
-171047	C	G	LMP2A	LMP2A,LMP2B
-171074	A	C	LMP2A	LMP2A,LMP2B
-171082	A	G	LMP2A	LMP2A,LMP2B
-171083	T	C	LMP2A	LMP2A,LMP2B
-171170	C	G	LMP2A	LMP2A,LMP2B
-171171	G	C	LMP2A	LMP2A,LMP2B
-171184	G	A	LMP2A	LMP2A,LMP2B
-37726	C	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-37728	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-37729	C	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-37735	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-37743	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNALP
-37750	A	C	EBNA3B	EBNA1,EBNA3B,EBNA3A
-37766	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A
-37785	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A
-37805	A	C	EBNA3B	EBNA1,EBNA3B,EBNA3A
-37808	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A
-37815	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A
-37819	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A
-37835	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A
-37861	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A
-37880	A	C	EBNA3B	EBNA1,EBNA3B,EBNA3A
-37894	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A
-37922	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A
-37955	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A
-37970	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A
-38034	G	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,protein BHLF1
-38035	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,protein BHLF1
-38083	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,protein BHLF1
-38301	T	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,protein BHLF1
-38660	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,protein BHLF1
-38801	T	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,protein BHLF1
-39176	T	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,protein BHLF1
-39410	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,protein BHLF1
-39551	T	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,protein BHLF1
-40166	A	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,protein BHLF1
-40197	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,protein BHLF1
-41822	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,apoptosis regulator BHRF1
-41823	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,apoptosis regulator BHRF1
-41835	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,apoptosis regulator BHRF1
-41855	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,apoptosis regulator BHRF1
-41856	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,apoptosis regulator BHRF1
-41857	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,apoptosis regulator BHRF1
-41904	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,apoptosis regulator BHRF1
-42327	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,apoptosis regulator BHRF1
-43568	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A
-45403	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,DNA packaging protein UL32
-46645	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,DNA packaging protein UL33,nuclear egress membrane protein
-46827	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,DNA packaging protein UL33,nuclear egress membrane protein
-48025	A	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,DNA packaging protein UL33,nuclear egress membrane protein,protein UL49
-48028	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,DNA packaging protein UL33,nuclear egress membrane protein,protein UL49
-48506	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,DNA packaging protein UL33,nuclear egress membrane protein,protein UL49
-49677	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,DNA packaging protein UL33,nuclear egress membrane protein,protein UL49,small capsid protein
-49713	C	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,DNA packaging protein UL33,nuclear egress membrane protein,protein UL49,small capsid protein
-49725	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,DNA packaging protein UL33,nuclear egress membrane protein,protein UL49,small capsid protein
-50882	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-50885	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-51034	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-51153	C	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-51394	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-52403	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-52808	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-53411	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-53772	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-53774	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-53816	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-53873	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-53948	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-54137	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-54364	C	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-54521	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-54635	A	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-54657	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-54957	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-55297	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-55619	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-55745	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-56150	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-56269	C	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-56432	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-56456	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-56485	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-56511	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-56514	G	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-56555	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-56582	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-56586	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-56701	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-56854	A	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-56950	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-57161	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-57367	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-57373	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-57423	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-57497	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-57530	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-57549	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-57553	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-57568	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-57569	A	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-57570	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-57573	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-57575	T	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-57643	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-57697	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-57798	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-58027	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-58169	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,large tegument protein,EBNA-1%2C QUK transcript
-60049	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,EBNA-1%2C QUK transcript
-61168	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,EBNA-1%2C QUK transcript
-61260	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,EBNA-1%2C QUK transcript
-61278	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,EBNA-1%2C QUK transcript
-61431	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,EBNA-1%2C QUK transcript
-61580	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,EBNA-1%2C QUK transcript
-62121	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,EBNA-1%2C QUK transcript
-62169	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,EBNA-1%2C QUK transcript
-62501	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,EBNA-1%2C QUK transcript
-62592	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,EBNA-1%2C QUK transcript
-62769	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,EBNA-1%2C QUK transcript,capsid triplex subunit 1
-62892	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,EBNA-1%2C QUK transcript,capsid triplex subunit 1
-62924	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,tegument protein UL37,EBNA-1%2C QUK transcript,capsid triplex subunit 1
-63264	C	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,capsid triplex subunit 1
-63689	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,capsid triplex subunit 1
-63864	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,capsid triplex subunit 1
-63897	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,capsid triplex subunit 1,ribonucleotide reductase subunit 1
-64139	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,capsid triplex subunit 1,ribonucleotide reductase subunit 1
-64217	C	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,capsid triplex subunit 1,ribonucleotide reductase subunit 1
-64862	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,capsid triplex subunit 1,ribonucleotide reductase subunit 1
-64872	A	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,capsid triplex subunit 1,ribonucleotide reductase subunit 1
-64883	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,capsid triplex subunit 1,ribonucleotide reductase subunit 1
-65024	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,capsid triplex subunit 1,ribonucleotide reductase subunit 1
-65273	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,capsid triplex subunit 1,ribonucleotide reductase subunit 1
-69102	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,ribonucleotide reductase subunit 2,DNA polymerase processivity subunit,envelope protein UL43
-69670	A	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,ribonucleotide reductase subunit 2,DNA polymerase processivity subunit,envelope protein UL43
-71277	C	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,helicase-primase primase subunit,multifunctional expression regulator
-71690	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,helicase-primase primase subunit,multifunctional expression regulator
-71780	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,helicase-primase primase subunit,multifunctional expression regulator
-73090	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,helicase-primase primase subunit
-73265	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,helicase-primase primase subunit
-73523	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,helicase-primase primase subunit
-73726	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,helicase-primase primase subunit
-73874	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,helicase-primase primase subunit
-73889	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,helicase-primase primase subunit
-74222	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,helicase-primase primase subunit
-74854	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,tegument protein UL51
-75430	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,deoxyuridine triphosphatase
-75448	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,deoxyuridine triphosphatase
-76604	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,envelope glycoprotein N,virion protein G52
-76762	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,envelope glycoprotein N,virion protein G52
-76909	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,envelope glycoprotein N,virion protein G52
-76918	T	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,envelope glycoprotein N,virion protein G52
-77056	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,envelope glycoprotein N,virion protein G52
-77131	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-77196	A	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350,protein BLLF2
-77211	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350,protein BLLF2
-77325	T	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350,protein BLLF2
-77432	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350,protein BLLF2
-77606	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350,protein BLLF2
-77703	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350,protein BLLF2
-77737	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350,protein BLLF2
-77849	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350
-77851	T	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350
-77941	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350
-77963	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350
-77979	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350
-77993	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350
-78021	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350
-78029	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350
-78069	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350
-78091	C	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350
-78146	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350
-78192	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350
-78341	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350
-78383	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350
-78544	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350
-79026	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350
-79299	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350
-79344	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350
-79410	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350
-79416	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350
-79419	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350
-79455	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350
-79523	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350
-79650	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350
-79666	T	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350
-79682	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350
-79688	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350
-79723	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350
-79752	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350
-79754	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350
-79755	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350
-79774	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350
-79803	T	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350
-79808	C	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350
-79815	A	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350
-79821	C	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350
-79872	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350
-79893	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript,glycoprotein 350
-79908	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-79942	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-79977	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-79986	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80011	C	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80025	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80029	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80037	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80040	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80041	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80044	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80046	C	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80075	T	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80096	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80125	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80126	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80133	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80139	C	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80140	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80149	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80159	C	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80173	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80187	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80190	C	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80192	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80196	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80200	A	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80203	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80208	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80214	T	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80221	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80237	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80238	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80248	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80255	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80262	C	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80263	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80264	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80267	C	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80275	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80287	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80300	A	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80312	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80314	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80334	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80341	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80360	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80383	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80385	A	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80386	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80393	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80438	G	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80439	A	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80445	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80492	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80511	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80512	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80518	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80529	C	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80532	C	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80533	A	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80534	A	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80546	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80549	A	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80576	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80602	A	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80607	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80608	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80613	C	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80618	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80619	T	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80622	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80630	C	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80639	A	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80649	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80652	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80669	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80681	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80695	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80698	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80710	C	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80711	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80745	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80746	C	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80754	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80757	A	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80762	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80768	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80770	G	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80777	C	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80778	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80801	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80807	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80813	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80837	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80843	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80844	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80855	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80865	T	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80882	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80885	A	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80894	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80895	A	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80897	A	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80903	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80907	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80908	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80912	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80931	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80937	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80955	C	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80969	C	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80975	C	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-80987	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81017	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81026	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81035	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81039	A	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81040	T	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81062	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81070	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81084	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81092	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81095	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81113	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81125	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81137	T	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81144	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81147	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81158	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81160	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81165	C	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81171	G	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81172	T	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81175	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81192	A	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81200	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81216	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81234	C	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81238	C	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81239	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81244	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81247	G	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81250	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81255	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81256	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81262	A	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81263	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81271	G	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81273	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81276	A	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81302	T	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81307	C	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81329	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81336	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81338	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-8059	G	A	intergenic	intergenic
-8122	T	C	intergenic	intergenic
-8128	C	T	intergenic	intergenic
-8275	T	G	intergenic	intergenic
-8689	G	A	intergenic	intergenic
-8953	C	T	intergenic	intergenic
-9062	A	G	intergenic	intergenic
-9097	A	G	intergenic	intergenic
-9137	C	A	intergenic	intergenic
-9158	A	C	intergenic	intergenic
-9166	T	C	intergenic	intergenic
-9234	G	A	intergenic	intergenic
-9292	G	A	intergenic	intergenic
-9351	C	T	intergenic	intergenic
-9788	A	G	interleukin-10 BCRF1	interleukin-10 BCRF1
-9980	C	A	interleukin-10 BCRF1	interleukin-10 BCRF1
-10398	A	G	intergenic	intergenic
-10577	A	G	intergenic	intergenic
-10599	C	T	intergenic	intergenic
-10665	C	A	intergenic	intergenic
-10714	G	A	intergenic	intergenic
-10720	C	T	intergenic	intergenic
-10725	C	T	intergenic	intergenic
-10751	T	C	intergenic	intergenic
-10935	T	C	intergenic	intergenic
-11039	A	C	intergenic	intergenic
-11340	C	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2
-12128	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2
-12129	T	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2
-12558	T	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,protein BWRF1
-12649	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,protein BWRF1
-12657	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,protein BWRF1
-12703	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,protein BWRF1
-12778	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,protein BWRF1
-12792	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,protein BWRF1
-12800	G	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,protein BWRF1
-13095	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,protein BWRF1
-13175	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,protein BWRF1
-13177	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,protein BWRF1
-13192	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,protein BWRF1
-13241	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,protein BWRF1
-13249	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,protein BWRF1
-13458	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,protein BWRF1
-13530	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,protein BWRF1
-13583	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,protein BWRF1
-13593	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,protein BWRF1
-13612	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,protein BWRF1
-13835	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2
-14513	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-14576	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-14587	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-14928	A	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-15096	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-15200	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-15630	T	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-15721	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-15729	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-15775	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-15850	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-15864	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-15872	G	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-16167	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-16247	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-16249	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-16264	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-16313	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-16321	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-16530	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-16602	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-16655	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-16665	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-16684	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-16907	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-17585	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-17648	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-17659	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-18000	A	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-18168	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-18272	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-18702	T	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-18793	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-18801	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-18847	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-18922	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-18936	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-18944	G	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-19239	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-19319	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-19321	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-19336	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-19385	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-19393	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-19602	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-19674	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-19727	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-19737	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-19756	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-19979	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-20657	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-20720	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-20731	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-21072	A	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-21240	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-21344	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-21774	T	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-21865	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-21873	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-21919	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-21994	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-22008	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-22016	G	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-22311	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-22391	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-22393	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-22408	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-22457	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-22465	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-22674	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-22746	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-22799	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-22809	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-22828	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-23051	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-23729	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-23792	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-23803	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-24144	A	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-24312	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-24416	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-24846	T	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-24937	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-24945	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-24991	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-25066	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-25080	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-25088	G	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-25383	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-25463	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-25465	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-25480	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-25529	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-25537	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-25746	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-25818	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-25871	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-25881	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-25900	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-26123	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-26801	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-26864	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-26875	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-27216	A	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-27384	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-27488	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-27918	T	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-28009	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-28017	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-28063	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-28138	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-28152	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-28160	G	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-28455	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-28535	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-28537	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-28552	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-28601	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-28609	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-28818	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-28890	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-28943	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-28953	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-28972	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-29195	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-29873	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-29936	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-29947	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-30288	A	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-30456	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-30560	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-30990	T	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-31081	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-31089	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-31135	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-31210	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-31224	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-31232	G	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-31527	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-31607	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-31609	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-31624	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-31673	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-31681	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-31890	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-31962	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-32015	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-32025	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-32044	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-32267	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-32945	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-33008	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-33019	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-33360	A	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-33528	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-33632	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-34062	T	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-34153	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-34161	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-34207	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-34282	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-34296	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-34304	G	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-34599	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-34679	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-34681	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-34696	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-34745	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-34753	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-34962	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-35034	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-35087	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-35097	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-35116	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP,protein BWRF1
-35339	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35356	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35463	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35490	C	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35492	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35493	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35502	T	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35504	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35518	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35538	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35619	A	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35622	C	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35623	C	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35624	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35625	C	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35631	G	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35636	C	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35638	A	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35644	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35651	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35652	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35772	G	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35774	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35781	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35806	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35831	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35832	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35839	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35840	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35846	C	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35866	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35879	C	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35909	C	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35925	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35933	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35938	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35946	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35949	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35950	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35951	C	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35973	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35993	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-35999	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-36011	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-36012	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-36023	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-36056	T	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-36102	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-36107	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-36209	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
-36226	T	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA2,EBNALP
+7	C	T	intergenic	intergenic
 25	C	G	intergenic	intergenic
-100	C	G	intergenic	intergenic
-253	G	T	intergenic	intergenic
-475	T	G	intergenic	intergenic
-479	A	G	intergenic	intergenic
-640	C	T	intergenic	intergenic
-778	A	G	intergenic	intergenic
-1438	T	A	intergenic	intergenic
-1741	A	G	tegument protein G75	tegument protein G75
-1744	G	T	tegument protein G75	tegument protein G75
-1841	G	C	tegument protein G75	tegument protein G75
-1870	A	C	tegument protein G75	tegument protein G75
-2251	C	T	tegument protein G75	tegument protein G75
-2640	A	G	tegument protein G75	tegument protein G75
-2719	C	T	tegument protein G75	tegument protein G75
-2794	C	T	tegument protein G75	tegument protein G75
-2971	C	T	tegument protein G75	tegument protein G75
-3112	T	C	tegument protein G75	tegument protein G75
-3286	G	A	tegument protein G75	tegument protein G75
-3494	A	C	tegument protein G75	tegument protein G75
-3814	A	G	tegument protein G75	tegument protein G75
-3934	C	T	tegument protein G75	tegument protein G75
-3942	G	T	tegument protein G75	tegument protein G75
-4020	C	T	tegument protein G75	tegument protein G75
-4125	A	G	tegument protein G75	tegument protein G75
-4135	C	T	tegument protein G75	tegument protein G75
-4303	A	G	tegument protein G75	tegument protein G75
-4690	A	C	tegument protein G75	tegument protein G75
-4753	G	T	tegument protein G75	tegument protein G75
-4823	T	C	tegument protein G75	tegument protein G75
-5064	T	C	tegument protein G75	tegument protein G75
-5452	T	C	tegument protein G75	tegument protein G75
-5746	T	G	tegument protein G75	tegument protein G75
-5811	A	C	tegument protein G75	tegument protein G75
+100	C	G	LMP2B	LMP2B
+253	G	T	LMP2B	LMP2B
+475	T	G	LMP2B	LMP2B
+479	A	G	LMP2B	LMP2B
+640	C	T	LMP2B	LMP2B
+778	A	G	LMP2B	LMP2B
+1438	T	A	LMP2B	LMP2B
+1741	A	G	BNRF1	BNRF1
+1744	G	T	BNRF1	BNRF1
+1841	G	C	BNRF1	BNRF1
+1870	A	C	BNRF1	BNRF1
+2251	C	T	BNRF1	BNRF1
+2640	A	G	BNRF1	BNRF1
+2719	C	T	BNRF1	BNRF1
+2794	C	T	BNRF1	BNRF1
+2971	C	T	BNRF1	BNRF1
+3112	T	C	BNRF1	BNRF1
+3286	G	A	BNRF1	BNRF1
+3494	A	C	BNRF1	BNRF1
+3814	A	G	BNRF1	BNRF1
+3934	C	T	BNRF1	BNRF1
+3942	G	T	BNRF1	BNRF1
+4020	C	T	BNRF1	BNRF1
+4125	A	G	BNRF1	BNRF1
+4135	C	T	BNRF1	BNRF1
+4303	A	G	BNRF1	BNRF1
+4690	A	C	BNRF1	BNRF1
+4753	G	T	BNRF1	BNRF1
+4823	T	C	BNRF1	BNRF1
+5064	T	C	BNRF1	BNRF1
+5452	T	C	BNRF1	BNRF1
+5746	T	G	intergenic	intergenic
+5811	A	C	intergenic	intergenic
 6035	C	T	intergenic	intergenic
 6182	T	C	intergenic	intergenic
 6370	T	G	intergenic	intergenic
@@ -1194,7 +43,7 @@ pos_NC_007605.1	base_NC_007605.1	base_other	gene	genes_all
 6911	A	G	intergenic	intergenic
 6927	G	A	intergenic	intergenic
 6944	G	A	intergenic	intergenic
-7123	A	G	intergenic	intergenic
+7123	A	G	EBER2	EBER2
 7198	C	A	intergenic	intergenic
 7231	A	G	intergenic	intergenic
 7427	C	T	intergenic	intergenic
@@ -1234,306 +83,2145 @@ pos_NC_007605.1	base_NC_007605.1	base_other	gene	genes_all
 7800	C	G	intergenic	intergenic
 7818	A	G	intergenic	intergenic
 7825	A	G	intergenic	intergenic
-81791	T	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81803	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81812	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81871	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81873	A	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81874	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81875	A	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81900	C	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81939	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81949	T	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81975	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-81992	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-82001	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-82003	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-82009	C	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-82011	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-82022	G	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-82025	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-82034	A	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-82057	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-82084	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-82214	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-82235	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-82240	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-82252	C	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-82260	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-82462	C	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-82473	A	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-82483	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-82487	T	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-82533	C	T	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-82584	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-82606	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-82658	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-82672	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-82763	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-82764	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-82772	A	G	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-82783	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-82786	C	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-82791	A	C	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-82815	G	A	EBNA3B	EBNA1,EBNA3B,EBNA3A,EBNA-1%2C QUK transcript
-82964	G	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-82967	T	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83037	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83063	T	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83161	A	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83162	C	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83178	G	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83192	A	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83293	C	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83319	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83331	T	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83343	C	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83400	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83406	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83454	C	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83463	T	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83482	G	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83515	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83517	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83559	A	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83580	C	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83608	A	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83622	A	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83627	T	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83640	T	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83656	T	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83660	G	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83665	T	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83685	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83691	T	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83693	A	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83700	A	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83716	T	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83724	G	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83727	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83730	T	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83739	G	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83740	G	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83769	T	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83776	A	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83777	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83789	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83793	G	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83815	A	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83826	A	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83847	C	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83860	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83928	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83946	T	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83969	A	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83980	T	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83986	A	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-83988	T	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-84004	T	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-84009	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-84033	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85313	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85317	A	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85320	T	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85328	T	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85332	G	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85340	C	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85373	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85377	A	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85380	T	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85388	T	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85391	T	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85392	G	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85398	T	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85399	C	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85411	G	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85415	T	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85422	T	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85424	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85426	G	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85428	T	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85431	T	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85435	C	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85443	G	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85444	A	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85452	A	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85456	T	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85464	A	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85487	A	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85488	A	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85509	A	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85510	C	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85515	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85544	G	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85547	A	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85548	G	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85563	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85566	C	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85569	C	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85570	A	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85574	A	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85590	G	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85594	A	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85602	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85611	T	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85612	T	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85614	G	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85626	G	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85633	G	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85640	G	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85648	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85652	C	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85657	A	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85669	G	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85699	A	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85711	G	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85712	G	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85715	T	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85726	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85734	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85755	A	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85757	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85763	T	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85764	C	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85765	G	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85774	A	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85781	C	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85783	G	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85787	T	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85794	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85801	G	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85806	G	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85813	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85816	G	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85817	T	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85824	C	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85826	T	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85837	G	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85845	G	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85877	C	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85891	G	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85903	C	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85950	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85964	G	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85965	C	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85969	T	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-85994	G	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86000	A	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86058	A	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86101	C	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86114	G	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86124	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86132	A	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86143	A	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86153	C	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86157	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86160	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86167	G	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86168	A	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86178	T	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86191	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86194	T	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86197	A	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86199	T	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86212	A	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86221	C	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86230	T	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86232	A	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86233	T	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86247	G	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86250	A	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86251	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86253	T	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86254	T	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86262	A	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86265	C	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86325	T	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86328	C	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86351	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86370	A	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86376	G	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86388	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86401	A	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86402	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86421	T	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86432	G	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86448	T	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86519	A	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86561	G	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86577	A	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86641	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86642	G	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86648	C	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86654	G	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86675	A	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86689	A	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86697	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86711	T	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86783	A	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86800	C	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86806	G	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86808	A	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86811	C	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86825	T	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86839	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86848	A	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86894	A	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86926	A	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86938	A	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86973	A	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86985	T	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-86990	C	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87052	A	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87054	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87057	G	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87146	G	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87167	C	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87179	C	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87187	G	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87199	T	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87232	A	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87266	T	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87275	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87296	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87311	C	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87344	T	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87353	G	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87394	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87397	A	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87409	A	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87416	T	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87422	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87425	G	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87454	A	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87467	T	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87468	G	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87480	A	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87494	A	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87522	G	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87528	T	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87535	T	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87537	A	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87555	C	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87557	G	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87563	G	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87565	T	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87568	A	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87571	T	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87573	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87577	T	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87590	T	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87591	C	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87601	C	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87604	T	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87609	A	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87612	C	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87614	G	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87618	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87620	A	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87621	G	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87630	A	C	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87638	G	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87647	T	G	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87671	G	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87674	C	T	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
-87684	G	A	EBNA3B	EBNA1,EBNA3B,EBNA-1%2C QUK transcript
+7856	G	A	intergenic	intergenic
+7860	T	G	intergenic	intergenic
+7866	A	G	intergenic	intergenic
+7874	C	A	intergenic	intergenic
+7882	C	T	intergenic	intergenic
+7885	A	T	intergenic	intergenic
+7886	G	A	intergenic	intergenic
+7889	A	C	intergenic	intergenic
+7891	A	C	intergenic	intergenic
+7892	A	T	intergenic	intergenic
+7895	T	C	intergenic	intergenic
+7896	A	T	intergenic	intergenic
+7899	A	G	intergenic	intergenic
+7912	C	T	intergenic	intergenic
+7915	A	T	intergenic	intergenic
+7916	G	A	intergenic	intergenic
+7919	A	C	intergenic	intergenic
+7921	A	C	intergenic	intergenic
+7922	G	T	intergenic	intergenic
+7925	T	A	intergenic	intergenic
+7926	A	T	intergenic	intergenic
+7929	A	G	intergenic	intergenic
+7942	C	T	intergenic	intergenic
+7945	A	T	intergenic	intergenic
+7946	G	A	intergenic	intergenic
+7949	A	C	intergenic	intergenic
+7952	G	T	intergenic	intergenic
+7955	T	C	intergenic	intergenic
+7956	A	T	intergenic	intergenic
+7959	A	G	intergenic	intergenic
+7964	C	A	intergenic	intergenic
+7968	G	A	intergenic	intergenic
+7972	C	T	intergenic	intergenic
+7975	A	T	intergenic	intergenic
+7976	G	A	intergenic	intergenic
+7979	A	C	intergenic	intergenic
+7981	A	C	intergenic	intergenic
+7982	G	T	intergenic	intergenic
+7985	T	A	intergenic	intergenic
+7986	A	T	intergenic	intergenic
+7989	A	G	intergenic	intergenic
+8006	G	T	intergenic	intergenic
+8011	T	C	intergenic	intergenic
+8019	T	C	intergenic	intergenic
+8028	C	T	intergenic	intergenic
+8033	G	C	intergenic	intergenic
+8059	G	A	intergenic	intergenic
+8122	T	C	intergenic	intergenic
+8128	C	T	intergenic	intergenic
+8275	T	G	intergenic	intergenic
+8689	G	A	intergenic	intergenic
+8953	C	T	intergenic	intergenic
+9062	A	G	intergenic	intergenic
+9097	A	G	intergenic	intergenic
+9137	C	A	intergenic	intergenic
+9158	A	C	intergenic	intergenic
+9166	T	C	intergenic	intergenic
+9234	G	A	intergenic	intergenic
+9292	G	A	intergenic	intergenic
+9351	C	T	intergenic	intergenic
+9788	A	G	BCRF1	BCRF1
+9980	C	A	BCRF1	BCRF1
+10398	A	G	intergenic	intergenic
+10577	A	G	intergenic	intergenic
+10599	C	T	intergenic	intergenic
+10665	C	A	intergenic	intergenic
+10714	G	A	intergenic	intergenic
+10720	C	T	intergenic	intergenic
+10725	C	T	intergenic	intergenic
+10751	T	C	intergenic	intergenic
+10935	T	C	intergenic	intergenic
+11039	A	C	intergenic	intergenic
+11340	C	A	intergenic	intergenic
+12128	G	T	intergenic	intergenic
+12129	T	A	intergenic	intergenic
+12558	T	A	BWRF1	BWRF1
+12649	T	C	BWRF1	BWRF1
+12657	A	G	BWRF1	BWRF1
+12703	T	C	BWRF1	BWRF1
+12778	T	G	BWRF1	BWRF1
+12792	G	A	BWRF1	BWRF1
+12800	G	C	BWRF1	BWRF1
+13095	A	G	BWRF1	BWRF1
+13175	T	C	BWRF1	BWRF1
+13177	G	A	BWRF1	BWRF1
+13192	C	T	BWRF1	BWRF1
+13241	G	T	BWRF1	BWRF1
+13249	G	A	BWRF1	BWRF1
+13458	C	T	BWRF1	BWRF1
+13530	T	G	BWRF1	BWRF1
+13583	G	A	BWRF1	BWRF1
+13593	T	C	BWRF1	BWRF1
+13612	G	T	BWRF1	BWRF1
+13835	T	C	BWRF1	BWRF1
+14513	C	T	BWRF1	BWRF1,EBNALP
+14576	G	T	BWRF1	BWRF1,EBNALP
+14587	A	G	BWRF1	BWRF1,EBNALP
+14928	A	T	BWRF1	BWRF1,EBNALP
+15096	T	G	BWRF1	BWRF1,EBNALP
+15200	G	T	BWRF1	BWRF1,EBNALP
+15630	T	A	BWRF1	BWRF1,EBNALP
+15721	T	C	BWRF1	BWRF1,EBNALP
+15729	A	G	BWRF1	BWRF1,EBNALP
+15775	T	C	BWRF1	BWRF1,EBNALP
+15850	T	G	BWRF1	BWRF1,EBNALP
+15864	G	A	BWRF1	BWRF1,EBNALP
+15872	G	C	BWRF1	BWRF1,EBNALP
+16167	A	G	BWRF1	BWRF1,EBNALP
+16247	T	C	BWRF1	BWRF1,EBNALP
+16249	G	A	BWRF1	BWRF1,EBNALP
+16264	C	T	BWRF1	BWRF1,EBNALP
+16313	G	T	BWRF1	BWRF1,EBNALP
+16321	G	A	BWRF1	BWRF1,EBNALP
+16530	C	T	BWRF1	BWRF1,EBNALP
+16602	T	G	BWRF1	BWRF1,EBNALP
+16655	G	A	BWRF1	BWRF1,EBNALP
+16665	T	C	BWRF1	BWRF1,EBNALP
+16684	G	T	BWRF1	BWRF1,EBNALP
+16907	T	C	BWRF1	BWRF1,EBNALP
+17585	C	T	BWRF1	BWRF1,EBNALP
+17648	G	T	BWRF1	BWRF1,EBNALP
+17659	A	G	BWRF1	BWRF1,EBNALP
+18000	A	T	BWRF1	BWRF1,EBNALP
+18168	T	G	BWRF1	BWRF1,EBNALP
+18272	G	T	BWRF1	BWRF1,EBNALP
+18702	T	A	BWRF1	BWRF1,EBNALP
+18793	T	C	BWRF1	BWRF1,EBNALP
+18801	A	G	BWRF1	BWRF1,EBNALP
+18847	T	C	BWRF1	BWRF1,EBNALP
+18922	T	G	BWRF1	BWRF1,EBNALP
+18936	G	A	BWRF1	BWRF1,EBNALP
+18944	G	C	BWRF1	BWRF1,EBNALP
+19239	A	G	BWRF1	BWRF1,EBNALP
+19319	T	C	BWRF1	BWRF1,EBNALP
+19321	G	A	BWRF1	BWRF1,EBNALP
+19336	C	T	BWRF1	BWRF1,EBNALP
+19385	G	T	BWRF1	BWRF1,EBNALP
+19393	G	A	BWRF1	BWRF1,EBNALP
+19602	C	T	BWRF1	BWRF1,EBNALP
+19674	T	G	BWRF1	BWRF1,EBNALP
+19727	G	A	BWRF1	BWRF1,EBNALP
+19737	T	C	BWRF1	BWRF1,EBNALP
+19756	G	T	BWRF1	BWRF1,EBNALP
+19979	T	C	BWRF1	BWRF1,EBNALP
+20657	C	T	BWRF1	BWRF1,EBNALP
+20720	G	T	BWRF1	BWRF1,EBNALP
+20731	A	G	BWRF1	BWRF1,EBNALP
+21072	A	T	BWRF1	BWRF1,EBNALP
+21240	T	G	BWRF1	BWRF1,EBNALP
+21344	G	T	BWRF1	BWRF1,EBNALP
+21774	T	A	BWRF1	BWRF1,EBNALP
+21865	T	C	BWRF1	BWRF1,EBNALP
+21873	A	G	BWRF1	BWRF1,EBNALP
+21919	T	C	BWRF1	BWRF1,EBNALP
+21994	T	G	BWRF1	BWRF1,EBNALP
+22008	G	A	BWRF1	BWRF1,EBNALP
+22016	G	C	BWRF1	BWRF1,EBNALP
+22311	A	G	BWRF1	BWRF1,EBNALP
+22391	T	C	BWRF1	BWRF1,EBNALP
+22393	G	A	BWRF1	BWRF1,EBNALP
+22408	C	T	BWRF1	BWRF1,EBNALP
+22457	G	T	BWRF1	BWRF1,EBNALP
+22465	G	A	BWRF1	BWRF1,EBNALP
+22674	C	T	BWRF1	BWRF1,EBNALP
+22746	T	G	BWRF1	BWRF1,EBNALP
+22799	G	A	BWRF1	BWRF1,EBNALP
+22809	T	C	BWRF1	BWRF1,EBNALP
+22828	G	T	BWRF1	BWRF1,EBNALP
+23051	T	C	BWRF1	BWRF1,EBNALP
+23729	C	T	BWRF1	BWRF1,EBNALP
+23792	G	T	BWRF1	BWRF1,EBNALP
+23803	A	G	BWRF1	BWRF1,EBNALP
+24144	A	T	BWRF1	BWRF1,EBNALP
+24312	T	G	BWRF1	BWRF1,EBNALP
+24416	G	T	BWRF1	BWRF1,EBNALP
+24846	T	A	BWRF1	BWRF1,EBNALP
+24937	T	C	BWRF1	BWRF1,EBNALP
+24945	A	G	BWRF1	BWRF1,EBNALP
+24991	T	C	BWRF1	BWRF1,EBNALP
+25066	T	G	BWRF1	BWRF1,EBNALP
+25080	G	A	BWRF1	BWRF1,EBNALP
+25088	G	C	BWRF1	BWRF1,EBNALP
+25383	A	G	BWRF1	BWRF1,EBNALP
+25463	T	C	BWRF1	BWRF1,EBNALP
+25465	G	A	BWRF1	BWRF1,EBNALP
+25480	C	T	BWRF1	BWRF1,EBNALP
+25529	G	T	BWRF1	BWRF1,EBNALP
+25537	G	A	BWRF1	BWRF1,EBNALP
+25746	C	T	BWRF1	BWRF1,EBNALP
+25818	T	G	BWRF1	BWRF1,EBNALP
+25871	G	A	BWRF1	BWRF1,EBNALP
+25881	T	C	BWRF1	BWRF1,EBNALP
+25900	G	T	BWRF1	BWRF1,EBNALP
+26123	T	C	BWRF1	BWRF1,EBNALP
+26801	C	T	BWRF1	BWRF1,EBNALP
+26864	G	T	BWRF1	BWRF1,EBNALP
+26875	A	G	BWRF1	BWRF1,EBNALP
+27216	A	T	BWRF1	BWRF1,EBNALP
+27384	T	G	BWRF1	BWRF1,EBNALP
+27488	G	T	BWRF1	BWRF1,EBNALP
+27918	T	A	BWRF1	BWRF1,EBNALP
+28009	T	C	BWRF1	BWRF1,EBNALP
+28017	A	G	BWRF1	BWRF1,EBNALP
+28063	T	C	BWRF1	BWRF1,EBNALP
+28138	T	G	BWRF1	BWRF1,EBNALP
+28152	G	A	BWRF1	BWRF1,EBNALP
+28160	G	C	BWRF1	BWRF1,EBNALP
+28455	A	G	BWRF1	BWRF1,EBNALP
+28535	T	C	BWRF1	BWRF1,EBNALP
+28537	G	A	BWRF1	BWRF1,EBNALP
+28552	C	T	BWRF1	BWRF1,EBNALP
+28601	G	T	BWRF1	BWRF1,EBNALP
+28609	G	A	BWRF1	BWRF1,EBNALP
+28818	C	T	BWRF1	BWRF1,EBNALP
+28890	T	G	BWRF1	BWRF1,EBNALP
+28943	G	A	BWRF1	BWRF1,EBNALP
+28953	T	C	BWRF1	BWRF1,EBNALP
+28972	G	T	BWRF1	BWRF1,EBNALP
+29195	T	C	BWRF1	BWRF1,EBNALP
+29873	C	T	BWRF1	BWRF1,EBNALP
+29936	G	T	BWRF1	BWRF1,EBNALP
+29947	A	G	BWRF1	BWRF1,EBNALP
+30288	A	T	BWRF1	BWRF1,EBNALP
+30456	T	G	BWRF1	BWRF1,EBNALP
+30560	G	T	BWRF1	BWRF1,EBNALP
+30990	T	A	BWRF1	BWRF1,EBNALP
+31081	T	C	BWRF1	BWRF1,EBNALP
+31089	A	G	BWRF1	BWRF1,EBNALP
+31135	T	C	BWRF1	BWRF1,EBNALP
+31210	T	G	BWRF1	BWRF1,EBNALP
+31224	G	A	BWRF1	BWRF1,EBNALP
+31232	G	C	BWRF1	BWRF1,EBNALP
+31527	A	G	BWRF1	BWRF1,EBNALP
+31607	T	C	BWRF1	BWRF1,EBNALP
+31609	G	A	BWRF1	BWRF1,EBNALP
+31624	C	T	BWRF1	BWRF1,EBNALP
+31673	G	T	BWRF1	BWRF1,EBNALP
+31681	G	A	BWRF1	BWRF1,EBNALP
+31890	C	T	BWRF1	BWRF1,EBNALP
+31962	T	G	BWRF1	BWRF1,EBNALP
+32015	G	A	BWRF1	BWRF1,EBNALP
+32025	T	C	BWRF1	BWRF1,EBNALP
+32044	G	T	BWRF1	BWRF1,EBNALP
+32267	T	C	BWRF1	BWRF1,EBNALP
+32945	C	T	BWRF1	BWRF1,EBNALP
+33008	G	T	BWRF1	BWRF1,EBNALP
+33019	A	G	BWRF1	BWRF1,EBNALP
+33360	A	T	BWRF1	BWRF1,EBNALP
+33528	T	G	BWRF1	BWRF1,EBNALP
+33632	G	T	BWRF1	BWRF1,EBNALP
+34062	T	A	BWRF1	BWRF1,EBNALP
+34153	T	C	BWRF1	BWRF1,EBNALP
+34161	A	G	BWRF1	BWRF1,EBNALP
+34207	T	C	BWRF1	BWRF1,EBNALP
+34282	T	G	BWRF1	BWRF1,EBNALP
+34296	G	A	BWRF1	BWRF1,EBNALP
+34304	G	C	BWRF1	BWRF1,EBNALP
+34599	A	G	BWRF1	BWRF1,EBNALP
+34679	T	C	BWRF1	BWRF1,EBNALP
+34681	G	A	BWRF1	BWRF1,EBNALP
+34696	C	T	BWRF1	BWRF1,EBNALP
+34745	G	T	BWRF1	BWRF1,EBNALP
+34753	G	A	BWRF1	BWRF1,EBNALP
+34962	C	T	BWRF1	BWRF1,EBNALP
+35034	T	G	BWRF1	BWRF1,EBNALP
+35087	G	A	BWRF1	BWRF1,EBNALP
+35097	T	C	BWRF1	BWRF1,EBNALP
+35116	G	T	BWRF1	BWRF1,EBNALP
+35339	T	C	EBNALP	EBNALP
+35356	T	C	EBNALP	EBNALP
+35463	T	C	EBNALP	EBNALP
+35490	C	A	EBNALP	EBNALP
+35492	G	A	EBNALP	EBNALP
+35493	G	A	EBNALP	EBNALP
+35502	T	A	EBNALP	EBNALP
+35504	G	A	EBNALP	EBNALP
+35518	T	C	EBNALP	EBNALP
+35538	T	G	EBNALP	EBNALP
+35619	A	C	EBNALP	EBNALP
+35622	C	G	EBNALP	EBNALP
+35623	C	A	EBNALP	EBNALP
+35624	A	G	EBNALP	EBNALP
+35625	C	A	EBNALP	EBNALP
+35631	G	C	EBNALP	EBNALP
+35636	C	A	EBNALP	EBNALP
+35638	A	C	EBNALP	EBNALP
+35644	A	G	EBNALP	EBNALP
+35651	A	G	EBNALP	EBNALP
+35652	G	A	EBNALP	EBNALP
+35772	G	C	intergenic	intergenic
+35774	T	C	intergenic	intergenic
+35781	T	C	intergenic	intergenic
+35806	T	C	intergenic	intergenic
+35831	G	T	intergenic	intergenic
+35832	T	C	intergenic	intergenic
+35839	C	T	intergenic	intergenic
+35840	G	A	intergenic	intergenic
+35846	C	A	intergenic	intergenic
+35866	G	T	intergenic	intergenic
+35879	C	G	intergenic	intergenic
+35909	C	A	intergenic	intergenic
+35925	T	C	intergenic	intergenic
+35933	T	G	intergenic	intergenic
+35938	T	G	intergenic	intergenic
+35946	G	A	intergenic	intergenic
+35949	G	T	intergenic	intergenic
+35950	G	T	intergenic	intergenic
+35951	C	G	intergenic	intergenic
+35973	C	T	intergenic	intergenic
+35993	C	T	intergenic	intergenic
+35999	A	G	intergenic	intergenic
+36011	T	C	intergenic	intergenic
+36012	A	G	intergenic	intergenic
+36023	T	G	intergenic	intergenic
+36056	T	A	intergenic	intergenic
+36102	C	T	intergenic	intergenic
+36107	A	G	intergenic	intergenic
+36209	C	T	intergenic	intergenic
+36226	T	A	EBNA2	EBNA2
+36251	A	G	EBNA2	EBNA2
+36252	A	T	EBNA2	EBNA2
+36258	C	A	EBNA2	EBNA2
+36275	G	T	EBNA2	EBNA2
+36302	A	C	EBNA2	EBNA2
+36312	T	A	EBNA2	EBNA2
+36320	C	T	EBNA2	EBNA2
+36335	G	A	EBNA2	EBNA2
+36339	G	A	EBNA2	EBNA2
+36341	C	T	EBNA2	EBNA2
+36343	C	A	EBNA2	EBNA2
+36355	C	A	EBNA2	EBNA2
+36360	A	C	EBNA2	EBNA2
+36361	C	A	EBNA2	EBNA2
+36366	T	G	EBNA2	EBNA2
+36371	T	C	EBNA2	EBNA2
+36383	G	T	EBNA2	EBNA2
+36435	C	G	EBNA2	EBNA2
+36440	A	G	EBNA2	EBNA2
+36445	C	A	EBNA2	EBNA2
+36455	A	C	EBNA2	EBNA2
+36464	A	T	EBNA2	EBNA2
+36516	C	G	EBNA2	EBNA2
+36545	A	C	EBNA2	EBNA2
+36547	C	T	EBNA2	EBNA2
+36551	T	A	EBNA2	EBNA2
+36554	T	G	EBNA2	EBNA2
+36559	G	T	EBNA2	EBNA2
+36561	G	A	EBNA2	EBNA2
+36566	G	C	EBNA2	EBNA2
+36569	A	G	EBNA2	EBNA2
+36572	A	C	EBNA2	EBNA2
+36573	T	A	EBNA2	EBNA2
+36574	A	G	EBNA2	EBNA2
+36580	T	C	EBNA2	EBNA2
+36582	G	A	EBNA2	EBNA2
+36584	G	T	EBNA2	EBNA2
+36587	T	A	EBNA2	EBNA2
+36590	A	C	EBNA2	EBNA2
+36596	A	G	EBNA2	EBNA2
+36603	G	T	EBNA2	EBNA2
+36605	T	C	EBNA2	EBNA2
+36608	G	A	EBNA2	EBNA2
+36609	C	A	EBNA2	EBNA2
+36620	G	C	EBNA2	EBNA2
+36627	A	C	EBNA2	EBNA2
+36629	T	A	EBNA2	EBNA2
+36632	T	C	EBNA2	EBNA2
+36633	A	C	EBNA2	EBNA2
+36636	G	C	EBNA2	EBNA2
+36638	A	T	EBNA2	EBNA2
+36642	C	A	EBNA2	EBNA2
+36644	A	C	EBNA2	EBNA2
+36645	T	G	EBNA2	EBNA2
+36653	T	C	EBNA2	EBNA2
+36654	G	C	EBNA2	EBNA2
+36656	C	A	EBNA2	EBNA2
+36658	G	A	EBNA2	EBNA2
+36659	G	A	EBNA2	EBNA2
+36666	A	C	EBNA2	EBNA2
+36669	T	A	EBNA2	EBNA2
+36670	T	G	EBNA2	EBNA2
+36676	A	T	EBNA2	EBNA2
+36680	C	A	EBNA2	EBNA2
+36690	G	C	EBNA2	EBNA2
+36691	C	G	EBNA2	EBNA2
+36693	C	T	EBNA2	EBNA2
+36700	C	T	EBNA2	EBNA2
+36703	G	C	EBNA2	EBNA2
+36704	G	C	EBNA2	EBNA2
+36709	T	A	EBNA2	EBNA2
+36710	C	A	EBNA2	EBNA2
+36712	A	G	EBNA2	EBNA2
+36713	G	T	EBNA2	EBNA2
+36715	C	A	EBNA2	EBNA2
+36718	A	C	EBNA2	EBNA2
+36724	C	A	EBNA2	EBNA2
+36736	C	A	EBNA2	EBNA2
+36738	A	G	EBNA2	EBNA2
+36739	C	A	EBNA2	EBNA2
+36740	A	G	EBNA2	EBNA2
+36748	C	T	EBNA2	EBNA2
+36757	C	T	EBNA2	EBNA2
+36761	T	A	EBNA2	EBNA2
+36762	C	G	EBNA2	EBNA2
+36763	T	A	EBNA2	EBNA2
+36774	A	C	EBNA2	EBNA2
+36776	G	C	EBNA2	EBNA2
+36780	A	C	EBNA2	EBNA2
+36786	C	T	EBNA2	EBNA2
+36810	A	T	EBNA2	EBNA2
+36817	C	G	EBNA2	EBNA2
+36820	C	T	EBNA2	EBNA2
+36823	C	A	EBNA2	EBNA2
+36833	G	T	EBNA2	EBNA2
+36835	C	A	EBNA2	EBNA2
+36847	T	C	EBNA2	EBNA2
+36869	C	T	EBNA2	EBNA2
+36871	G	T	EBNA2	EBNA2
+36892	C	G	EBNA2	EBNA2
+36894	C	A	EBNA2	EBNA2
+36895	C	T	EBNA2	EBNA2
+36898	T	C	EBNA2	EBNA2
+36902	C	G	EBNA2	EBNA2
+36904	C	T	EBNA2	EBNA2
+36905	G	A	EBNA2	EBNA2
+36906	G	A	EBNA2	EBNA2
+36910	T	C	EBNA2	EBNA2
+36913	A	C	EBNA2	EBNA2
+36919	C	A	EBNA2	EBNA2
+36924	G	T	EBNA2	EBNA2
+36939	C	A	EBNA2	EBNA2
+36942	T	C	EBNA2	EBNA2
+36952	G	A	EBNA2	EBNA2
+36953	C	A	EBNA2	EBNA2
+36955	T	G	EBNA2	EBNA2
+36961	T	A	EBNA2	EBNA2
+36963	C	A	EBNA2	EBNA2
+36970	T	G	EBNA2	EBNA2
+36984	C	T	EBNA2	EBNA2
+36990	A	C	EBNA2	EBNA2
+36991	T	C	EBNA2	EBNA2
+36995	C	T	EBNA2	EBNA2
+37000	T	C	EBNA2	EBNA2
+37001	T	C	EBNA2	EBNA2
+37002	A	C	EBNA2	EBNA2
+37004	T	G	EBNA2	EBNA2
+37010	A	G	EBNA2	EBNA2
+37021	A	T	EBNA2	EBNA2
+37026	C	T	EBNA2	EBNA2
+37028	A	T	EBNA2	EBNA2
+37035	C	A	EBNA2	EBNA2
+37039	A	G	EBNA2	EBNA2
+37043	A	C	EBNA2	EBNA2
+37052	G	C	EBNA2	EBNA2
+37060	T	C	EBNA2	EBNA2
+37064	T	C	EBNA2	EBNA2
+37066	A	G	EBNA2	EBNA2
+37073	A	T	EBNA2	EBNA2
+37074	C	T	EBNA2	EBNA2
+37080	C	A	EBNA2	EBNA2
+37086	C	T	EBNA2	EBNA2
+37092	T	G	EBNA2	EBNA2
+37093	C	A	EBNA2	EBNA2
+37096	A	C	EBNA2	EBNA2
+37103	A	G	EBNA2	EBNA2
+37124	G	C	EBNA2	EBNA2
+37127	A	C	EBNA2	EBNA2
+37129	C	T	EBNA2	EBNA2
+37136	G	T	EBNA2	EBNA2
+37142	C	T	EBNA2	EBNA2
+37143	A	T	EBNA2	EBNA2
+37145	C	T	EBNA2	EBNA2
+37155	T	G	EBNA2	EBNA2
+37156	T	C	EBNA2	EBNA2
+37159	A	T	EBNA2	EBNA2
+37162	A	C	EBNA2	EBNA2
+37165	T	C	EBNA2	EBNA2
+37167	C	A	EBNA2	EBNA2
+37169	C	T	EBNA2	EBNA2
+37170	T	C	EBNA2	EBNA2
+37172	G	A	EBNA2	EBNA2
+37193	C	T	EBNA2	EBNA2
+37194	A	G	EBNA2	EBNA2
+37197	T	C	EBNA2	EBNA2
+37206	C	A	EBNA2	EBNA2
+37210	A	C	EBNA2	EBNA2
+37212	C	A	EBNA2	EBNA2
+37215	T	A	EBNA2	EBNA2
+37218	A	C	EBNA2	EBNA2
+37227	G	T	EBNA2	EBNA2
+37228	G	A	EBNA2	EBNA2
+37233	A	G	EBNA2	EBNA2
+37237	G	C	EBNA2	EBNA2
+37240	G	A	EBNA2	EBNA2
+37241	A	C	EBNA2	EBNA2
+37245	A	G	EBNA2	EBNA2
+37248	A	C	EBNA2	EBNA2
+37249	G	A	EBNA2	EBNA2
+37253	G	A	EBNA2	EBNA2
+37280	G	A	EBNA2	EBNA2
+37281	G	A	EBNA2	EBNA2
+37291	A	G	EBNA2	EBNA2
+37293	T	G	EBNA2	EBNA2
+37294	C	G	EBNA2	EBNA2
+37303	A	T	EBNA2	EBNA2
+37313	G	A	EBNA2	EBNA2
+37321	G	A	EBNA2	EBNA2
+37325	T	A	EBNA2	EBNA2
+37326	T	C	EBNA2	EBNA2
+37336	A	G	EBNA2	EBNA2
+37341	A	G	EBNA2	EBNA2
+37346	C	T	EBNA2	EBNA2
+37358	C	T	EBNA2	EBNA2
+37365	G	C	EBNA2	EBNA2
+37368	C	T	EBNA2	EBNA2
+37376	A	G	EBNA2	EBNA2
+37379	C	T	EBNA2	EBNA2
+37380	C	G	EBNA2	EBNA2
+37383	G	A	EBNA2	EBNA2
+37400	A	G	EBNA2	EBNA2
+37404	G	C	EBNA2	EBNA2
+37408	G	A	EBNA2	EBNA2
+37410	G	A	EBNA2	EBNA2
+37421	T	C	EBNA2	EBNA2
+37424	T	C	EBNA2	EBNA2
+37430	A	G	EBNA2	EBNA2
+37433	C	T	EBNA2	EBNA2
+37435	A	C	EBNA2	EBNA2
+37436	T	G	EBNA2	EBNA2
+37441	C	G	EBNA2	EBNA2
+37448	T	C	EBNA2	EBNA2
+37457	T	G	EBNA2	EBNA2
+37459	C	G	EBNA2	EBNA2
+37464	A	T	EBNA2	EBNA2
+37466	G	A	EBNA2	EBNA2
+37476	A	G	EBNA2	EBNA2
+37479	G	A	EBNA2	EBNA2
+37499	G	A	EBNA2	EBNA2
+37506	C	T	EBNA2	EBNA2
+37507	A	C	EBNA2	EBNA2
+37509	A	G	EBNA2	EBNA2
+37514	C	T	EBNA2	EBNA2
+37515	C	G	EBNA2	EBNA2
+37516	C	A	EBNA2	EBNA2
+37520	G	A	EBNA2	EBNA2
+37521	G	C	EBNA2	EBNA2
+37523	T	C	EBNA2	EBNA2
+37527	A	T	EBNA2	EBNA2
+37539	G	A	EBNA2	EBNA2
+37540	A	G	EBNA2	EBNA2
+37557	T	A	EBNA2	EBNA2
+37559	T	G	EBNA2	EBNA2
+37560	A	T	EBNA2	EBNA2
+37565	C	A	EBNA2	EBNA2
+37568	C	T	EBNA2	EBNA2
+37574	C	A	EBNA2	EBNA2
+37580	C	T	EBNA2	EBNA2
+37592	T	G	EBNA2	EBNA2
+37593	T	G	EBNA2	EBNA2
+37594	A	G	EBNA2	EBNA2
+37604	G	A	EBNA2	EBNA2
+37618	C	A	EBNA2	EBNA2
+37625	A	T	EBNA2	EBNA2
+37634	T	G	EBNA2	EBNA2
+37635	T	A	EBNA2	EBNA2
+37640	G	A	EBNA2	EBNA2
+37642	A	G	EBNA2	EBNA2
+37646	A	G	EBNA2	EBNA2
+37649	C	T	EBNA2	EBNA2
+37665	C	A	EBNA2	EBNA2
+37672	T	C	EBNA2	EBNA2
+37673	C	T	EBNA2	EBNA2
+37682	A	G	intergenic	intergenic
+37683	C	A	intergenic	intergenic
+37688	G	A	intergenic	intergenic
+37690	C	T	intergenic	intergenic
+37699	C	T	intergenic	intergenic
+37702	C	T	intergenic	intergenic
+37726	C	A	intergenic	intergenic
+37728	T	G	intergenic	intergenic
+37729	C	A	intergenic	intergenic
+37735	C	T	intergenic	intergenic
+37743	C	T	intergenic	intergenic
+37750	A	C	intergenic	intergenic
+37766	C	T	intergenic	intergenic
+37785	G	A	intergenic	intergenic
+37805	A	C	intergenic	intergenic
+37808	A	G	intergenic	intergenic
+37815	G	T	intergenic	intergenic
+37819	G	T	intergenic	intergenic
+37835	T	G	intergenic	intergenic
+37861	A	G	intergenic	intergenic
+37880	A	C	intergenic	intergenic
+37894	C	T	intergenic	intergenic
+37922	C	T	intergenic	intergenic
+37955	G	T	intergenic	intergenic
+37970	C	T	intergenic	intergenic
+38034	G	C	intergenic	intergenic
+38035	G	A	intergenic	intergenic
+38083	T	G	intergenic	intergenic
+38301	T	A	BHLF1	BHLF1
+38660	C	T	BHLF1	BHLF1
+38801	T	A	BHLF1	BHLF1
+39176	T	A	BHLF1	BHLF1
+39410	C	T	BHLF1	BHLF1
+39551	T	A	BHLF1	BHLF1
+40166	A	C	BHLF1	BHLF1
+40197	G	A	BHLF1	BHLF1
+41822	T	C	intergenic	intergenic
+41823	T	C	intergenic	intergenic
+41835	T	C	intergenic	intergenic
+41855	T	C	intergenic	intergenic
+41856	T	C	intergenic	intergenic
+41857	T	C	intergenic	intergenic
+41904	T	C	intergenic	intergenic
+42327	T	C	BHRF1	BHRF1
+43568	G	T	intergenic	intergenic
+45403	C	T	BFLF1	BFLF1
+46645	G	T	BFRF1	BFRF1
+46827	C	T	BFRF1	BFRF1
+48025	A	C	BFRF2	BFRF2
+48028	G	A	BFRF2	BFRF2
+48506	G	T	BFRF2	BFRF2
+49677	C	T	BFRF3	BFRF3
+49713	C	A	BFRF3	BFRF3
+49725	A	G	BFRF3	BFRF3
+50882	T	C	BPLF1	BPLF1
+50885	C	T	BPLF1	BPLF1
+51034	G	T	BPLF1	BPLF1
+51153	C	G	BPLF1	BPLF1
+51394	T	C	BPLF1	BPLF1
+52403	T	C	BPLF1	BPLF1
+52808	T	C	BPLF1	BPLF1
+53411	G	T	BPLF1	BPLF1
+53772	G	A	BPLF1	BPLF1
+53774	G	A	BPLF1	BPLF1
+53816	G	T	BPLF1	BPLF1
+53873	T	C	BPLF1	BPLF1
+53948	A	G	BPLF1	BPLF1
+54137	C	T	BPLF1	BPLF1
+54364	C	A	BPLF1	BPLF1
+54521	G	A	BPLF1	BPLF1
+54635	A	C	BPLF1	BPLF1
+54657	G	A	BPLF1	BPLF1
+54957	T	C	BPLF1	BPLF1
+55297	T	C	BPLF1	BPLF1
+55619	A	G	BPLF1	BPLF1
+55745	C	T	BPLF1	BPLF1
+56150	T	C	BPLF1	BPLF1
+56269	C	G	BPLF1	BPLF1
+56432	T	C	BPLF1	BPLF1
+56456	G	A	BPLF1	BPLF1
+56485	T	G	BPLF1	BPLF1
+56511	C	T	BPLF1	BPLF1
+56514	G	C	BPLF1	BPLF1
+56555	G	A	BPLF1	BPLF1
+56582	A	G	BPLF1	BPLF1
+56586	T	C	BPLF1	BPLF1
+56701	T	C	BPLF1	BPLF1
+56854	A	C	BPLF1	BPLF1
+56950	G	T	BPLF1	BPLF1
+57161	G	A	BPLF1	BPLF1
+57367	G	A	BPLF1	BPLF1
+57373	G	T	BPLF1	BPLF1
+57423	G	T	BPLF1	BPLF1
+57497	T	C	BPLF1	BPLF1
+57530	A	G	BPLF1	BPLF1
+57549	G	T	BPLF1	BPLF1
+57553	T	G	BPLF1	BPLF1
+57568	G	T	BPLF1	BPLF1
+57569	A	T	BPLF1	BPLF1
+57570	A	G	BPLF1	BPLF1
+57573	A	G	BPLF1	BPLF1
+57575	T	A	BPLF1	BPLF1
+57643	T	C	BPLF1	BPLF1
+57697	T	C	BPLF1	BPLF1
+57798	T	C	BPLF1	BPLF1
+58027	T	C	BPLF1	BPLF1
+58169	G	A	BPLF1	BPLF1
+60049	A	G	BOLF1	BOLF1
+61168	T	C	BOLF1	BOLF1
+61260	T	C	BOLF1	BOLF1
+61278	T	C	BOLF1	BOLF1
+61431	G	A	BOLF1	BOLF1
+61580	G	T	BOLF1	BOLF1
+62121	C	T	BOLF1	BOLF1
+62169	A	G	BOLF1	BOLF1
+62501	C	T	BOLF1	BOLF1
+62592	T	G	BOLF1	BOLF1
+62769	C	T	BOLF1	BOLF1
+62892	T	C	BOLF1	BOLF1
+62924	T	C	BOLF1	BOLF1
+63264	C	A	BORF1	BORF1
+63689	T	G	BORF1	BORF1
+63864	T	C	BORF1	BORF1
+63897	A	G	BORF1	BORF1
+64139	C	T	BORF2	BORF2
+64217	C	A	BORF2	BORF2
+64862	T	C	BORF2	BORF2
+64872	A	C	BORF2	BORF2
+64883	T	C	BORF2	BORF2
+65024	G	T	BORF2	BORF2
+65273	C	T	BORF2	BORF2
+69102	C	T	BMRF2	BMRF2
+69670	A	T	BMRF2	BMRF2
+71277	C	G	multifunctional expression regulator	multifunctional expression regulator
+71690	C	T	multifunctional expression regulator	multifunctional expression regulator
+71780	G	T	multifunctional expression regulator	multifunctional expression regulator
+73090	A	G	BSLF1	BSLF1
+73265	T	C	BSLF1	BSLF1
+73523	G	A	BSLF1	BSLF1
+73726	T	C	BSLF1	BSLF1
+73874	C	T	BSLF1	BSLF1
+73889	T	C	BSLF1	BSLF1
+74222	T	C	BSLF1	BSLF1
+74854	T	C	BSRF1	BSRF1
+75430	T	C	BLLF3	BLLF3
+75448	T	C	BLLF3	BLLF3
+76604	T	C	intergenic	intergenic
+76762	A	G	BLRF2	BLRF2
+76909	T	G	BLRF2	BLRF2
+76918	T	A	BLRF2	BLRF2
+77056	C	T	BLRF2	BLRF2
+77131	T	C	intergenic	intergenic
+77196	A	C	BLLF1	BLLF1
+77211	A	G	BLLF1	BLLF1
+77325	T	A	BLLF1	BLLF1,BLLF2
+77432	G	T	BLLF1	BLLF1,BLLF2
+77606	G	T	BLLF1	BLLF1,BLLF2
+77703	T	C	BLLF1	BLLF1,BLLF2
+77737	A	G	BLLF1	BLLF1
+77849	G	A	BLLF1	BLLF1
+77851	T	A	BLLF1	BLLF1
+77941	T	G	BLLF1	BLLF1
+77963	G	A	BLLF1	BLLF1
+77979	G	T	BLLF1	BLLF1
+77993	C	T	BLLF1	BLLF1
+78021	A	G	BLLF1	BLLF1
+78029	C	T	BLLF1	BLLF1
+78069	G	A	BLLF1	BLLF1
+78091	C	A	BLLF1	BLLF1
+78146	A	G	BLLF1	BLLF1
+78192	A	G	BLLF1	BLLF1
+78341	A	G	BLLF1	BLLF1
+78383	A	G	BLLF1	BLLF1
+78544	T	G	BLLF1	BLLF1
+79026	G	T	BLLF1	BLLF1
+79299	C	T	BLLF1	BLLF1
+79344	C	T	BLLF1	BLLF1
+79410	C	T	BLLF1	BLLF1
+79416	C	T	BLLF1	BLLF1
+79419	G	T	BLLF1	BLLF1
+79455	T	G	BLLF1	BLLF1
+79523	C	T	BLLF1	BLLF1
+79650	C	T	BLLF1	BLLF1
+79666	T	A	BLLF1	BLLF1
+79682	C	T	BLLF1	BLLF1
+79688	G	T	BLLF1	BLLF1
+79723	A	G	BLLF1	BLLF1
+79752	T	C	BLLF1	BLLF1
+79754	T	C	BLLF1	BLLF1
+79755	G	T	BLLF1	BLLF1
+79774	G	A	BLLF1	BLLF1
+79803	T	A	BLLF1	BLLF1
+79808	C	G	BLLF1	BLLF1
+79815	A	T	BLLF1	BLLF1
+79821	C	A	BLLF1	BLLF1
+79872	G	A	intergenic	intergenic
+79893	T	C	intergenic	intergenic
+79908	A	G	intergenic	intergenic
+79942	T	C	intergenic	intergenic
+79977	C	T	EBNA3A	EBNA3A
+79986	T	C	EBNA3A	EBNA3A
+80011	C	A	EBNA3A	EBNA3A
+80025	T	G	EBNA3A	EBNA3A
+80029	G	T	EBNA3A	EBNA3A
+80037	A	G	EBNA3A	EBNA3A
+80040	T	C	EBNA3A	EBNA3A
+80041	A	G	EBNA3A	EBNA3A
+80044	G	T	EBNA3A	EBNA3A
+80046	C	A	EBNA3A	EBNA3A
+80075	T	A	EBNA3A	EBNA3A
+80096	A	G	EBNA3A	EBNA3A
+80125	G	A	EBNA3A	EBNA3A
+80126	G	T	EBNA3A	EBNA3A
+80133	A	G	EBNA3A	EBNA3A
+80139	C	A	EBNA3A	EBNA3A
+80140	G	A	EBNA3A	EBNA3A
+80149	G	A	EBNA3A	EBNA3A
+80159	C	G	EBNA3A	EBNA3A
+80173	G	T	EBNA3A	EBNA3A
+80187	G	A	EBNA3A	EBNA3A
+80190	C	A	EBNA3A	EBNA3A
+80192	A	G	EBNA3A	EBNA3A
+80196	T	C	EBNA3A	EBNA3A
+80200	A	C	EBNA3A	EBNA3A
+80203	C	T	EBNA3A	EBNA3A
+80208	C	T	EBNA3A	EBNA3A
+80214	T	A	EBNA3A	EBNA3A
+80221	G	T	EBNA3A	EBNA3A
+80237	C	T	EBNA3A	EBNA3A
+80238	G	A	EBNA3A	EBNA3A
+80248	A	G	EBNA3A	EBNA3A
+80255	C	T	EBNA3A	EBNA3A
+80262	C	G	EBNA3A	EBNA3A
+80263	A	G	EBNA3A	EBNA3A
+80264	C	T	EBNA3A	EBNA3A
+80267	C	A	EBNA3A	EBNA3A
+80275	G	A	EBNA3A	EBNA3A
+80287	G	A	EBNA3A	EBNA3A
+80300	A	T	EBNA3A	EBNA3A
+80312	T	C	EBNA3A	EBNA3A
+80314	A	G	EBNA3A	EBNA3A
+80334	A	G	EBNA3A	EBNA3A
+80341	A	G	EBNA3A	EBNA3A
+80360	A	G	EBNA3A	EBNA3A
+80383	G	A	EBNA3A	EBNA3A
+80385	A	C	EBNA3A	EBNA3A
+80386	T	C	EBNA3A	EBNA3A
+80393	A	G	EBNA3A	EBNA3A
+80438	G	C	EBNA3A	EBNA3A
+80439	A	C	EBNA3A	EBNA3A
+80445	A	G	EBNA3A	EBNA3A
+80492	A	G	EBNA3A	EBNA3A
+80511	G	A	EBNA3A	EBNA3A
+80512	A	G	EBNA3A	EBNA3A
+80518	C	T	EBNA3A	EBNA3A
+80529	C	A	EBNA3A	EBNA3A
+80532	C	A	EBNA3A	EBNA3A
+80533	A	C	EBNA3A	EBNA3A
+80534	A	C	EBNA3A	EBNA3A
+80546	C	T	EBNA3A	EBNA3A
+80549	A	T	EBNA3A	EBNA3A
+80576	C	T	EBNA3A	EBNA3A
+80602	A	C	EBNA3A	EBNA3A
+80607	A	G	EBNA3A	EBNA3A
+80608	C	T	EBNA3A	EBNA3A
+80613	C	G	EBNA3A	EBNA3A
+80618	A	G	EBNA3A	EBNA3A
+80619	T	A	EBNA3A	EBNA3A
+80622	G	A	EBNA3A	EBNA3A
+80630	C	G	EBNA3A	EBNA3A
+80639	A	T	EBNA3A	EBNA3A
+80649	A	G	EBNA3A	EBNA3A
+80652	G	A	EBNA3A	EBNA3A
+80669	C	T	EBNA3A	EBNA3A
+80681	C	T	EBNA3A	EBNA3A
+80695	A	G	EBNA3A	EBNA3A
+80698	T	C	EBNA3A	EBNA3A
+80710	C	G	EBNA3A	EBNA3A
+80711	C	T	EBNA3A	EBNA3A
+80745	T	C	EBNA3A	EBNA3A
+80746	C	G	EBNA3A	EBNA3A
+80754	A	G	EBNA3A	EBNA3A
+80757	A	C	EBNA3A	EBNA3A
+80762	A	G	EBNA3A	EBNA3A
+80768	C	T	EBNA3A	EBNA3A
+80770	G	C	EBNA3A	EBNA3A
+80777	C	A	EBNA3A	EBNA3A
+80778	C	T	EBNA3A	EBNA3A
+80801	T	C	EBNA3A	EBNA3A
+80807	T	C	EBNA3A	EBNA3A
+80813	C	T	EBNA3A	EBNA3A
+80837	G	T	EBNA3A	EBNA3A
+80843	T	G	EBNA3A	EBNA3A
+80844	T	G	EBNA3A	EBNA3A
+80855	C	T	EBNA3A	EBNA3A
+80865	T	A	EBNA3A	EBNA3A
+80882	A	G	EBNA3A	EBNA3A
+80885	A	C	EBNA3A	EBNA3A
+80894	G	A	EBNA3A	EBNA3A
+80895	A	C	EBNA3A	EBNA3A
+80897	A	C	EBNA3A	EBNA3A
+80903	T	G	EBNA3A	EBNA3A
+80907	T	G	EBNA3A	EBNA3A
+80908	C	T	EBNA3A	EBNA3A
+80912	T	C	EBNA3A	EBNA3A
+80931	G	T	EBNA3A	EBNA3A
+80937	C	T	EBNA3A	EBNA3A
+80955	C	G	EBNA3A	EBNA3A
+80969	C	G	EBNA3A	EBNA3A
+80975	C	G	EBNA3A	EBNA3A
+80987	G	A	EBNA3A	EBNA3A
+81017	T	G	EBNA3A	EBNA3A
+81026	T	G	EBNA3A	EBNA3A
+81035	T	C	EBNA3A	EBNA3A
+81039	A	C	EBNA3A	EBNA3A
+81040	T	A	EBNA3A	EBNA3A
+81062	G	A	EBNA3A	EBNA3A
+81070	T	G	EBNA3A	EBNA3A
+81084	G	T	EBNA3A	EBNA3A
+81092	G	A	EBNA3A	EBNA3A
+81095	A	G	EBNA3A	EBNA3A
+81113	G	A	EBNA3A	EBNA3A
+81125	A	G	EBNA3A	EBNA3A
+81137	T	A	EBNA3A	EBNA3A
+81144	T	C	EBNA3A	EBNA3A
+81147	A	G	EBNA3A	EBNA3A
+81158	A	G	EBNA3A	EBNA3A
+81160	G	A	EBNA3A	EBNA3A
+81165	C	A	EBNA3A	EBNA3A
+81171	G	C	EBNA3A	EBNA3A
+81172	T	A	EBNA3A	EBNA3A
+81175	A	G	EBNA3A	EBNA3A
+81192	A	T	EBNA3A	EBNA3A
+81200	T	C	EBNA3A	EBNA3A
+81216	C	T	EBNA3A	EBNA3A
+81234	C	G	EBNA3A	EBNA3A
+81238	C	A	EBNA3A	EBNA3A
+81239	A	G	EBNA3A	EBNA3A
+81244	A	G	EBNA3A	EBNA3A
+81247	G	C	EBNA3A	EBNA3A
+81250	A	G	EBNA3A	EBNA3A
+81255	G	A	EBNA3A	EBNA3A
+81256	T	C	EBNA3A	EBNA3A
+81262	A	C	EBNA3A	EBNA3A
+81263	A	G	EBNA3A	EBNA3A
+81271	G	C	EBNA3A	EBNA3A
+81273	G	A	EBNA3A	EBNA3A
+81276	A	C	EBNA3A	EBNA3A
+81302	T	A	EBNA3A	EBNA3A
+81307	C	A	EBNA3A	EBNA3A
+81329	A	G	EBNA3A	EBNA3A
+81336	G	T	EBNA3A	EBNA3A
+81338	C	T	EBNA3A	EBNA3A
+81426	G	C	EBNA3A	EBNA3A
+81428	A	G	EBNA3A	EBNA3A
+81435	G	A	EBNA3A	EBNA3A
+81450	C	A	EBNA3A	EBNA3A
+81451	C	T	EBNA3A	EBNA3A
+81458	A	T	EBNA3A	EBNA3A
+81466	C	A	EBNA3A	EBNA3A
+81470	T	C	EBNA3A	EBNA3A
+81481	C	A	EBNA3A	EBNA3A
+81500	T	C	EBNA3A	EBNA3A
+81516	T	C	EBNA3A	EBNA3A
+81517	T	C	EBNA3A	EBNA3A
+81520	G	A	EBNA3A	EBNA3A
+81521	C	A	EBNA3A	EBNA3A
+81524	C	T	EBNA3A	EBNA3A
+81527	G	A	EBNA3A	EBNA3A
+81532	T	G	EBNA3A	EBNA3A
+81545	A	G	EBNA3A	EBNA3A
+81556	C	T	EBNA3A	EBNA3A
+81560	T	C	EBNA3A	EBNA3A
+81585	C	T	EBNA3A	EBNA3A
+81594	A	T	EBNA3A	EBNA3A
+81595	C	T	EBNA3A	EBNA3A
+81600	G	T	EBNA3A	EBNA3A
+81603	G	C	EBNA3A	EBNA3A
+81608	G	A	EBNA3A	EBNA3A
+81609	C	A	EBNA3A	EBNA3A
+81610	A	G	EBNA3A	EBNA3A
+81629	A	C	EBNA3A	EBNA3A
+81637	A	C	EBNA3A	EBNA3A
+81665	G	T	EBNA3A	EBNA3A
+81668	A	T	EBNA3A	EBNA3A
+81710	G	C	EBNA3A	EBNA3A
+81720	A	G	EBNA3A	EBNA3A
+81740	C	G	EBNA3A	EBNA3A
+81747	A	C	EBNA3A	EBNA3A
+81760	G	A	EBNA3A	EBNA3A
+81765	G	A	EBNA3A	EBNA3A
+81767	G	A	EBNA3A	EBNA3A
+81791	T	G	EBNA3A	EBNA3A
+81803	T	C	EBNA3A	EBNA3A
+81812	T	C	EBNA3A	EBNA3A
+81871	T	C	EBNA3A	EBNA3A
+81873	A	C	EBNA3A	EBNA3A
+81874	A	G	EBNA3A	EBNA3A
+81875	A	T	EBNA3A	EBNA3A
+81900	C	A	EBNA3A	EBNA3A
+81939	G	A	EBNA3A	EBNA3A
+81949	T	A	EBNA3A	EBNA3A
+81975	G	T	EBNA3A	EBNA3A
+81992	T	C	EBNA3A	EBNA3A
+82001	G	T	EBNA3A	EBNA3A
+82003	T	C	EBNA3A	EBNA3A
+82009	C	A	EBNA3A	EBNA3A
+82011	C	T	EBNA3A	EBNA3A
+82022	G	T	EBNA3A	EBNA3A
+82025	G	A	EBNA3A	EBNA3A
+82034	A	T	EBNA3A	EBNA3A
+82057	T	C	EBNA3A	EBNA3A
+82084	T	C	EBNA3A	EBNA3A
+82214	G	A	EBNA3A	EBNA3A
+82235	T	C	EBNA3A	EBNA3A
+82240	A	G	EBNA3A	EBNA3A
+82252	C	A	EBNA3A	EBNA3A
+82260	G	A	EBNA3A	EBNA3A
+82462	C	A	EBNA3A	EBNA3A
+82473	A	C	EBNA3A	EBNA3A
+82483	G	A	EBNA3A	EBNA3A
+82487	T	C	EBNA3A	EBNA3A
+82533	C	T	EBNA3A	EBNA3A
+82584	G	A	EBNA3A	EBNA3A
+82606	G	A	EBNA3A	EBNA3A
+82658	G	A	EBNA3A	EBNA3A
+82672	A	G	EBNA3A	EBNA3A
+82763	A	G	EBNA3A	EBNA3A
+82764	G	A	EBNA3A	EBNA3A
+82772	A	G	EBNA3A	EBNA3A
+82783	G	A	EBNA3A	EBNA3A
+82786	C	A	EBNA3A	EBNA3A
+82791	A	C	EBNA3A	EBNA3A
+82815	G	A	EBNA3A	EBNA3A
+82964	G	A	intergenic	intergenic
+82967	T	C	intergenic	intergenic
+83037	C	T	intergenic	intergenic
+83063	T	A	intergenic	intergenic
+83161	A	C	EBNA3B	EBNA3B
+83162	C	A	EBNA3B	EBNA3B
+83178	G	T	EBNA3B	EBNA3B
+83192	A	C	EBNA3B	EBNA3B
+83293	C	G	EBNA3B	EBNA3B
+83319	C	T	EBNA3B	EBNA3B
+83331	T	A	EBNA3B	EBNA3B
+83343	C	G	EBNA3B	EBNA3B
+83400	C	T	EBNA3B	EBNA3B
+83406	C	T	EBNA3B	EBNA3B
+83454	C	A	EBNA3B	EBNA3B
+83463	T	A	EBNA3B	EBNA3B
+83482	G	T	EBNA3B	EBNA3B
+83515	C	T	EBNA3B	EBNA3B
+83517	C	T	EBNA3B	EBNA3B
+83559	A	G	EBNA3B	EBNA3B
+83580	C	A	EBNA3B	EBNA3B
+83608	A	C	EBNA3B	EBNA3B
+83622	A	G	EBNA3B	EBNA3B
+83627	T	A	EBNA3B	EBNA3B
+83640	T	G	EBNA3B	EBNA3B
+83656	T	C	EBNA3B	EBNA3B
+83660	G	A	EBNA3B	EBNA3B
+83665	T	A	EBNA3B	EBNA3B
+83685	C	T	EBNA3B	EBNA3B
+83691	T	A	EBNA3B	EBNA3B
+83693	A	C	EBNA3B	EBNA3B
+83700	A	T	EBNA3B	EBNA3B
+83716	T	A	EBNA3B	EBNA3B
+83724	G	A	EBNA3B	EBNA3B
+83727	C	T	EBNA3B	EBNA3B
+83730	T	A	EBNA3B	EBNA3B
+83739	G	A	EBNA3B	EBNA3B
+83740	G	C	EBNA3B	EBNA3B
+83769	T	A	EBNA3B	EBNA3B
+83776	A	C	EBNA3B	EBNA3B
+83777	C	T	EBNA3B	EBNA3B
+83789	C	T	EBNA3B	EBNA3B
+83793	G	T	EBNA3B	EBNA3B
+83815	A	C	EBNA3B	EBNA3B
+83826	A	G	EBNA3B	EBNA3B
+83847	C	A	EBNA3B	EBNA3B
+83860	C	T	EBNA3B	EBNA3B
+83928	C	T	EBNA3B	EBNA3B
+83946	T	C	EBNA3B	EBNA3B
+83969	A	G	EBNA3B	EBNA3B
+83980	T	G	EBNA3B	EBNA3B
+83986	A	G	EBNA3B	EBNA3B
+83988	T	C	EBNA3B	EBNA3B
+84004	T	C	EBNA3B	EBNA3B
+84009	C	T	EBNA3B	EBNA3B
+84033	C	T	EBNA3B	EBNA3B
+84064	A	T	EBNA3B	EBNA3B
+84065	A	C	EBNA3B	EBNA3B
+84067	G	C	EBNA3B	EBNA3B
+84070	G	T	EBNA3B	EBNA3B
+84082	T	A	EBNA3B	EBNA3B
+84084	A	G	EBNA3B	EBNA3B
+84096	T	C	EBNA3B	EBNA3B
+84103	A	G	EBNA3B	EBNA3B
+84114	T	C	EBNA3B	EBNA3B
+84120	G	A	EBNA3B	EBNA3B
+84128	A	G	EBNA3B	EBNA3B
+84129	C	T	EBNA3B	EBNA3B
+84137	T	C	EBNA3B	EBNA3B
+84141	T	C	EBNA3B	EBNA3B
+84156	C	T	EBNA3B	EBNA3B
+84159	G	A	EBNA3B	EBNA3B
+84161	A	T	EBNA3B	EBNA3B
+84170	A	G	EBNA3B	EBNA3B
+84174	T	C	EBNA3B	EBNA3B
+84181	C	G	EBNA3B	EBNA3B
+84201	T	A	EBNA3B	EBNA3B
+84222	C	T	EBNA3B	EBNA3B
+84242	C	A	EBNA3B	EBNA3B
+84244	G	A	EBNA3B	EBNA3B
+84247	A	T	EBNA3B	EBNA3B
+84249	C	T	EBNA3B	EBNA3B
+84252	C	T	EBNA3B	EBNA3B
+84253	G	A	EBNA3B	EBNA3B
+84258	G	T	EBNA3B	EBNA3B
+84264	C	G	EBNA3B	EBNA3B
+84265	A	G	EBNA3B	EBNA3B
+84267	G	A	EBNA3B	EBNA3B
+84275	T	C	EBNA3B	EBNA3B
+84280	T	G	EBNA3B	EBNA3B
+84281	C	A	EBNA3B	EBNA3B
+84283	C	G	EBNA3B	EBNA3B
+84287	A	C	EBNA3B	EBNA3B
+84290	A	G	EBNA3B	EBNA3B
+84291	T	C	EBNA3B	EBNA3B
+84310	T	C	EBNA3B	EBNA3B
+84314	A	G	EBNA3B	EBNA3B
+84337	G	T	EBNA3B	EBNA3B
+84346	G	T	EBNA3B	EBNA3B
+84355	T	C	EBNA3B	EBNA3B
+84361	G	A	EBNA3B	EBNA3B
+84363	A	T	EBNA3B	EBNA3B
+84393	A	G	EBNA3B	EBNA3B
+84400	T	C	EBNA3B	EBNA3B
+84406	G	A	EBNA3B	EBNA3B
+84416	C	T	EBNA3B	EBNA3B
+84426	G	T	EBNA3B	EBNA3B
+84445	G	A	EBNA3B	EBNA3B
+84462	G	A	EBNA3B	EBNA3B
+84473	C	A	EBNA3B	EBNA3B
+84480	A	T	EBNA3B	EBNA3B
+84485	A	C	EBNA3B	EBNA3B
+84486	G	T	EBNA3B	EBNA3B
+84504	C	T	EBNA3B	EBNA3B
+84506	A	G	EBNA3B	EBNA3B
+84522	G	A	EBNA3B	EBNA3B
+84523	C	A	EBNA3B	EBNA3B
+84525	A	G	EBNA3B	EBNA3B
+84527	A	T	EBNA3B	EBNA3B
+84529	C	A	EBNA3B	EBNA3B
+84537	C	T	EBNA3B	EBNA3B
+84539	T	C	EBNA3B	EBNA3B
+84543	C	T	EBNA3B	EBNA3B
+84544	C	T	EBNA3B	EBNA3B
+84563	G	A	EBNA3B	EBNA3B
+84594	C	A	EBNA3B	EBNA3B
+84597	A	T	EBNA3B	EBNA3B
+84599	T	A	EBNA3B	EBNA3B
+84604	G	A	EBNA3B	EBNA3B
+84605	C	G	EBNA3B	EBNA3B
+84610	C	A	EBNA3B	EBNA3B
+84620	A	G	EBNA3B	EBNA3B
+84622	G	C	EBNA3B	EBNA3B
+84623	A	C	EBNA3B	EBNA3B
+84625	T	C	EBNA3B	EBNA3B
+84629	T	C	EBNA3B	EBNA3B
+84638	T	A	EBNA3B	EBNA3B
+84644	T	C	EBNA3B	EBNA3B
+84648	T	C	EBNA3B	EBNA3B
+84654	G	C	EBNA3B	EBNA3B
+84675	A	G	EBNA3B	EBNA3B
+84681	T	C	EBNA3B	EBNA3B
+84682	G	C	EBNA3B	EBNA3B
+84684	A	G	EBNA3B	EBNA3B
+84685	G	C	EBNA3B	EBNA3B
+84686	T	A	EBNA3B	EBNA3B
+84697	A	C	EBNA3B	EBNA3B
+84698	G	A	EBNA3B	EBNA3B
+84725	T	A	EBNA3B	EBNA3B
+84732	A	C	EBNA3B	EBNA3B
+84742	G	T	EBNA3B	EBNA3B
+84747	C	G	EBNA3B	EBNA3B
+84755	G	C	EBNA3B	EBNA3B
+84767	T	A	EBNA3B	EBNA3B
+84773	G	C	EBNA3B	EBNA3B
+84782	G	A	EBNA3B	EBNA3B
+84789	G	A	EBNA3B	EBNA3B
+84804	T	C	EBNA3B	EBNA3B
+84805	T	A	EBNA3B	EBNA3B
+84808	A	T	EBNA3B	EBNA3B
+84821	A	T	EBNA3B	EBNA3B
+84837	T	C	EBNA3B	EBNA3B
+84848	C	T	EBNA3B	EBNA3B
+84851	A	G	EBNA3B	EBNA3B
+84852	C	A	EBNA3B	EBNA3B
+84860	A	C	EBNA3B	EBNA3B
+84864	C	T	EBNA3B	EBNA3B
+84871	C	T	EBNA3B	EBNA3B
+84897	T	C	EBNA3B	EBNA3B
+84898	A	C	EBNA3B	EBNA3B
+84906	G	A	EBNA3B	EBNA3B
+84912	A	G	EBNA3B	EBNA3B
+84916	T	C	EBNA3B	EBNA3B
+84917	G	A	EBNA3B	EBNA3B
+84939	G	T	EBNA3B	EBNA3B
+84940	G	A	EBNA3B	EBNA3B
+84941	T	C	EBNA3B	EBNA3B
+84942	T	C	EBNA3B	EBNA3B
+84945	G	C	EBNA3B	EBNA3B
+84962	A	G	EBNA3B	EBNA3B
+84965	A	G	EBNA3B	EBNA3B
+84974	A	C	EBNA3B	EBNA3B
+84983	G	T	EBNA3B	EBNA3B
+84985	C	G	EBNA3B	EBNA3B
+84998	C	A	EBNA3B	EBNA3B
+84999	T	A	EBNA3B	EBNA3B
+85005	A	G	EBNA3B	EBNA3B
+85023	C	A	EBNA3B	EBNA3B
+85039	A	C	EBNA3B	EBNA3B
+85043	G	A	EBNA3B	EBNA3B
+85065	C	A	EBNA3B	EBNA3B
+85066	C	T	EBNA3B	EBNA3B
+85076	A	C	EBNA3B	EBNA3B
+85078	C	G	EBNA3B	EBNA3B
+85084	G	A	EBNA3B	EBNA3B
+85102	A	C	EBNA3B	EBNA3B
+85110	A	G	EBNA3B	EBNA3B
+85116	A	G	EBNA3B	EBNA3B
+85117	A	C	EBNA3B	EBNA3B
+85118	T	C	EBNA3B	EBNA3B
+85119	A	C	EBNA3B	EBNA3B
+85122	A	T	EBNA3B	EBNA3B
+85123	C	T	EBNA3B	EBNA3B
+85124	C	T	EBNA3B	EBNA3B
+85125	A	C	EBNA3B	EBNA3B
+85129	A	C	EBNA3B	EBNA3B
+85132	C	T	EBNA3B	EBNA3B
+85149	A	G	EBNA3B	EBNA3B
+85170	T	C	EBNA3B	EBNA3B
+85171	A	C	EBNA3B	EBNA3B
+85172	C	G	EBNA3B	EBNA3B
+85191	C	T	EBNA3B	EBNA3B
+85197	G	C	EBNA3B	EBNA3B
+85198	T	C	EBNA3B	EBNA3B
+85199	T	G	EBNA3B	EBNA3B
+85202	G	C	EBNA3B	EBNA3B
+85216	G	A	EBNA3B	EBNA3B
+85228	A	C	EBNA3B	EBNA3B
+85236	G	A	EBNA3B	EBNA3B
+85239	A	G	EBNA3B	EBNA3B
+85255	T	C	EBNA3B	EBNA3B
+85257	A	G	EBNA3B	EBNA3B
+85264	G	C	EBNA3B	EBNA3B
+85268	T	G	EBNA3B	EBNA3B
+85278	T	A	EBNA3B	EBNA3B
+85281	C	G	EBNA3B	EBNA3B
+85283	G	T	EBNA3B	EBNA3B
+85313	C	T	EBNA3B	EBNA3B
+85317	A	G	EBNA3B	EBNA3B
+85320	T	A	EBNA3B	EBNA3B
+85328	T	G	EBNA3B	EBNA3B
+85332	G	A	EBNA3B	EBNA3B
+85340	C	A	EBNA3B	EBNA3B
+85373	C	T	EBNA3B	EBNA3B
+85377	A	G	EBNA3B	EBNA3B
+85380	T	A	EBNA3B	EBNA3B
+85388	T	G	EBNA3B	EBNA3B
+85391	T	C	EBNA3B	EBNA3B
+85392	G	A	EBNA3B	EBNA3B
+85398	T	C	EBNA3B	EBNA3B
+85399	C	G	EBNA3B	EBNA3B
+85411	G	T	EBNA3B	EBNA3B
+85415	T	C	EBNA3B	EBNA3B
+85422	T	A	EBNA3B	EBNA3B
+85424	C	T	EBNA3B	EBNA3B
+85426	G	A	EBNA3B	EBNA3B
+85428	T	C	EBNA3B	EBNA3B
+85431	T	C	EBNA3B	EBNA3B
+85435	C	A	EBNA3B	EBNA3B
+85443	G	A	EBNA3B	EBNA3B
+85444	A	G	EBNA3B	EBNA3B
+85452	A	C	EBNA3B	EBNA3B
+85456	T	C	EBNA3B	EBNA3B
+85464	A	G	EBNA3B	EBNA3B
+85487	A	G	EBNA3B	EBNA3B
+85488	A	T	EBNA3B	EBNA3B
+85509	A	T	EBNA3B	EBNA3B
+85510	C	A	EBNA3B	EBNA3B
+85515	C	T	EBNA3B	EBNA3B
+85544	G	T	EBNA3B	EBNA3B
+85547	A	G	EBNA3B	EBNA3B
+85548	G	A	EBNA3B	EBNA3B
+85563	C	T	EBNA3B	EBNA3B
+85566	C	A	EBNA3B	EBNA3B
+85569	C	G	EBNA3B	EBNA3B
+85570	A	G	EBNA3B	EBNA3B
+85574	A	C	EBNA3B	EBNA3B
+85590	G	A	EBNA3B	EBNA3B
+85594	A	G	EBNA3B	EBNA3B
+85602	C	T	EBNA3B	EBNA3B
+85611	T	C	EBNA3B	EBNA3B
+85612	T	C	EBNA3B	EBNA3B
+85614	G	A	EBNA3B	EBNA3B
+85626	G	A	EBNA3B	EBNA3B
+85633	G	T	EBNA3B	EBNA3B
+85640	G	T	EBNA3B	EBNA3B
+85648	C	T	EBNA3B	EBNA3B
+85652	C	A	EBNA3B	EBNA3B
+85657	A	G	EBNA3B	EBNA3B
+85669	G	A	EBNA3B	EBNA3B
+85699	A	G	EBNA3B	EBNA3B
+85711	G	T	EBNA3B	EBNA3B
+85712	G	T	EBNA3B	EBNA3B
+85715	T	G	EBNA3B	EBNA3B
+85726	C	T	EBNA3B	EBNA3B
+85734	C	T	EBNA3B	EBNA3B
+85755	A	G	EBNA3B	EBNA3B
+85757	C	T	EBNA3B	EBNA3B
+85763	T	A	EBNA3B	EBNA3B
+85764	C	A	EBNA3B	EBNA3B
+85765	G	A	EBNA3B	EBNA3B
+85774	A	C	EBNA3B	EBNA3B
+85781	C	G	EBNA3B	EBNA3B
+85783	G	A	EBNA3B	EBNA3B
+85787	T	C	EBNA3B	EBNA3B
+85794	C	T	EBNA3B	EBNA3B
+85801	G	C	EBNA3B	EBNA3B
+85806	G	A	EBNA3B	EBNA3B
+85813	C	T	EBNA3B	EBNA3B
+85816	G	A	EBNA3B	EBNA3B
+85817	T	C	EBNA3B	EBNA3B
+85824	C	G	EBNA3B	EBNA3B
+85826	T	G	EBNA3B	EBNA3B
+85837	G	A	EBNA3B	EBNA3B
+85845	G	A	EBNA3B	EBNA3B
+85877	C	A	EBNA3B	EBNA3B
+85891	G	A	EBNA3B	EBNA3B
+85903	C	A	EBNA3B	EBNA3B
+85950	C	T	EBNA3B	EBNA3B
+85964	G	A	intergenic	intergenic
+85965	C	A	intergenic	intergenic
+85969	T	C	intergenic	intergenic
+85994	G	C	intergenic	intergenic
+86000	A	T	intergenic	intergenic
+86058	A	C	intergenic	intergenic
+86101	C	G	EBNA3C	EBNA3C
+86114	G	T	EBNA3C	EBNA3C
+86124	C	T	EBNA3C	EBNA3C
+86132	A	C	EBNA3C	EBNA3C
+86143	A	G	EBNA3C	EBNA3C
+86153	C	A	EBNA3C	EBNA3C
+86157	C	T	EBNA3C	EBNA3C
+86160	C	T	EBNA3C	EBNA3C
+86167	G	A	EBNA3C	EBNA3C
+86168	A	T	EBNA3C	EBNA3C
+86178	T	C	EBNA3C	EBNA3C
+86191	C	T	EBNA3C	EBNA3C
+86194	T	A	EBNA3C	EBNA3C
+86197	A	G	EBNA3C	EBNA3C
+86199	T	C	EBNA3C	EBNA3C
+86212	A	G	EBNA3C	EBNA3C
+86221	C	G	EBNA3C	EBNA3C
+86230	T	C	EBNA3C	EBNA3C
+86232	A	G	EBNA3C	EBNA3C
+86233	T	G	EBNA3C	EBNA3C
+86247	G	A	EBNA3C	EBNA3C
+86250	A	G	EBNA3C	EBNA3C
+86251	C	T	EBNA3C	EBNA3C
+86253	T	C	EBNA3C	EBNA3C
+86254	T	C	EBNA3C	EBNA3C
+86262	A	G	EBNA3C	EBNA3C
+86265	C	A	EBNA3C	EBNA3C
+86325	T	C	EBNA3C	EBNA3C
+86328	C	A	EBNA3C	EBNA3C
+86351	C	T	EBNA3C	EBNA3C
+86370	A	G	EBNA3C	EBNA3C
+86376	G	T	EBNA3C	EBNA3C
+86388	C	T	EBNA3C	EBNA3C
+86401	A	G	EBNA3C	EBNA3C
+86402	C	T	EBNA3C	EBNA3C
+86421	T	C	EBNA3C	EBNA3C
+86432	G	A	EBNA3C	EBNA3C
+86448	T	C	EBNA3C	EBNA3C
+86519	A	C	EBNA3C	EBNA3C
+86561	G	T	EBNA3C	EBNA3C
+86577	A	C	EBNA3C	EBNA3C
+86641	C	T	EBNA3C	EBNA3C
+86642	G	A	EBNA3C	EBNA3C
+86648	C	A	EBNA3C	EBNA3C
+86654	G	T	EBNA3C	EBNA3C
+86675	A	G	EBNA3C	EBNA3C
+86689	A	G	EBNA3C	EBNA3C
+86697	C	T	EBNA3C	EBNA3C
+86711	T	C	EBNA3C	EBNA3C
+86783	A	G	EBNA3C	EBNA3C
+86800	C	G	EBNA3C	EBNA3C
+86806	G	T	EBNA3C	EBNA3C
+86808	A	G	EBNA3C	EBNA3C
+86811	C	A	EBNA3C	EBNA3C
+86825	T	C	EBNA3C	EBNA3C
+86839	C	T	EBNA3C	EBNA3C
+86848	A	C	EBNA3C	EBNA3C
+86894	A	G	EBNA3C	EBNA3C
+86926	A	T	EBNA3C	EBNA3C
+86938	A	T	EBNA3C	EBNA3C
+86973	A	G	EBNA3C	EBNA3C
+86985	T	A	EBNA3C	EBNA3C
+86990	C	G	EBNA3C	EBNA3C
+87052	A	G	EBNA3C	EBNA3C
+87054	C	T	EBNA3C	EBNA3C
+87057	G	T	EBNA3C	EBNA3C
+87146	G	A	EBNA3C	EBNA3C
+87167	C	A	EBNA3C	EBNA3C
+87179	C	A	EBNA3C	EBNA3C
+87187	G	T	EBNA3C	EBNA3C
+87199	T	G	EBNA3C	EBNA3C
+87232	A	G	EBNA3C	EBNA3C
+87266	T	C	EBNA3C	EBNA3C
+87275	C	T	EBNA3C	EBNA3C
+87296	C	T	EBNA3C	EBNA3C
+87311	C	A	EBNA3C	EBNA3C
+87344	T	C	EBNA3C	EBNA3C
+87353	G	A	EBNA3C	EBNA3C
+87394	C	T	EBNA3C	EBNA3C
+87397	A	G	EBNA3C	EBNA3C
+87409	A	C	EBNA3C	EBNA3C
+87416	T	G	EBNA3C	EBNA3C
+87422	C	T	EBNA3C	EBNA3C
+87425	G	A	EBNA3C	EBNA3C
+87454	A	T	EBNA3C	EBNA3C
+87467	T	C	EBNA3C	EBNA3C
+87468	G	T	EBNA3C	EBNA3C
+87480	A	G	EBNA3C	EBNA3C
+87494	A	G	EBNA3C	EBNA3C
+87522	G	A	EBNA3C	EBNA3C
+87528	T	C	EBNA3C	EBNA3C
+87535	T	A	EBNA3C	EBNA3C
+87537	A	C	EBNA3C	EBNA3C
+87555	C	A	EBNA3C	EBNA3C
+87557	G	A	EBNA3C	EBNA3C
+87563	G	A	EBNA3C	EBNA3C
+87565	T	C	EBNA3C	EBNA3C
+87568	A	G	EBNA3C	EBNA3C
+87571	T	G	EBNA3C	EBNA3C
+87573	C	T	EBNA3C	EBNA3C
+87577	T	C	EBNA3C	EBNA3C
+87590	T	C	EBNA3C	EBNA3C
+87591	C	G	EBNA3C	EBNA3C
+87601	C	G	EBNA3C	EBNA3C
+87604	T	A	EBNA3C	EBNA3C
+87609	A	G	EBNA3C	EBNA3C
+87612	C	G	EBNA3C	EBNA3C
+87614	G	T	EBNA3C	EBNA3C
+87618	C	T	EBNA3C	EBNA3C
+87620	A	C	EBNA3C	EBNA3C
+87621	G	T	EBNA3C	EBNA3C
+87630	A	C	EBNA3C	EBNA3C
+87638	G	A	EBNA3C	EBNA3C
+87647	T	G	EBNA3C	EBNA3C
+87671	G	A	EBNA3C	EBNA3C
+87674	C	T	EBNA3C	EBNA3C
+87684	G	A	EBNA3C	EBNA3C
+87719	T	G	EBNA3C	EBNA3C
+87725	G	A	EBNA3C	EBNA3C
+87731	G	A	EBNA3C	EBNA3C
+87732	T	A	EBNA3C	EBNA3C
+87742	A	G	EBNA3C	EBNA3C
+87760	A	C	EBNA3C	EBNA3C
+87770	C	A	EBNA3C	EBNA3C
+87804	G	A	EBNA3C	EBNA3C
+87805	C	T	EBNA3C	EBNA3C
+87813	A	C	EBNA3C	EBNA3C
+87815	C	A	EBNA3C	EBNA3C
+87827	G	T	EBNA3C	EBNA3C
+87830	T	C	EBNA3C	EBNA3C
+87831	A	G	EBNA3C	EBNA3C
+87843	G	T	EBNA3C	EBNA3C
+87846	G	A	EBNA3C	EBNA3C
+87847	T	C	EBNA3C	EBNA3C
+87848	G	C	EBNA3C	EBNA3C
+87849	G	A	EBNA3C	EBNA3C
+87856	C	G	EBNA3C	EBNA3C
+87859	C	T	EBNA3C	EBNA3C
+87861	G	A	EBNA3C	EBNA3C
+87862	C	T	EBNA3C	EBNA3C
+87865	G	C	EBNA3C	EBNA3C
+87873	G	T	EBNA3C	EBNA3C
+87876	G	A	EBNA3C	EBNA3C
+87878	G	C	EBNA3C	EBNA3C
+87886	C	G	EBNA3C	EBNA3C
+87889	C	T	EBNA3C	EBNA3C
+87891	G	A	EBNA3C	EBNA3C
+87892	C	T	EBNA3C	EBNA3C
+87895	G	C	EBNA3C	EBNA3C
+87897	C	A	EBNA3C	EBNA3C
+87903	G	T	EBNA3C	EBNA3C
+87906	G	A	EBNA3C	EBNA3C
+87908	G	C	EBNA3C	EBNA3C
+87916	C	G	EBNA3C	EBNA3C
+87919	C	A	EBNA3C	EBNA3C
+87921	G	A	EBNA3C	EBNA3C
+87922	C	T	EBNA3C	EBNA3C
+87925	G	C	EBNA3C	EBNA3C
+87933	G	T	EBNA3C	EBNA3C
+87936	G	A	EBNA3C	EBNA3C
+87938	G	C	EBNA3C	EBNA3C
+87961	T	C	EBNA3C	EBNA3C
+87966	G	A	EBNA3C	EBNA3C
+87968	T	C	EBNA3C	EBNA3C
+87976	C	G	EBNA3C	EBNA3C
+87999	A	G	EBNA3C	EBNA3C
+88011	G	A	EBNA3C	EBNA3C
+88014	C	G	EBNA3C	EBNA3C
+88023	A	G	EBNA3C	EBNA3C
+88024	T	A	EBNA3C	EBNA3C
+88025	A	C	EBNA3C	EBNA3C
+88035	C	A	EBNA3C	EBNA3C
+88045	G	A	EBNA3C	EBNA3C
+88054	T	C	EBNA3C	EBNA3C
+88064	A	C	EBNA3C	EBNA3C
+88066	A	T	EBNA3C	EBNA3C
+88071	C	A	EBNA3C	EBNA3C
+88087	G	C	EBNA3C	EBNA3C
+88089	A	G	EBNA3C	EBNA3C
+88090	A	C	EBNA3C	EBNA3C
+88096	A	G	EBNA3C	EBNA3C
+88098	T	A	EBNA3C	EBNA3C
+88118	T	C	EBNA3C	EBNA3C
+88121	T	C	EBNA3C	EBNA3C
+88127	A	T	EBNA3C	EBNA3C
+88128	A	G	EBNA3C	EBNA3C
+88129	T	C	EBNA3C	EBNA3C
+88131	A	C	EBNA3C	EBNA3C
+88133	A	C	EBNA3C	EBNA3C
+88134	C	A	EBNA3C	EBNA3C
+88139	G	T	EBNA3C	EBNA3C
+88160	C	A	EBNA3C	EBNA3C
+88162	T	A	EBNA3C	EBNA3C
+88167	T	C	EBNA3C	EBNA3C
+88169	C	A	EBNA3C	EBNA3C
+88179	C	T	EBNA3C	EBNA3C
+88185	A	C	EBNA3C	EBNA3C
+88191	C	T	EBNA3C	EBNA3C
+88195	C	A	EBNA3C	EBNA3C
+88204	C	T	EBNA3C	EBNA3C
+88211	A	T	EBNA3C	EBNA3C
+88216	G	A	EBNA3C	EBNA3C
+88217	C	T	EBNA3C	EBNA3C
+88219	C	T	EBNA3C	EBNA3C
+88224	T	C	EBNA3C	EBNA3C
+88228	T	C	EBNA3C	EBNA3C
+88229	G	A	EBNA3C	EBNA3C
+88230	A	G	EBNA3C	EBNA3C
+88244	G	T	EBNA3C	EBNA3C
+88254	A	C	EBNA3C	EBNA3C
+88257	G	C	EBNA3C	EBNA3C
+88261	G	T	EBNA3C	EBNA3C
+88262	T	A	EBNA3C	EBNA3C
+88274	T	C	EBNA3C	EBNA3C
+88289	A	G	EBNA3C	EBNA3C
+88304	C	T	EBNA3C	EBNA3C
+88335	G	A	EBNA3C	EBNA3C
+88349	A	G	EBNA3C	EBNA3C
+88364	C	T	EBNA3C	EBNA3C
+88365	G	A	EBNA3C	EBNA3C
+88366	T	C	EBNA3C	EBNA3C
+88370	T	A	EBNA3C	EBNA3C
+88371	G	A	EBNA3C	EBNA3C
+88375	A	T	EBNA3C	EBNA3C
+88376	A	G	EBNA3C	EBNA3C
+88382	T	C	EBNA3C	EBNA3C
+88390	C	A	EBNA3C	EBNA3C
+88392	C	T	EBNA3C	EBNA3C
+88393	C	T	EBNA3C	EBNA3C
+88399	A	C	EBNA3C	EBNA3C
+88400	G	T	EBNA3C	EBNA3C
+88404	T	C	EBNA3C	EBNA3C
+88405	A	G	EBNA3C	EBNA3C
+88407	C	G	EBNA3C	EBNA3C
+88412	G	T	EBNA3C	EBNA3C
+88414	C	T	EBNA3C	EBNA3C
+88417	C	A	EBNA3C	EBNA3C
+88422	C	A	EBNA3C	EBNA3C
+88438	A	C	EBNA3C	EBNA3C
+88446	C	G	EBNA3C	EBNA3C
+88454	G	A	EBNA3C	EBNA3C
+88456	C	G	EBNA3C	EBNA3C
+88472	A	T	EBNA3C	EBNA3C
+88474	A	T	EBNA3C	EBNA3C
+88477	A	C	EBNA3C	EBNA3C
+88478	G	C	EBNA3C	EBNA3C
+88481	A	T	EBNA3C	EBNA3C
+88483	A	C	EBNA3C	EBNA3C
+88487	G	A	EBNA3C	EBNA3C
+88490	G	T	EBNA3C	EBNA3C
+88493	G	A	EBNA3C	EBNA3C
+88494	C	T	EBNA3C	EBNA3C
+88495	C	A	EBNA3C	EBNA3C
+88496	G	T	EBNA3C	EBNA3C
+88498	C	T	EBNA3C	EBNA3C
+88499	C	G	EBNA3C	EBNA3C
+88500	C	T	EBNA3C	EBNA3C
+88506	C	G	EBNA3C	EBNA3C
+88507	T	G	EBNA3C	EBNA3C
+88513	C	T	EBNA3C	EBNA3C
+88514	A	G	EBNA3C	EBNA3C
+88522	A	G	EBNA3C	EBNA3C
+88529	A	T	EBNA3C	EBNA3C
+88535	G	A	EBNA3C	EBNA3C
+88545	A	C	EBNA3C	EBNA3C
+88548	C	T	EBNA3C	EBNA3C
+88550	A	G	EBNA3C	EBNA3C
+88554	T	C	EBNA3C	EBNA3C
+88566	T	A	EBNA3C	EBNA3C
+88568	T	A	EBNA3C	EBNA3C
+88578	C	A	EBNA3C	EBNA3C
+88582	G	T	EBNA3C	EBNA3C
+88587	C	T	EBNA3C	EBNA3C
+88588	C	T	EBNA3C	EBNA3C
+88589	A	G	EBNA3C	EBNA3C
+88593	T	C	EBNA3C	EBNA3C
+88597	A	G	EBNA3C	EBNA3C
+88601	T	A	EBNA3C	EBNA3C
+88604	T	C	EBNA3C	EBNA3C
+88605	G	A	EBNA3C	EBNA3C
+88606	T	G	EBNA3C	EBNA3C
+88617	A	T	EBNA3C	EBNA3C
+88619	C	T	EBNA3C	EBNA3C
+88625	T	C	EBNA3C	EBNA3C
+88632	G	A	EBNA3C	EBNA3C
+88634	T	A	EBNA3C	EBNA3C
+88638	A	T	EBNA3C	EBNA3C
+88641	G	T	EBNA3C	EBNA3C
+88644	C	G	EBNA3C	EBNA3C
+88718	A	T	EBNA3C	EBNA3C
+88753	T	C	EBNA3C	EBNA3C
+88784	A	G	EBNA3C	EBNA3C
+88880	T	C	EBNA3C	EBNA3C
+88965	A	C	EBNA3C	EBNA3C
+88979	G	T	EBNA3C	EBNA3C
+89009	T	C	EBNA3C	EBNA3C
+89031	G	T	EBNA3C	EBNA3C
+89051	C	T	EBNA3C	EBNA3C
+89084	G	A	EBNA3C	EBNA3C
+89087	C	T	EBNA3C	EBNA3C
+89090	G	A	EBNA3C	EBNA3C
+89105	C	T	EBNA3C	EBNA3C
+89489	A	G	BZLF2	BZLF2
+89491	C	T	BZLF2	BZLF2
+89517	G	T	BZLF2	BZLF2
+89555	G	T	BZLF2	BZLF2
+89568	T	C	BZLF2	BZLF2
+89603	C	T	BZLF2	BZLF2
+89712	G	T	BZLF2	BZLF2
+89715	T	C	BZLF2	BZLF2
+89717	C	A	BZLF2	BZLF2
+89820	T	C	BZLF2	BZLF2
+89851	G	A	intergenic	intergenic
+90047	C	A	BZLF1	BZLF1
+90099	A	C	BZLF1	BZLF1
+90101	G	A	BZLF1	BZLF1
+90102	C	T	BZLF1	BZLF1
+90108	G	A	BZLF1	BZLF1
+90126	G	C	BZLF1	BZLF1
+90128	A	G	BZLF1	BZLF1
+90159	T	A	BZLF1	BZLF1
+90216	T	A	BZLF1	BZLF1
+90231	G	A	BZLF1	BZLF1
+90294	A	G	BZLF1	BZLF1
+90303	A	G	BZLF1	BZLF1
+90320	C	T	BZLF1	BZLF1
+90321	A	T	BZLF1	BZLF1
+90344	C	A	BZLF1	BZLF1
+90350	C	T	BZLF1	BZLF1
+90361	C	T	BZLF1	BZLF1
+90380	T	A	BZLF1	BZLF1
+90390	G	T	BZLF1	BZLF1
+90394	G	A	BZLF1	BZLF1
+90413	A	G	BZLF1	BZLF1
+90431	A	G	BZLF1	BZLF1
+90472	G	A	BZLF1	BZLF1
+90498	T	G	BZLF1	BZLF1
+90574	G	T	BZLF1	BZLF1
+90586	C	T	BZLF1	BZLF1
+90642	A	G	BZLF1	BZLF1
+90658	C	T	BZLF1	BZLF1
+90666	T	C	BZLF1	BZLF1
+90685	T	G	BZLF1	BZLF1
+90748	C	T	BZLF1	BZLF1
+91006	A	C	intergenic	intergenic
+91012	T	C	intergenic	intergenic
+91047	T	C	intergenic	intergenic
+91271	C	T	BRLF1	BRLF1
+91366	T	C	BRLF1	BRLF1
+91430	T	C	BRLF1	BRLF1
+91438	C	T	BRLF1	BRLF1
+91766	G	T	BRLF1	BRLF1
+93894	G	T	intergenic	intergenic
+94866	C	A	BRRF2	BRRF2
+94901	T	G	BRRF2	BRRF2
+94951	A	G	BRRF2	BRRF2
+94981	G	A	BRRF2	BRRF2
+94987	C	T	BRRF2	BRRF2
+95012	C	T	BRRF2	BRRF2
+95013	G	A	BRRF2	BRRF2
+95051	G	A	BRRF2	BRRF2
+95171	A	G	BRRF2	BRRF2
+95302	T	C	BRRF2	BRRF2
+95401	A	C	BRRF2	BRRF2
+95405	G	T	BRRF2	BRRF2
+95435	C	T	BRRF2	BRRF2
+95442	C	T	BRRF2	BRRF2
+95459	G	A	BRRF2	BRRF2
+95622	G	A	BRRF2	BRRF2
+95676	G	A	EBNA1	EBNA1
+95707	G	C	EBNA1	EBNA1
+95714	G	A	EBNA1	EBNA1
+95733	A	C	EBNA1	EBNA1
+95740	G	A	EBNA1	EBNA1
+95769	T	G	EBNA1	EBNA1
+95829	C	T	EBNA1	EBNA1
+95914	A	G	EBNA1	EBNA1
+95946	G	A	EBNA1	EBNA1
+96003	G	A	EBNA1	EBNA1
+96120	G	A	EBNA1	EBNA1
+96155	G	C	EBNA1	EBNA1
+96156	G	A	EBNA1	EBNA1
+96158	C	G	EBNA1	EBNA1
+96236	G	C	EBNA1	EBNA1
+96237	G	A	EBNA1	EBNA1
+96239	C	G	EBNA1	EBNA1
+96294	A	C	EBNA1	EBNA1
+96309	A	C	EBNA1	EBNA1
+96338	G	C	EBNA1	EBNA1
+96339	G	A	EBNA1	EBNA1
+96341	C	G	EBNA1	EBNA1
+96792	A	T	EBNA1	EBNA1
+96890	G	C	EBNA1	EBNA1
+96946	G	A	EBNA1	EBNA1
+97055	T	A	EBNA1	EBNA1
+97072	C	G	EBNA1	EBNA1
+97085	A	G	EBNA1	EBNA1
+97088	C	A	EBNA1	EBNA1
+97120	G	C	EBNA1	EBNA1
+97121	C	T	EBNA1	EBNA1
+97135	A	T	EBNA1	EBNA1
+97158	C	G	EBNA1	EBNA1
+97161	A	T	EBNA1	EBNA1
+97166	C	A	EBNA1	EBNA1
+97221	A	C	EBNA1	EBNA1
+97232	C	T	EBNA1	EBNA1
+97235	C	G	EBNA1	EBNA1
+97320	G	A	EBNA1	EBNA1
+97350	G	T	EBNA1	EBNA1
+97382	T	G	EBNA1	EBNA1
+97411	A	T	EBNA1	EBNA1
+97414	A	C	EBNA1	EBNA1
+97442	G	A	EBNA1	EBNA1
+97676	G	A	BKRF2	BKRF2
+97698	T	C	BKRF2	BKRF2
+98148	G	C	BKRF3	BKRF3
+98235	C	A	BKRF3	BKRF3
+98244	T	A	BKRF3	BKRF3
+98262	A	G	BKRF3	BKRF3
+98377	G	A	BKRF3	BKRF3
+98397	T	C	BKRF3	BKRF3
+98439	C	T	BKRF3	BKRF3
+99851	T	C	BBLF4	BBLF4
+100129	C	T	BBLF4	BBLF4
+100304	G	A	BBLF4	BBLF4
+100433	T	G	BBLF4	BBLF4
+100589	C	T	BBLF4	BBLF4
+100601	G	C	BBLF4	BBLF4
+100640	G	A	BBLF4	BBLF4
+100652	G	T	BBLF4	BBLF4
+100748	C	A	BBLF4	BBLF4
+100778	A	C	BBLF4	BBLF4
+100841	G	A	BBLF4	BBLF4
+100856	A	G	BBLF4	BBLF4
+100886	A	G	BBLF4	BBLF4
+100957	C	T	BBLF4	BBLF4
+101291	A	G	BBLF4	BBLF4
+101453	G	T	BBLF4	BBLF4
+101521	G	T	BBLF4	BBLF4
+101803	G	T	BBLF4	BBLF4
+101862	C	T	BBLF4	BBLF4
+101954	C	T	BBLF4	BBLF4,BBRF1
+101978	T	G	BBRF1	BBRF1
+102068	C	T	BBRF1	BBRF1
+102455	C	T	BBRF1	BBRF1
+102502	A	G	BBRF1	BBRF1
+102573	A	G	BBRF1	BBRF1
+102686	C	A	BBRF1	BBRF1
+102989	A	G	BBRF1	BBRF1
+102995	A	G	BBRF1	BBRF1
+103695	A	G	BBRF1	BBRF1,BBRF2
+106688	A	G	helicase-primase subunit	helicase-primase subunit
+106891	G	T	BBRF3	BBRF3
+107223	A	G	BBRF3	BBRF3
+107367	C	T	BBRF3	BBRF3
+107458	G	A	BBRF3	BBRF3
+107593	A	G	BBRF3	BBRF3
+107604	C	A	BBRF3	BBRF3
+107793	G	A	BBRF3	BBRF3
+108013	G	A	BBRF3	BBRF3
+109819	T	G	BGLF5	BGLF5
+109894	T	C	BGLF5	BGLF5
+109917	A	T	BGLF5	BGLF5
+111506	T	C	BGLF3.5	BGLF3.5
+112088	T	C	BGLF3	BGLF3
+112100	C	T	BGLF3	BGLF3
+112112	G	A	BGLF3	BGLF3
+112202	T	A	BGLF3	BGLF3
+112349	A	C	BGLF3	BGLF3
+112388	G	A	BGLF3	BGLF3
+112703	T	G	DNA packaging terminase subunit 1	DNA packaging terminase subunit 1
+112712	C	T	DNA packaging terminase subunit 1	DNA packaging terminase subunit 1
+112763	A	G	DNA packaging terminase subunit 1	DNA packaging terminase subunit 1
+112919	T	C	DNA packaging terminase subunit 1	DNA packaging terminase subunit 1
+112994	A	C	DNA packaging terminase subunit 1	DNA packaging terminase subunit 1
+113264	A	G	DNA packaging terminase subunit 1	DNA packaging terminase subunit 1
+113719	A	G	BGLF2	BGLF2,DNA packaging terminase subunit 1
+113860	C	T	BGLF2	BGLF2,DNA packaging terminase subunit 1
+114217	A	T	BGLF2	BGLF2,DNA packaging terminase subunit 1
+114250	T	G	BGLF2	BGLF2,DNA packaging terminase subunit 1
+114758	C	G	BGLF1	BGLF1,DNA packaging terminase subunit 1
+115591	C	T	BGLF1	BGLF1,DNA packaging terminase subunit 1
+115691	A	C	BGLF1	BGLF1,DNA packaging terminase subunit 1
+115832	A	C	BGLF1	BGLF1,DNA packaging terminase subunit 1
+116808	A	G	BDLF3.5	BDLF3.5,DNA packaging terminase subunit 1
+116876	C	G	BDLF3.5	BDLF3.5,DNA packaging terminase subunit 1
+116887	C	G	BDLF3.5	BDLF3.5,DNA packaging terminase subunit 1
+116902	C	A	BDLF3.5	BDLF3.5,DNA packaging terminase subunit 1
+117232	C	T	DNA packaging terminase subunit 1	DNA packaging terminase subunit 1
+117796	C	A	DNA packaging terminase subunit 1	DNA packaging terminase subunit 1
+118379	A	T	BDLF3	BDLF3
+118531	A	G	BDLF3	BDLF3
+118560	A	G	BDLF3	BDLF3
+118587	A	G	BDLF3	BDLF3
+118710	A	G	BDLF3	BDLF3
+118745	T	G	BDLF3	BDLF3
+118746	A	G	BDLF3	BDLF3
+120321	G	A	BDLF1	BDLF1
+121861	A	C	BcLF1	BcLF1
+122482	A	G	BcLF1	BcLF1
+122490	C	T	BcLF1	BcLF1
+122491	A	G	BcLF1	BcLF1
+122611	G	T	BcLF1	BcLF1
+122635	G	A	BcLF1	BcLF1
+122725	T	C	BcLF1	BcLF1
+123028	A	T	BcLF1	BcLF1
+123228	A	C	BcLF1	BcLF1
+123493	A	G	BcLF1	BcLF1
+124273	A	G	BcLF1	BcLF1
+124579	G	A	BcLF1	BcLF1
+124618	A	G	BcLF1	BcLF1
+125082	A	G	BcLF1	BcLF1
+125089	A	G	BcLF1	BcLF1
+125273	A	G	BcRF1	BcRF1
+125365	G	T	BcRF1	BcRF1
+125389	G	A	BcRF1	BcRF1
+125413	C	T	BcRF1	BcRF1
+125574	A	G	BcRF1	BcRF1
+125688	G	A	BcRF1	BcRF1
+125719	T	G	BcRF1	BcRF1
+125890	T	C	BcRF1	BcRF1
+126064	C	T	BcRF1	BcRF1
+126094	T	C	BcRF1	BcRF1
+126098	T	G	BcRF1	BcRF1
+126125	T	G	BcRF1	BcRF1
+126136	G	A	BcRF1	BcRF1
+126172	G	C	BcRF1	BcRF1
+126173	C	A	BcRF1	BcRF1
+126174	G	T	BcRF1	BcRF1
+126187	G	T	BcRF1	BcRF1
+126232	A	G	BcRF1	BcRF1
+126271	A	G	BcRF1	BcRF1
+126375	C	T	BcRF1	BcRF1
+126427	C	T	BcRF1	BcRF1
+126682	G	A	BcRF1	BcRF1
+126819	G	A	BcRF1	BcRF1
+126882	A	G	BcRF1	BcRF1
+127195	G	T	BcRF1	BcRF1
+127598	A	G	BTRF1	BTRF1
+127616	G	A	BTRF1	BTRF1
+128037	A	G	BTRF1	BTRF1
+129101	A	G	BXLF2	BXLF2
+129200	C	A	BXLF2	BXLF2
+129249	G	A	BXLF2	BXLF2
+129338	T	C	BXLF2	BXLF2
+129644	A	C	BXLF2	BXLF2
+129656	C	A	BXLF2	BXLF2
+129688	T	C	BXLF2	BXLF2
+129836	A	G	BXLF2	BXLF2
+129905	C	T	BXLF2	BXLF2
+130159	C	T	BXLF2	BXLF2
+130691	G	A	BXLF2	BXLF2
+131496	G	A	BXLF1	BXLF1
+131751	T	C	BXLF1	BXLF1
+131776	A	G	BXLF1	BXLF1
+131901	G	A	BXLF1	BXLF1
+132036	G	A	BXLF1	BXLF1
+132183	G	T	BXLF1	BXLF1
+132246	C	T	BXLF1	BXLF1
+132393	G	T	BXLF1	BXLF1
+132399	G	A	BXLF1	BXLF1
+132429	A	G	BXLF1	BXLF1
+132585	G	A	BXRF1	BXRF1
+132606	A	G	BXRF1	BXRF1
+132633	T	C	BXRF1	BXRF1
+132673	C	A	BXRF1	BXRF1
+132717	G	A	BXRF1	BXRF1
+132756	A	G	BXRF1	BXRF1
+132830	A	C	BXRF1	BXRF1
+132831	T	C	BXRF1	BXRF1
+133780	G	A	BVRF1	BVRF1
+134158	G	A	BVRF1	BVRF1
+134200	T	C	BVRF1	BVRF1
+134425	C	T	BVRF1	BVRF1
+134665	G	A	BVRF1	BVRF1
+134887	C	G	BVLF1	BVLF1
+135061	A	G	BVLF1	BVLF1
+135403	T	C	BVLF1	BVLF1
+135408	A	G	BVLF1	BVLF1
+135673	C	T	BVRF2	BVRF2
+135867	A	T	BVRF2	BVRF2
+135950	G	T	BVRF2	BVRF2
+136252	A	C	BVRF2	BVRF2
+136348	C	T	BVRF2	BVRF2
+136413	C	A	BVRF2	BVRF2
+136933	C	T	BVRF2	BVRF2,BdRF1
+136975	T	C	BVRF2	BVRF2,BdRF1
+137081	T	C	BVRF2	BVRF2,BdRF1
+137799	G	C	BILF2	BILF2
+137883	T	C	BILF2	BILF2
+138283	T	C	intergenic	intergenic
+138577	T	G	intergenic	intergenic
+138580	A	C	intergenic	intergenic
+138624	G	A	intergenic	intergenic
+138699	G	T	intergenic	intergenic
+138723	T	C	intergenic	intergenic
+138987	C	A	intergenic	intergenic
+139026	T	C	intergenic	intergenic
+139070	T	C	intergenic	intergenic
+139209	G	C	intergenic	intergenic
+139600	A	G	intergenic	intergenic
+139640	T	C	intergenic	intergenic
+139650	T	C	intergenic	intergenic
+139654	A	C	intergenic	intergenic
+140327	A	C	intergenic	intergenic
+140347	G	A	intergenic	intergenic
+140381	G	T	intergenic	intergenic
+140518	T	C	intergenic	intergenic
+140560	T	C	intergenic	intergenic
+140591	G	T	LF3	LF3
+140601	T	G	LF3	LF3
+140663	T	C	LF3	LF3
+140735	T	C	LF3	LF3
+140829	C	T	LF3	LF3
+140929	G	C	LF3	LF3
+143282	A	G	LF3	LF3
+143283	T	G	LF3	LF3
+143289	T	G	LF3	LF3
+143450	C	T	intergenic	intergenic
+143505	C	T	intergenic	intergenic
+143565	G	C	intergenic	intergenic
+143631	T	A	intergenic	intergenic
+143690	G	A	intergenic	intergenic
+144170	A	G	intergenic	intergenic
+144348	C	A	intergenic	intergenic
+144871	G	A	intergenic	intergenic
+144997	G	C	intergenic	intergenic
+145076	T	A	intergenic	intergenic
+145337	G	A	intergenic	intergenic
+145493	A	G	intergenic	intergenic
+145539	T	C	intergenic	intergenic
+145589	C	A	intergenic	intergenic
+145602	G	A	intergenic	intergenic
+145624	T	G	intergenic	intergenic
+145648	G	T	intergenic	intergenic
+145696	A	G	intergenic	intergenic
+145698	A	G	intergenic	intergenic
+145738	C	T	intergenic	intergenic
+146031	G	A	intergenic	intergenic
+146116	G	A	intergenic	intergenic
+146144	A	G	intergenic	intergenic
+146188	T	A	intergenic	intergenic
+146242	A	G	intergenic	intergenic
+146260	A	T	intergenic	intergenic
+146300	G	A	intergenic	intergenic
+146304	T	C	intergenic	intergenic
+146317	G	T	intergenic	intergenic
+146360	T	G	intergenic	intergenic
+146399	G	T	intergenic	intergenic
+146466	A	T	intergenic	intergenic
+146558	C	T	intergenic	intergenic
+146594	C	G	intergenic	intergenic
+146691	C	T	intergenic	intergenic
+146752	C	T	intergenic	intergenic
+148484	T	C	intergenic	intergenic
+148628	T	A	intergenic	intergenic
+149635	T	G	LF2	LF2
+149794	G	A	LF2	LF2
+150022	A	G	LF2	LF2
+150028	G	A	LF2	LF2
+150172	G	A	LF2	LF2
+150675	A	G	LF1	LF1,RPMS1
+150750	C	T	LF1	LF1,RPMS1
+150754	G	A	LF1	LF1,RPMS1
+150981	C	T	LF1	LF1,RPMS1
+151110	G	A	LF1	LF1,RPMS1
+151140	G	T	LF1	LF1,RPMS1
+151207	G	A	LF1	LF1,RPMS1
+151644	T	C	LF1	LF1,RPMS1
+151671	C	A	LF1	LF1,RPMS1
+151701	A	G	RPMS1	RPMS1
+151822	A	G	BILF1	BILF1,RPMS1
+151943	A	G	BILF1	BILF1,RPMS1
+152024	A	G	BILF1	BILF1,RPMS1
+152245	T	G	BILF1	BILF1,RPMS1
+152612	G	A	BILF1	BILF1,RPMS1
+153961	A	C	BALF5	BALF5,RPMS1
+154078	C	T	BALF5	BALF5,RPMS1
+154387	T	C	BALF5	BALF5,RPMS1
+154939	G	A	BALF5	BALF5,RPMS1
+154972	G	T	BALF5	BALF5,RPMS1
+155326	G	A	BALF5	BALF5,RPMS1
+155389	C	T	BALF5	BALF5,RPMS1
+157359	T	G	A73	A73,BALF4
+157428	A	G	A73	A73,BALF4
+157467	G	A	A73	A73,BALF4
+157535	T	C	A73	A73,BALF4
+157557	G	A	A73	A73,BALF4
+157578	A	G	A73	A73,BALF4
+157598	G	A	A73	A73,BALF4
+157619	A	G	A73	A73,BALF4
+157626	T	G	A73	A73,BALF4
+158016	C	G	A73	A73,BALF4
+158808	A	G	A73	A73,BALF4
+158947	G	C	A73	A73,BALF3
+159208	T	C	A73	A73,BALF3,BARF0
+159220	G	A	A73	A73,BALF3,BARF0
+159760	C	G	A73	A73,BALF3,BARF0
+159910	G	A	BALF3	BALF3,BARF0
+159960	C	G	BALF3	BALF3,BARF0
+160087	C	T	BALF3	BALF3,BARF0
+160243	C	A	BALF3	BALF3,BARF0
+160249	G	C	BALF3	BALF3,BARF0
+160621	A	G	BALF3	BALF3
+160804	C	T	BALF3	BALF3
+160842	T	C	BALF3	BALF3
+161119	T	C	BALF2	BALF2
+161640	G	A	BALF2	BALF2
+162675	T	C	BALF2	BALF2
+162885	G	A	BALF2	BALF2
+162963	A	G	BALF2	BALF2
+163458	T	C	BALF2	BALF2
+163482	T	G	BALF2	BALF2
+163869	C	A	BALF2	BALF2
+163916	T	C	BALF2	BALF2
+163953	C	T	BALF2	BALF2
+164148	G	A	BALF2	BALF2
+165736	T	C	intergenic	intergenic
+165749	T	G	intergenic	intergenic
+165939	G	C	intergenic	intergenic
+165953	C	T	intergenic	intergenic
+165965	T	C	intergenic	intergenic
+166169	T	G	LMP2A	LMP2A
+166625	A	C	BNLF2b	BNLF2b,LMP2A
+167217	C	A	LMP2A	LMP2A
+167377	T	C	LMP2A	LMP2A
+167489	T	G	LMP2A	LMP2A
+167767	A	T	LMP1	LMP1,LMP2A
+167850	A	G	LMP1	LMP1,LMP2A
+167862	T	C	LMP1	LMP1,LMP2A
+167897	T	A	LMP1	LMP1,LMP2A
+167899	G	T	LMP1	LMP1,LMP2A
+167903	A	T	LMP1	LMP1,LMP2A
+167937	C	T	LMP1	LMP1,LMP2A
+167970	T	G	LMP1	LMP1,LMP2A
+168177	C	G	LMP1	LMP1,LMP2A
+168320	T	C	LMP1	LMP1,LMP2A
+168383	T	C	LMP1	LMP1,LMP2A
+168476	C	A	LMP1	LMP1,LMP2A
+168499	T	G	LMP1	LMP1,LMP2A
+168564	T	C	LMP1	LMP1,LMP2A
+168622	A	T	LMP1	LMP1,LMP2A
+168764	T	G	LMP1	LMP1,LMP2A
+168834	C	T	LMP1	LMP1,LMP2A
+169131	C	G	LMP2A	LMP2A
+169215	G	A	LMP2A	LMP2A
+169241	T	A	LMP2A	LMP2A
+169290	C	G	LMP2A	LMP2A
+169385	C	T	LMP2A	LMP2A
+169687	T	C	LMP2A	LMP2A
+169702	C	T	LMP2A	LMP2A
+169726	T	A	LMP2A	LMP2A
+169793	G	T	LMP2A	LMP2A
+169795	A	G	LMP2A	LMP2A
+169801	C	A	LMP2A	LMP2A
+169807	T	A	LMP2A	LMP2A
+169827	C	A	LMP2A	LMP2A
+169831	C	G	LMP2A	LMP2A
+169832	G	C	LMP2A	LMP2A
+169833	G	C	LMP2A	LMP2A
+169853	T	C	LMP2A	LMP2A
+169856	T	G	LMP2A	LMP2A
+169863	G	A	LMP2A	LMP2A
+169879	T	C	LMP2A	LMP2A
+169979	G	C	LMP2A	LMP2A
+169986	C	G	LMP2A	LMP2A
+170013	A	C	LMP2A	LMP2A
+170021	A	G	LMP2A	LMP2A
+170022	T	C	LMP2A	LMP2A
+170109	C	G	LMP2A	LMP2A
+170110	G	C	LMP2A	LMP2A
+170123	G	A	LMP2A	LMP2A
+170178	G	C	LMP2A	LMP2A
+170225	T	C	LMP2A	LMP2A
+170240	C	T	LMP2A	LMP2A
+170264	T	A	LMP2A	LMP2A
+170331	G	T	LMP2A	LMP2A
+170333	A	G	LMP2A	LMP2A
+170339	C	A	LMP2A	LMP2A
+170345	T	A	LMP2A	LMP2A
+170365	C	A	LMP2A	LMP2A
+170369	C	G	LMP2A	LMP2A
+170370	G	C	LMP2A	LMP2A
+170371	G	C	LMP2A	LMP2A
+170391	T	C	LMP2A	LMP2A
+170394	T	G	LMP2A	LMP2A
+170401	G	A	LMP2A	LMP2A
+170417	T	C	LMP2A	LMP2A
+170517	G	C	LMP2A	LMP2A
+170524	C	G	LMP2A	LMP2A
+170551	A	C	LMP2A	LMP2A
+170559	A	G	LMP2A	LMP2A
+170560	T	C	LMP2A	LMP2A
+170647	C	G	LMP2A	LMP2A
+170648	G	C	LMP2A	LMP2A
+170661	G	A	LMP2A	LMP2A
+170697	T	G	LMP2A	LMP2A
+170705	G	C	LMP2A	LMP2A
+170748	T	C	LMP2A	LMP2A
+170763	C	T	LMP2A	LMP2A
+170787	T	A	LMP2A	LMP2A
+170854	G	T	LMP2A	LMP2A
+170856	A	G	LMP2A	LMP2A
+170862	C	A	LMP2A	LMP2A
+170868	T	A	LMP2A	LMP2A
+170888	C	A	LMP2A	LMP2A
+170892	C	G	LMP2A	LMP2A
+170893	G	C	LMP2A	LMP2A
+170894	G	C	LMP2A	LMP2A
+170914	T	C	LMP2A	LMP2A
+170917	T	G	LMP2A	LMP2A
+170924	G	A	LMP2A	LMP2A
+170940	T	C	LMP2A	LMP2A
+171040	G	C	LMP2A	LMP2A
+171047	C	G	LMP2A	LMP2A
+171074	A	C	LMP2A	LMP2A
+171082	A	G	LMP2A	LMP2A
+171083	T	C	LMP2A	LMP2A
+171170	C	G	LMP2A	LMP2A
+171171	G	C	LMP2A	LMP2A
+171184	G	A	LMP2A	LMP2A
